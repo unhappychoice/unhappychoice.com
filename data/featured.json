@@ -48,7 +48,7 @@
   },
   {
     "repo": "bitflyer-tools/cycle-flyer",
-    "text": "TODO",
+    "text": "A web trading client for bitFlyer Lightning's futures market, built as a Cycle.js single-page app. Real-time market data and execution feeds arrive over WebSocket, flow through xstream streams, and update the order book, ticker and position panels. Order entry and cancellation are issued against the same API the official UI uses.\n\nWhere most trading UIs are written in React or Vue, cycle-flyer is fully reactive in the Cycle.js sense: every component is a function from streams of input events to streams of DOM and HTTP requests, with no mutable state in user code. Cycle drivers handle DOM, HTTP, history, persisted local storage and the WebSocket connection.",
     "links": []
   },
   {
