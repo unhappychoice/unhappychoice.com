@@ -143,7 +143,7 @@ li {
   padding: 4px 12px;
   font-size: 13px;
   border: 1px solid rgba(0,0,0,0.16);
-  border-radius: 999px;
+
   background: #FDFDFD;
   color: rgba(0,0,0,0.72);
   cursor: pointer;
@@ -179,7 +179,7 @@ li {
   flex-direction: row;
   height: 137px;
   border: 1px solid rgba(0,0,0,0.12);
-  border-radius: 6px;
+
   overflow: hidden;
   background: #FDFDFD;
   transition: box-shadow 0.1s ease-in-out;
@@ -250,7 +250,7 @@ li {
   font-size: 10px;
   background: #F2F6F8;
   color: rgba(0,0,0,0.64);
-  border-radius: 999px;
+
 }
 
 .repo-card__stars {
@@ -285,7 +285,7 @@ li {
 .repo-card__story code {
   padding: 1px 4px;
   background: #F2F6F8;
-  border-radius: 3px;
+
   font-size: 11px;
 }
 
@@ -351,7 +351,7 @@ li {
 .event-item__text code {
   padding: 1px 4px;
   background: #F2F6F8;
-  border-radius: 3px;
+
   font-size: 12px;
 }
 
@@ -383,7 +383,7 @@ li {
   padding: 16px;
   text-align: center;
   background: #F2F6F8;
-  border-radius: 6px;
+
 }
 
 .stats-tile__value {
@@ -423,7 +423,7 @@ li {
 .stats-bar__track {
   height: 6px;
   background: rgba(0,0,0,0.06);
-  border-radius: 3px;
+
   overflow: hidden;
 }
 
