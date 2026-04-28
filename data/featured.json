@@ -23,7 +23,7 @@
   },
   {
     "repo": "circleci-tools/circleci-cli",
-    "text": "TODO",
+    "text": "A Ruby CLI for CircleCI that collapses the CI dashboard into a handful of commands. Run `circleci-cli watch` from any project directory to stream the current branch's build live in the terminal, `retry --last` to rerun the most recent failure, `browse` to open the project page, or `build --last` to inspect the latest result. Branch and project are inferred from the current Git remote so you rarely pass arguments.\n\nBuilt in 2016, before CircleCI shipped its own CLI, with the goal of keeping the \"push → watch → diagnose → retry\" loop entirely inside the terminal.",
     "links": []
   },
   {
