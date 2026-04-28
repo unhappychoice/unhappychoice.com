@@ -24,10 +24,20 @@
     rerender();
   };
 
-  const HIDDEN_LANGS = new Set(['HTML']);
+  const HIDDEN_LANGS = new Set(['HTML', 'Shell']);
+  const LANG_ORDER = ['TypeScript', 'Rust', 'Ruby', 'Kotlin', 'Swift'];
 
-  const uniqueLanguages = (repos) =>
-    [...new Set(repos.map((r) => r.language).filter((l) => l && !HIDDEN_LANGS.has(l)))].sort();
+  const uniqueLanguages = (repos) => {
+    const langs = [...new Set(repos.map((r) => r.language).filter((l) => l && !HIDDEN_LANGS.has(l)))];
+    return langs.sort((a, b) => {
+      const ai = LANG_ORDER.indexOf(a);
+      const bi = LANG_ORDER.indexOf(b);
+      if (ai !== -1 && bi !== -1) return ai - bi;
+      if (ai !== -1) return -1;
+      if (bi !== -1) return 1;
+      return a.localeCompare(b);
+    });
+  };
 
   const renderFilter = (languages) => {
     if (!filterRoot) return;
