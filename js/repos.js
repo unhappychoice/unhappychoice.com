@@ -210,6 +210,7 @@
         <div class="modal__links">
           ${links.map((l) => `<a href="${escape(l.url)}" target="_blank" rel="noopener">${escape(l.label)} →</a>`).join('')}
         </div>
+        <div class="modal__releases"></div>
         <div class="modal__activity">
           <h3>Recent activity</h3>
           <p class="modal__activity-loading">Loading…</p>
@@ -226,9 +227,33 @@
   };
 
   const renderModalActivity = (events) => {
+    renderReleases(events.filter((e) => e.type === 'ReleaseEvent'));
+    renderRecentActivity(events.filter((e) => e.type !== 'ReleaseEvent'));
+  };
+
+  const renderReleases = (releases) => {
+    const slot = modalContent.querySelector('.modal__releases');
+    if (!slot) return;
+    if (releases.length === 0) {
+      slot.innerHTML = '';
+      return;
+    }
+    const items = releases.slice(0, 5).map(releaseHtml).join('');
+    slot.innerHTML = `<h3>Releases</h3><ul class="modal__release-list">${items}</ul>`;
+  };
+
+  const releaseHtml = (e) => `
+    <li class="modal__release-item">
+      <a class="modal__release-tag" href="${escape(e.release_url)}" target="_blank" rel="noopener">${escape(e.release_tag)}</a>
+      ${e.release_name && e.release_name !== e.release_tag ? `<span class="modal__release-name">${escape(e.release_name)}</span>` : ''}
+      <span class="modal__release-time">${formatDate(e.created_at)}</span>
+    </li>
+  `;
+
+  const renderRecentActivity = (events) => {
     const slot = modalContent.querySelector('.modal__activity');
     if (!slot) return;
-    const items = events.slice(0, 25).map(activityHtml).filter(Boolean);
+    const items = events.slice(0, 20).map(activityHtml).filter(Boolean);
     if (items.length === 0) {
       slot.innerHTML = '<h3>Recent activity</h3><p class="modal__activity-empty">No recent public activity.</p>';
       return;

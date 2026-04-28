@@ -692,12 +692,56 @@ body.modal-open {
   font-size: 14px;
 }
 
+.modal__releases h3,
 .modal__activity h3 {
   margin: 24px 0 8px;
   padding: 0;
   font-size: 14px;
   font-weight: 500;
   color: rgba(0,0,0,0.64);
+}
+
+.modal__release-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.modal__release-item {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 6px 0;
+  font-size: 13px;
+  border-top: 1px solid rgba(0,0,0,0.06);
+  color: rgba(0,0,0,0.84);
+}
+
+.modal__release-item:first-child {
+  border-top: none;
+}
+
+.modal__release-tag {
+  flex-shrink: 0;
+  padding: 1px 8px;
+  background: rgba(53,124,150,0.1);
+  color: #357C96;
+  font-family: 'Rubik', monospace;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.modal__release-name {
+  flex: 1;
+  min-width: 0;
+  color: rgba(0,0,0,0.72);
+}
+
+.modal__release-time {
+  flex-shrink: 0;
+  font-size: 12px;
+  color: rgba(0,0,0,0.48);
+  margin-left: auto;
 }
 
 .modal__activity-list {
