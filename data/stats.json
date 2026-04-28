@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T18:30:21Z",
-  "total_repos": 49,
-  "total_stars": 6600,
+  "generated_at": "2026-04-28T19:32:55Z",
+  "total_repos": 50,
+  "total_stars": 6606,
   "total_forks": 211,
   "archived_count": 11,
   "languages": [
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 37,
-      "stars": 6302
+      "repo_count": 38,
+      "stars": 6307
     },
     {
       "owner": "circleci-tools",
@@ -79,7 +79,7 @@
     {
       "owner": "deariary",
       "repo_count": 1,
-      "stars": 21
+      "stars": 22
     }
   ],
   "top_topics": [
@@ -132,6 +132,10 @@
       "count": 4
     },
     {
+      "topic": "blog",
+      "count": 4
+    },
+    {
       "topic": "command-line",
       "count": 4
     },
@@ -146,10 +150,6 @@
     {
       "topic": "websocket",
       "count": 4
-    },
-    {
-      "topic": "blog",
-      "count": 3
     },
     {
       "topic": "circle-ci",
