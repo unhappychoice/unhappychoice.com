@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-28T16:34:29Z",
-  "total_repos": 48,
-  "total_stars": 6526,
-  "total_forks": 182,
+  "generated_at": "2026-04-28T17:33:24Z",
+  "total_repos": 50,
+  "total_stars": 6601,
+  "total_forks": 211,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 12
+      "count": 14
     },
     {
       "language": "Kotlin",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 37,
-      "stars": 6259
+      "repo_count": 38,
+      "stars": 6303
     },
     {
       "owner": "circleci-tools",
@@ -62,14 +62,14 @@
       "stars": 119
     },
     {
+      "owner": "bitflyer-tools",
+      "repo_count": 4,
+      "stars": 72
+    },
+    {
       "owner": "kotlinz",
       "repo_count": 1,
       "stars": 47
-    },
-    {
-      "owner": "bitflyer-tools",
-      "repo_count": 3,
-      "stars": 41
     },
     {
       "owner": "irasutoya-tools",
@@ -85,11 +85,11 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "ruby",
-      "count": 8
+      "count": 10
     },
     {
       "topic": "developer-tools",
@@ -100,7 +100,19 @@
       "count": 6
     },
     {
+      "topic": "image",
+      "count": 5
+    },
+    {
+      "topic": "library",
+      "count": 5
+    },
+    {
       "topic": "rust",
+      "count": 5
+    },
+    {
+      "topic": "terminal",
       "count": 5
     },
     {
@@ -112,7 +124,19 @@
       "count": 4
     },
     {
+      "topic": "bitcoin",
+      "count": 4
+    },
+    {
+      "topic": "bitflyer",
+      "count": 4
+    },
+    {
       "topic": "blog",
+      "count": 4
+    },
+    {
+      "topic": "command-line",
       "count": 4
     },
     {
@@ -124,28 +148,8 @@
       "count": 4
     },
     {
-      "topic": "image",
-      "count": 4
-    },
-    {
-      "topic": "library",
-      "count": 4
-    },
-    {
-      "topic": "terminal",
-      "count": 4
-    },
-    {
       "topic": "websocket",
       "count": 4
-    },
-    {
-      "topic": "bitcoin",
-      "count": 3
-    },
-    {
-      "topic": "bitflyer",
-      "count": 3
     },
     {
       "topic": "circle-ci",
@@ -156,11 +160,7 @@
       "count": 3
     },
     {
-      "topic": "command-line",
-      "count": 3
-    },
-    {
-      "topic": "content",
+      "topic": "command-line-tool",
       "count": 3
     }
   ]
