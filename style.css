@@ -257,6 +257,7 @@ li {
   flex-direction: column;
   gap: 6px;
   overflow: hidden;
+  line-height: 1.4;
 }
 
 .repo-card__head {
@@ -292,12 +293,13 @@ li {
   margin: 0;
   padding: 0;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1.4;
   color: rgba(0,0,0,0.72);
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  max-height: calc(1.4em * 3);
 }
 
 .repo-card__story p {
