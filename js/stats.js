@@ -3,11 +3,6 @@
   const root = document.getElementById('stats-root');
   if (!root) return;
 
-  fetch(DATA_URL)
-    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
-    .then(render)
-    .catch(showError);
-
   const render = (stats) => {
     root.innerHTML = `
       ${renderTotals(stats)}
@@ -91,4 +86,9 @@
     root.innerHTML = '<p class="stats-empty">Failed to load stats.</p>';
     console.error(err);
   }
+
+  fetch(DATA_URL)
+    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
+    .then(render)
+    .catch(showError);
 })();

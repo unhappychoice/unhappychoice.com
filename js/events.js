@@ -3,11 +3,6 @@
   const root = document.getElementById('events-root');
   if (!root) return;
 
-  fetch(DATA_URL)
-    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
-    .then(render)
-    .catch(showError);
-
   const render = (events) => {
     const items = events.slice(0, 20).map(itemHtml).filter(Boolean);
     if (items.length === 0) {
@@ -94,4 +89,9 @@
     root.innerHTML = '<p class="events-empty">Failed to load recent activity.</p>';
     console.error(err);
   }
+
+  fetch(DATA_URL)
+    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
+    .then(render)
+    .catch(showError);
 })();

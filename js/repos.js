@@ -5,11 +5,6 @@
 
   if (!root) return;
 
-  fetch(DATA_URL)
-    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
-    .then((repos) => render(repos.filter((r) => !r.archived)))
-    .catch(showError);
-
   const render = (repos) => {
     const languages = uniqueLanguages(repos);
     renderFilter(languages, repos);
@@ -92,4 +87,9 @@
     root.innerHTML = `<p class="repos-empty">Failed to load repositories. <a href="https://github.com/unhappychoice" target="_blank" rel="noopener">View on GitHub →</a></p>`;
     console.error(err);
   }
+
+  fetch(DATA_URL)
+    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
+    .then((repos) => render(repos.filter((r) => !r.archived)))
+    .catch(showError);
 })();
