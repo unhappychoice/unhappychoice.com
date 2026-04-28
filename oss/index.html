@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OSS Showcase - Yuji Ueki</title>
+  <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap-reboot.min.css" integrity="sha512-gl/07tE1atRY5leOa5GtQa/pclV529xEP5cDTIdU1rj7vDh4KKz3nHrP7DsTBx3F++ihOqZGdcRTfOvrU/JF4g==" rel="stylesheet" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500|Rubik:400,500&amp;amp;subset=japanese" media="screen" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="../style.css" />
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="OSS Showcase - Yuji Ueki" />
+  <meta property="og:description" content="Open source projects, libraries and tools by Yuji Ueki across multiple GitHub organizations." />
+  <meta property="og:url" content="https://unhappychoice.com/oss/">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="OSS Showcase - Yuji Ueki">
+  <meta name="twitter:description" content="Open source projects, libraries and tools by Yuji Ueki across multiple GitHub organizations.">
+  <meta name="twitter:url" content="https://unhappychoice.com/oss/">
+  <meta name="twitter:site" content="@unhappychoice_e">
+</head>
+<body>
+  <div class="container">
+    <header class="profile">
+      <h1>OSS Showcase</h1>
+      <p>Open source projects across <a href="https://github.com/unhappychoice" target="_blank" rel="noopener">unhappychoice</a> and four organizations.</p>
+      <p class="page-back"><a href="../">← Back to profile</a></p>
+    </header>
+  </div>
+
+  <div class="container">
+    <h2>Stats</h2>
+    <div id="stats-root" class="stats-root">
+      <p class="stats-empty">Loading stats…</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>Repositories</h2>
+    <div class="repos-controls">
+      <div id="repos-filter" class="repos-filter"></div>
+      <label class="repos-sort">
+        Sort by
+        <select id="repos-sort">
+          <option value="featured">Featured</option>
+          <option value="stars">Stars</option>
+          <option value="updated">Updated</option>
+          <option value="created">Created</option>
+        </select>
+      </label>
+    </div>
+    <div id="repos-root" class="repos-root">
+      <p class="repos-empty">Loading repositories…</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <footer class="footer">
+      &copy; 2026 Yuji Ueki
+    </footer>
+  </div>
+
+  <div id="repo-modal" class="modal" hidden>
+    <div class="modal__backdrop" data-modal-close></div>
+    <div class="modal__sheet" role="dialog" aria-modal="true" aria-labelledby="repo-modal-title">
+      <button class="modal__close" data-modal-close type="button" aria-label="Close">×</button>
+      <div class="modal__content" id="repo-modal-content"></div>
+    </div>
+  </div>
+
+  <script src="../js/repos.js"></script>
+  <script src="../js/stats.js"></script>
+</body>
+</html>

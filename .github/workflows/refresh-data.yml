@@ -1,0 +1,36 @@
+name: Refresh OSS data snapshots
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh data/*.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./scripts/refresh-data.sh
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Yuji Ueki"
+          git config user.email "unhappychoice@gmail.com"
+          git add data/repos.json data/stats.json data/activity
+          if git diff --staged --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore(data): refresh OSS snapshots"
+          git push origin HEAD:${GITHUB_REF_NAME}
