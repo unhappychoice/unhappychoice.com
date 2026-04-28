@@ -6,7 +6,7 @@
   },
   {
     "repo": "unhappychoice/gittype",
-    "text": "TODO",
+    "text": "Turns any codebase into a typing practice ground. gittype reaches into a Git repository, extracts real functions and code blocks across 20+ languages with tree-sitter, and serves them as live typing challenges with WPM, accuracy and consistency tracking. Where typing apps usually generate prose or lorem ipsum, gittype trains you on actual code: your own current directory, any GitHub repository you point it at, or a list of trending repos refreshed daily.\n\nMultiple game modes (Normal, Time Attack, custom difficulty levels), 15+ themes, pause/resume without losing stats, and a ranking system that issues developer titles based on cumulative performance.",
     "links": []
   },
   {
