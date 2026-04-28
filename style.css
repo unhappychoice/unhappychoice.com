@@ -177,7 +177,7 @@ li {
 .repo-card {
   display: flex;
   flex-direction: row;
-  height: 130px;
+  height: 137px;
   border: 1px solid rgba(0,0,0,0.12);
   border-radius: 6px;
   overflow: hidden;
@@ -467,7 +467,7 @@ li {
   .repo-card__hero {
     width: 100%;
     height: auto;
-    aspect-ratio: 2 / 1;
+    aspect-ratio: 40 / 21;
   }
 
   .repo-card__body {
