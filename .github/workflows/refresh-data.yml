@@ -33,4 +33,4 @@ jobs:
             exit 0
           fi
           git commit -m "chore(data): refresh OSS snapshots"
-          git push
+          git push origin HEAD:${GITHUB_REF_NAME}

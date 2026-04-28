@@ -42,7 +42,7 @@
   const renderFilter = (languages) => {
     if (!filterRoot) return;
     const buttons = ['All', ...languages]
-      .map((lang) => `<button type="button" class="filter-chip" data-lang="${lang}">${lang}</button>`)
+      .map((lang) => `<button type="button" class="filter-chip" data-lang="${escape(lang)}">${escape(lang)}</button>`)
       .join('');
     filterRoot.innerHTML = buttons;
     filterRoot.querySelectorAll('.filter-chip').forEach((btn) => {

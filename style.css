@@ -227,7 +227,7 @@ li {
   font-size: 14px;
   font-weight: 500;
   color: rgba(0,0,0,0.87);
-  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .repo-card:hover {
@@ -376,7 +376,7 @@ li {
   font-size: 14px;
   line-height: 1.5;
   color: rgba(0,0,0,0.84);
-  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .event-item__text code {
@@ -607,7 +607,7 @@ body.modal-open {
   font-size: 22px;
   font-weight: 500;
   border-bottom: none;
-  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .modal__title a {
@@ -772,7 +772,7 @@ body.modal-open {
 .modal__activity-text {
   flex: 1;
   min-width: 0;
-  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .modal__activity-text code {
