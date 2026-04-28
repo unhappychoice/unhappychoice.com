@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T11:55:50Z",
-  "total_repos": 49,
-  "total_stars": 6575,
-  "total_forks": 207,
+  "generated_at": "2026-04-28T13:14:35Z",
+  "total_repos": 50,
+  "total_stars": 6599,
+  "total_forks": 211,
   "archived_count": 11,
   "languages": [
     {
@@ -14,15 +14,15 @@
       "count": 8
     },
     {
+      "language": "TypeScript",
+      "count": 6
+    },
+    {
       "language": "HTML",
       "count": 5
     },
     {
       "language": "Rust",
-      "count": 5
-    },
-    {
-      "language": "TypeScript",
       "count": 5
     },
     {
@@ -50,7 +50,7 @@
     {
       "owner": "unhappychoice",
       "repo_count": 38,
-      "stars": 6298
+      "stars": 6301
     },
     {
       "owner": "circleci-tools",
@@ -71,24 +71,29 @@
       "owner": "irasutoya-tools",
       "repo_count": 3,
       "stars": 39
+    },
+    {
+      "owner": "deariary",
+      "repo_count": 1,
+      "stars": 21
     }
   ],
   "top_topics": [
     {
       "topic": "cli",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "ruby",
       "count": 10
     },
     {
-      "topic": "kotlin",
+      "topic": "developer-tools",
       "count": 6
     },
     {
-      "topic": "developer-tools",
-      "count": 5
+      "topic": "kotlin",
+      "count": 6
     },
     {
       "topic": "image",
@@ -104,6 +109,10 @@
     },
     {
       "topic": "terminal",
+      "count": 5
+    },
+    {
+      "topic": "typescript",
       "count": 5
     },
     {
@@ -131,7 +140,7 @@
       "count": 4
     },
     {
-      "topic": "typescript",
+      "topic": "github-pages",
       "count": 4
     },
     {
@@ -148,10 +157,6 @@
     },
     {
       "topic": "command-line-tool",
-      "count": 3
-    },
-    {
-      "topic": "content",
       "count": 3
     }
   ]

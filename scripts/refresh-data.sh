@@ -11,7 +11,7 @@ EXCLUDED_FILE="$DATA_DIR/excluded.json"
 mkdir -p "$DATA_DIR" "$ACTIVITY_DIR"
 
 USER_LOGIN="unhappychoice"
-ORGS=(circleci-tools bitflyer-tools irasutoya-tools kotlinz)
+ORGS=(circleci-tools bitflyer-tools irasutoya-tools kotlinz deariary)
 
 excluded_filter() {
   if [ -f "$EXCLUDED_FILE" ]; then

@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4649,
-    "forks_count": 101,
+    "stargazers_count": 4652,
+    "forks_count": 102,
     "open_issues_count": 11,
     "archived": false,
     "pushed_at": "2026-04-27T06:06:27Z",
-    "updated_at": "2026-04-28T03:20:02Z",
+    "updated_at": "2026-04-28T12:59:26Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33"
   },
@@ -279,6 +279,36 @@
     "updated_at": "2026-04-25T02:29:16Z",
     "created_at": "2015-11-14T11:56:02Z",
     "og_image": "https://opengraph.githubassets.com/1e62ccd7f40851aca9d11b0ea40a294a8030e21814f634e5c2d2a8cbd400e6d3/circleci-tools/Norimaki"
+  },
+  {
+    "name": "github-weekly-reporter",
+    "full_name": "deariary/github-weekly-reporter",
+    "owner": "deariary",
+    "description": "GitHub Action that generates a beautiful weekly activity report on GitHub Pages.",
+    "html_url": "https://github.com/deariary/github-weekly-reporter",
+    "homepage": "https://deariary.github.io/github-weekly-reporter/",
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "cli",
+      "developer-tools",
+      "github-action",
+      "github-actions",
+      "github-activity",
+      "github-pages",
+      "github-weekly-reporter",
+      "llm",
+      "typescript",
+      "weekly-report"
+    ],
+    "stargazers_count": 21,
+    "forks_count": 3,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-04-25T22:56:28Z",
+    "updated_at": "2026-04-25T22:56:31Z",
+    "created_at": "2026-04-03T14:09:46Z",
+    "og_image": "https://repository-images.githubusercontent.com/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a"
   },
   {
     "name": "cycle-flyer",
@@ -545,7 +575,7 @@
     "owner": "bitflyer-tools",
     "description": ":zap: CLI tool for bitFlyer FX BTC",
     "html_url": "https://github.com/bitflyer-tools/bitflyer-cli",
-    "homepage": "https://rubygems.org/gems/bitflyer-cli",
+    "homepage": "",
     "language": "Ruby",
     "topics": [
       "bitcoin",
@@ -565,9 +595,9 @@
     "open_issues_count": 1,
     "archived": false,
     "pushed_at": "2026-04-25T01:22:08Z",
-    "updated_at": "2026-04-25T01:22:12Z",
+    "updated_at": "2026-04-28T12:10:44Z",
     "created_at": "2017-07-28T13:21:25Z",
-    "og_image": "https://opengraph.githubassets.com/a9406fafca562d99ae566cd74080a12e83a1ac87aeea50a872b6f1abab70222a/bitflyer-tools/bitflyer-cli"
+    "og_image": "https://opengraph.githubassets.com/49f8e2770e1dcf3fb76455a6d4614afeb8d92d78c0f8ce9488e706d5e816ccd3/bitflyer-tools/bitflyer-cli"
   },
   {
     "name": "lita-aws-cloudfront",
@@ -1143,7 +1173,7 @@
     "forks_count": 0,
     "open_issues_count": 2,
     "archived": false,
-    "pushed_at": "2026-04-28T11:52:27Z",
+    "pushed_at": "2026-04-28T13:11:04Z",
     "updated_at": "2026-02-13T11:49:00Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/3903f4b8246bec12e9d2dd8a85b68ccb4086bfe641b678fbf0088c68836126d3/unhappychoice/unhappychoice.com"
