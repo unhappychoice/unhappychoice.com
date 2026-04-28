@@ -63,7 +63,6 @@
           ${r.description ? `<p class="repo-card__desc">${escape(r.description)}</p>` : ''}
           ${f && f.tagline ? `<p class="repo-card__tagline">${escape(f.tagline)}</p>` : ''}
           ${f && f.story ? `<div class="repo-card__story">${renderMarkdown(f.story)}</div>` : ''}
-          ${renderTopics(r.topics)}
           <div class="repo-card__links">
             <a href="${escape(r.html_url)}" target="_blank" rel="noopener">GitHub →</a>
             ${r.homepage ? `<a href="${escape(r.homepage)}" target="_blank" rel="noopener">Site →</a>` : ''}
@@ -76,14 +75,6 @@
         </div>
       </article>
     `;
-  };
-
-  const renderTopics = (topics) => {
-    if (!topics || topics.length === 0) return '';
-    const shown = topics.slice(0, 6);
-    return `<div class="repo-card__topics">${shown
-      .map((t) => `<span class="repo-card__topic">${escape(t)}</span>`)
-      .join('')}</div>`;
   };
 
   const loadActivity = (fullName) => {
