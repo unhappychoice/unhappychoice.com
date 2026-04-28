@@ -43,7 +43,7 @@
   },
   {
     "repo": "circleci-tools/Norimaki",
-    "text": "TODO",
+    "text": "An Android client for CircleCI, published to Google Play. Browses projects and build history per branch, opens individual builds for status and log output, and turns the phone into a quick-glance CI dashboard.\n\nArchitecture is Square's Mortar (presenter / view scopes) and Flow (navigation back-stack) with RxKotlin driving network and UI event streams. Each screen is a plain view + presenter pair, sidestepping Activities, Fragments and LiveData.",
     "links": []
   },
   {
