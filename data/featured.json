@@ -38,7 +38,7 @@
   },
   {
     "repo": "bitflyer-tools/bitflyer",
-    "text": "TODO",
+    "text": "A Ruby SDK for bitFlyer Lightning, Japan's largest crypto exchange. Wraps both halves of the public API in one gem: a REST client for snapshot data and order management (`board`, `positions`, `child_order`), and a realtime WebSocket client where you subscribe to channels like `ticker_btc_jpy` or `child_order_events` by assigning a lambda to a property.\n\nThe realtime client handles reconnection on its own. `ready` and `disconnected` callbacks fire as the underlying socket cycles through authentication, subscription, drop and recovery, so trading bots written on top do not need their own connection state machine.",
     "links": []
   },
   {
