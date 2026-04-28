@@ -62,11 +62,15 @@ fetch_repos() {
 fetch_repo_activity() {
   local full_name="$1"
   local out_file="$ACTIVITY_DIR/${full_name//\//__}.json"
-  local events_file releases_file
-  events_file=$(mktemp) && releases_file=$(mktemp)
+  local events_file releases_file existing_file
+  events_file=$(mktemp) && releases_file=$(mktemp) && existing_file=$(mktemp)
   gh api "repos/$full_name/events?per_page=30" > "$events_file" 2>/dev/null || echo "[]" > "$events_file"
   gh api "repos/$full_name/releases?per_page=10" > "$releases_file" 2>/dev/null || echo "[]" > "$releases_file"
-  jq -n --slurpfile events "$events_file" --slurpfile releases "$releases_file" '
+  if [ -f "$out_file" ]; then cp "$out_file" "$existing_file"; else echo "[]" > "$existing_file"; fi
+  jq -n \
+    --slurpfile events "$events_file" \
+    --slurpfile releases "$releases_file" \
+    --slurpfile existing "$existing_file" '
     ($events[0]
       | map(select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "ReleaseEvent" or .type == "IssuesEvent" or .type == "CreateEvent"))
       | map({
@@ -101,11 +105,12 @@ fetch_repo_activity() {
           release_url: .html_url,
           commit_count: null
         }))
+    + ($existing[0])
     | unique_by([.type, .created_at, .release_tag, .pr_number, .issue_number, .ref])
     | sort_by(.created_at) | reverse
     | .[0:30]
   ' > "$out_file.tmp" && mv "$out_file.tmp" "$out_file"
-  rm -f "$events_file" "$releases_file"
+  rm -f "$events_file" "$releases_file" "$existing_file"
 }
 
 build_stats() {
