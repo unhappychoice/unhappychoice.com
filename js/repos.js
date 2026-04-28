@@ -228,7 +228,7 @@
   const renderModalActivity = (events) => {
     const slot = modalContent.querySelector('.modal__activity');
     if (!slot) return;
-    const items = events.slice(0, 15).map(activityHtml).filter(Boolean);
+    const items = events.slice(0, 25).map(activityHtml).filter(Boolean);
     if (items.length === 0) {
       slot.innerHTML = '<h3>Recent activity</h3><p class="modal__activity-empty">No recent public activity.</p>';
       return;
