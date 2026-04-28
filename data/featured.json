@@ -53,7 +53,7 @@
   },
   {
     "repo": "unhappychoice/splashboard",
-    "text": "TODO",
+    "text": "A configurable terminal dashboard that prints on every shell startup and every `cd`. The default splash shows greetings, git status, CI health, open PRs, a contributions heatmap and the moon phase, all driven by widgets composed from a fetcher (data source), a renderer (visual shape) and a layout slot.\n\nThe distinctive feature is per-directory configuration: a repo that ships `./.splashboard/dashboard.toml` reshapes the splash automatically when you `cd` into it, so a backend repo can show test status while a docs repo shows build health, with no global state. Per-directory configs run inside a sandboxed trust model so cloning a hostile repo cannot escalate. `splashboard install` detects your shell, walks you through template / theme pickers, and wires up the rc file for you.",
     "links": []
   }
 ]
