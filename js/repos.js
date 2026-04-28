@@ -161,8 +161,8 @@
   const openModal = (fullName) => {
     const r = state.byName[fullName];
     if (!r) return;
+    renderModal(r);
     withTransition(() => {
-      renderModal(r);
       modal.hidden = false;
       document.body.classList.add('modal-open');
     });
@@ -177,7 +177,6 @@
     withTransition(() => {
       modal.hidden = true;
       document.body.classList.remove('modal-open');
-      modalContent.innerHTML = '';
     });
   };
 
