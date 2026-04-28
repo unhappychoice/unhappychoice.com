@@ -11,7 +11,7 @@
   },
   {
     "repo": "unhappychoice/mdts",
-    "text": "TODO",
+    "text": "Serves a directory of markdown files as a live, browsable wiki at http://localhost:8521. Run `npx mdts` in any folder and you get a three-pane web UI immediately: file tree on the left, rendered markdown in the middle, table of contents on the right, with live reload as files change.\n\nWhere mkdocs or docusaurus need a config file and a build step, mdts treats whatever is on disk as the source. Glob filtering narrows scope (`-g 'docs/**/*.md'`) when you only want a subset. Common use case: reviewing the markdown an AI assistant has just generated across many files in a Claude Code or Cursor session.",
     "links": [
       { "label": "Live demo", "url": "https://mdts.unhappychoice.com" }
     ]
