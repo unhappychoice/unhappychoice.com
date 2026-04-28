@@ -33,7 +33,7 @@
   },
   {
     "repo": "unhappychoice/terminal_image",
-    "text": "TODO",
+    "text": "A Ruby gem that displays full-resolution images directly in the terminal. Hands the bytes off to the iTerm2 inline image protocol on macOS, or to libsixel's `img2sixel` on terminals with sixel support, so the result is real pixels rather than the ASCII or colored-block approximations most \"image in terminal\" tools produce.\n\nThe API is two functions: `TerminalImage.show(file)` to render and `TerminalImage.encode(file)` to get the escape-sequence-wrapped string for embedding in your own output. Useful for CLI tools that want to surface screenshots, charts or thumbnails inline without launching a separate viewer.",
     "links": []
   },
   {
