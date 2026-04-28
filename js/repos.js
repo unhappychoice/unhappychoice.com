@@ -128,10 +128,7 @@
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/`([^`]+)`/g, '<code>$1</code>');
 
-  const formatNumber = (n) => {
-    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
-    return String(n);
-  };
+  const formatNumber = (n) => n.toLocaleString('en-US');
 
   const formatDate = (iso) => {
     const d = new Date(iso);

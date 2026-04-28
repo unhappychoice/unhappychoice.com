@@ -94,10 +94,7 @@
     return `<p class="stats-updated">Snapshot updated ${escape(iso)}</p>`;
   };
 
-  const formatNumber = (n) => {
-    if (n >= 1000) return (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k';
-    return String(n);
-  };
+  const formatNumber = (n) => n.toLocaleString('en-US');
 
   const escape = (s) =>
     String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
