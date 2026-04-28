@@ -177,7 +177,8 @@ li {
 .repo-card {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: stretch;
+  min-height: 120px;
   border: 1px solid rgba(0,0,0,0.12);
   border-radius: 6px;
   overflow: hidden;
@@ -191,8 +192,7 @@ li {
 
 .repo-card__hero {
   flex-shrink: 0;
-  width: 200px;
-  aspect-ratio: 2 / 1;
+  width: 220px;
   display: block;
   background: #F2F6F8;
   overflow: hidden;
@@ -498,10 +498,12 @@ li {
 @media (max-width: 600px) {
   .repo-card {
     flex-direction: column;
+    min-height: 0;
   }
 
   .repo-card__hero {
     width: 100%;
+    aspect-ratio: 2 / 1;
   }
 
   .stats-totals {

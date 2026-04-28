@@ -59,38 +59,6 @@ fetch_repos() {
   ' | excluded_filter
 }
 
-fetch_user_events() {
-  (
-    gh api "users/$USER_LOGIN/events/public?per_page=100"
-    for org in "${ORGS[@]}"; do
-      gh api "orgs/$org/events?per_page=100" 2>/dev/null || echo "[]"
-    done
-  ) | jq -s --slurpfile excluded "$EXCLUDED_FILE" '
-    add
-    | map(select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "ReleaseEvent" or .type == "IssuesEvent" or .type == "CreateEvent"))
-    | map(select(.repo.name as $n | $excluded[0] | index($n) | not))
-    | map({
-        type, actor: .actor.login, repo: .repo.name, created_at,
-        action: (.payload.action // null),
-        ref: (.payload.ref // null),
-        ref_type: (.payload.ref_type // null),
-        pr_title: (.payload.pull_request.title // null),
-        pr_number: (.payload.pull_request.number // null),
-        pr_merged: (.payload.pull_request.merged // null),
-        pr_url: (.payload.pull_request.html_url // null),
-        issue_title: (.payload.issue.title // null),
-        issue_number: (.payload.issue.number // null),
-        issue_url: (.payload.issue.html_url // null),
-        release_name: (.payload.release.name // null),
-        release_tag: (.payload.release.tag_name // null),
-        release_url: (.payload.release.html_url // null),
-        commit_count: (.payload.commits | length // null)
-      })
-    | sort_by(.created_at) | reverse
-    | .[0:50]
-  '
-}
-
 fetch_repo_activity() {
   local full_name="$1"
   local out_file="$ACTIVITY_DIR/${full_name//\//__}.json"
@@ -152,10 +120,6 @@ mv "$DATA_DIR/repos.json.tmp" "$DATA_DIR/repos.json"
 
 echo "→ Scraping og:image for each repo..."
 enrich_with_og "$DATA_DIR/repos.json"
-
-echo "→ Fetching user-wide events..."
-fetch_user_events > "$DATA_DIR/events.json.tmp"
-mv "$DATA_DIR/events.json.tmp" "$DATA_DIR/events.json"
 
 echo "→ Fetching per-repo activity..."
 while IFS= read -r repo; do
