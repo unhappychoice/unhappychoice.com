@@ -24,8 +24,10 @@
     rerender();
   };
 
+  const HIDDEN_LANGS = new Set(['HTML']);
+
   const uniqueLanguages = (repos) =>
-    [...new Set(repos.map((r) => r.language).filter(Boolean))].sort();
+    [...new Set(repos.map((r) => r.language).filter((l) => l && !HIDDEN_LANGS.has(l)))].sort();
 
   const renderFilter = (languages) => {
     if (!filterRoot) return;
