@@ -55,5 +55,10 @@
     "repo": "unhappychoice/splashboard",
     "text": "A configurable terminal dashboard that prints on every shell startup and every `cd`. The default splash shows greetings, git status, CI health, open PRs, a contributions heatmap and the moon phase, all driven by widgets composed from a fetcher (data source), a renderer (visual shape) and a layout slot.\n\nThe distinctive feature is per-directory configuration: a repo that ships `./.splashboard/dashboard.toml` reshapes the splash automatically when you `cd` into it, so a backend repo can show test status while a docs repo shows build health, with no global state. Per-directory configs run inside a sandboxed trust model so cloning a hostile repo cannot escalate. `splashboard install` detects your shell, walks you through template / theme pickers, and wires up the rc file for you.",
     "links": []
+  },
+  {
+    "repo": "irasutoya-tools/irasutoya-cli",
+    "text": "A Ruby CLI for Irasutoya, the free Japanese illustration archive. `irasutoya random` prints a random illustration directly into the terminal; `irasutoya search 寿司` returns three matches for the query. Both are full-resolution images rendered through the iTerm2 inline image protocol or libsixel, courtesy of the `terminal_image` gem underneath.\n\nUseful as a quick source of placeholder art, demo assets or visual humor without leaving the shell.",
+    "links": []
   }
 ]
