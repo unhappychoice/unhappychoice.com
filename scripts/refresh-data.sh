@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Refresh data/*.json snapshots used by the OSS showcase page.
-# Requires: gh, jq.
+# Requires: gh, jq, curl.
 
 set -euo pipefail
 
@@ -19,6 +19,25 @@ excluded_filter() {
   else
     cat
   fi
+}
+
+scrape_og_image() {
+  local full_name="$1"
+  curl -sS -L -A "Mozilla/5.0 unhappychoice.com refresh" "https://github.com/$full_name" \
+    | grep -oE '<meta property="og:image" content="[^"]+"' \
+    | head -1 \
+    | sed 's/.*content="//;s/"$//'
+}
+
+enrich_with_og() {
+  local input="$1"
+  local tmp="$input.og.tmp"
+  jq -c '.[]' "$input" | while read -r item; do
+    full_name=$(echo "$item" | jq -r .full_name)
+    og=$(scrape_og_image "$full_name" || true)
+    echo "$item" | jq --arg og "$og" '. + {og_image: ($og | select(. != "") )}'
+  done | jq -s '.' > "$tmp"
+  mv "$tmp" "$input"
 }
 
 fetch_repos() {
@@ -131,31 +150,18 @@ echo "→ Fetching repos..."
 fetch_repos > "$DATA_DIR/repos.json.tmp"
 mv "$DATA_DIR/repos.json.tmp" "$DATA_DIR/repos.json"
 
+echo "→ Scraping og:image for each repo..."
+enrich_with_og "$DATA_DIR/repos.json"
+
 echo "→ Fetching user-wide events..."
 fetch_user_events > "$DATA_DIR/events.json.tmp"
 mv "$DATA_DIR/events.json.tmp" "$DATA_DIR/events.json"
 
-echo "→ Fetching per-repo activity (featured + top 10)..."
-featured_repos=()
-if [ -f "$DATA_DIR/featured.json" ]; then
-  while IFS= read -r r; do featured_repos+=("$r"); done < <(jq -r '.[].repo' "$DATA_DIR/featured.json")
-fi
-top_repos=()
-while IFS= read -r r; do top_repos+=("$r"); done < <(jq -r '.[0:10][].full_name' "$DATA_DIR/repos.json")
-
-declare -A seen
-target_repos=()
-for r in "${featured_repos[@]}" "${top_repos[@]}"; do
-  if [ -z "${seen[$r]:-}" ]; then
-    seen[$r]=1
-    target_repos+=("$r")
-  fi
-done
-
-for repo in "${target_repos[@]}"; do
+echo "→ Fetching per-repo activity..."
+while IFS= read -r repo; do
   echo "  · $repo"
   fetch_repo_activity "$repo"
-done
+done < <(jq -r '.[].full_name' "$DATA_DIR/repos.json")
 
 echo "→ Building stats..."
 build_stats > "$DATA_DIR/stats.json.tmp"
