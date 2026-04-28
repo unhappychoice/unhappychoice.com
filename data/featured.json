@@ -1,7 +1,12 @@
 [
   {
-    "repo": "unhappychoice/gitlogue",
-    "text": "Replays a repository's Git history as a keystroke-level animation. Each commit is typed into the file it touched in real time, with tree-sitter syntax highlighting across 29 languages and a project tree that updates as files appear, move and disappear. Where typical git visualizers show a graph or a diff, gitlogue shows the act of editing.\n\nWorks on any local repo. Pick a commit, a range, an author or a date filter, or launch with no arguments for an endless screensaver of random commits. Nine built-in themes plus a YAML override for typing speed, colors and layout.",
+    "repo": "unhappychoice/splashboard",
+    "text": "A configurable terminal dashboard that prints on every shell startup and every `cd`. The default splash shows greetings, git status, CI health, open PRs, a contributions heatmap and the moon phase, all driven by widgets composed from a fetcher (data source), a renderer (visual shape) and a layout slot.\n\nThe distinctive feature is per-directory configuration: a repo that ships `./.splashboard/dashboard.toml` reshapes the splash automatically when you `cd` into it, so a backend repo can show test status while a docs repo shows build health, with no global state. Per-directory configs run inside a sandboxed trust model so cloning a hostile repo cannot escalate. `splashboard install` detects your shell, walks you through template / theme pickers, and wires up the rc file for you.",
+    "links": []
+  },
+  {
+    "repo": "deariary/github-weekly-reporter",
+    "text": "A GitHub Action and npm CLI that turns your GitHub activity into a weekly report site, automatically. A daily workflow collects commits, PRs and reviews; a weekly workflow asks an LLM to write the narrative; the result deploys to GitHub Pages as a self-contained HTML page (no JavaScript) with OG images, JSON-LD and a sitemap. An animated SVG news-ticker card embeds the latest headlines into any GitHub profile README.\n\n`npx github-weekly-reporter setup` is interactive: it creates the destination repository, writes the workflow files, stores the PAT and LLM secret, enables Pages and triggers the first run. Four themes (brutalist / minimal / editorial / swiss), ten languages, any LLM provider with an API key. The whole stack runs at $0/month on public repos by leaning on free tiers (OpenRouter / Groq / Gemini).",
     "links": []
   },
   {
@@ -13,32 +18,15 @@
     "repo": "unhappychoice/mdts",
     "text": "Serves a directory of markdown files as a live, browsable wiki at http://localhost:8521. Run `npx mdts` in any folder and you get a three-pane web UI immediately: file tree on the left, rendered markdown in the middle, table of contents on the right, with live reload as files change.\n\nWhere mkdocs or docusaurus need a config file and a build step, mdts treats whatever is on disk as the source. Glob filtering narrows scope (`-g 'docs/**/*.md'`) when you only want a subset. Common use case: reviewing the markdown an AI assistant has just generated across many files in a Claude Code or Cursor session.",
     "links": [
-      { "label": "Live demo", "url": "https://mdts.unhappychoice.com" }
+      {
+        "label": "Live demo",
+        "url": "https://mdts.unhappychoice.com"
+      }
     ]
   },
   {
-    "repo": "unhappychoice/steamfetch",
-    "text": "A neofetch-style CLI that prints your Steam profile to the terminal: total playtime, top games by hours, recently played titles, achievement counts and your rarest unlocks, alongside an ASCII Steam logo or your actual avatar rendered in terminal pixels. One command, instantly readable in any shell session.\n\nPulls data through the Steam Web API. If the Steam client is running locally, it auto-detects your Steam ID through the native SDK so you only ever provide an API key. Configurable via `~/.config/steamfetch/config.toml` or environment variables, with toggles for which sections to show and how many entries each lists.",
-    "links": []
-  },
-  {
-    "repo": "circleci-tools/circleci-cli",
-    "text": "A Ruby CLI for CircleCI that collapses the CI dashboard into a handful of commands. Run `circleci-cli watch` from any project directory to stream the current branch's build live in the terminal, `retry --last` to rerun the most recent failure, `browse` to open the project page, or `build --last` to inspect the latest result. Branch and project are inferred from the current Git remote so you rarely pass arguments.\n\nBuilt in 2016, before CircleCI shipped its own CLI, with the goal of keeping the \"push → watch → diagnose → retry\" loop entirely inside the terminal.",
-    "links": []
-  },
-  {
-    "repo": "kotlinz/kotlinz",
-    "text": "A Scalaz-flavored functional programming library for Kotlin. Provides Either, Maybe and Identity; the Reader / Writer / State / Kleisli monad transformer family; and a typeclass hierarchy of Functor, Applicative, Monad, Foldable, Category, Arrow, Group and Monoid. Higher-kinded types are emulated via a Kinds witness encoding so `M<F, A>` style programming compiles against Kotlin's monomorphic generics.\n\nStarted in mid-2016, four months after Kotlin 1.0 and before arrow-kt existed, to bring idiomatic Scalaz patterns to the JVM in a more concise host language.",
-    "links": []
-  },
-  {
-    "repo": "unhappychoice/terminal_image",
-    "text": "A Ruby gem that displays full-resolution images directly in the terminal. Hands the bytes off to the iTerm2 inline image protocol on macOS, or to libsixel's `img2sixel` on terminals with sixel support, so the result is real pixels rather than the ASCII or colored-block approximations most \"image in terminal\" tools produce.\n\nThe API is two functions: `TerminalImage.show(file)` to render and `TerminalImage.encode(file)` to get the escape-sequence-wrapped string for embedding in your own output. Useful for CLI tools that want to surface screenshots, charts or thumbnails inline without launching a separate viewer.",
-    "links": []
-  },
-  {
-    "repo": "bitflyer-tools/bitflyer",
-    "text": "A Ruby SDK for bitFlyer Lightning, Japan's largest crypto exchange. Wraps both halves of the public API in one gem: a REST client for snapshot data and order management (`board`, `positions`, `child_order`), and a realtime WebSocket client where you subscribe to channels like `ticker_btc_jpy` or `child_order_events` by assigning a lambda to a property.\n\nThe realtime client handles reconnection on its own. `ready` and `disconnected` callbacks fire as the underlying socket cycles through authentication, subscription, drop and recovery, so trading bots written on top do not need their own connection state machine.",
+    "repo": "unhappychoice/gitlogue",
+    "text": "Replays a repository's Git history as a keystroke-level animation. Each commit is typed into the file it touched in real time, with tree-sitter syntax highlighting across 29 languages and a project tree that updates as files appear, move and disappear. Where typical git visualizers show a graph or a diff, gitlogue shows the act of editing.\n\nWorks on any local repo. Pick a commit, a range, an author or a date filter, or launch with no arguments for an endless screensaver of random commits. Nine built-in themes plus a YAML override for typing speed, colors and layout.",
     "links": []
   },
   {
@@ -47,13 +35,28 @@
     "links": []
   },
   {
-    "repo": "bitflyer-tools/cycle-flyer",
-    "text": "A web trading client for bitFlyer Lightning's futures market, built as a Cycle.js single-page app. Real-time market data and execution feeds arrive over WebSocket, flow through xstream streams, and update the order book, ticker and position panels. Order entry and cancellation are issued against the same API the official UI uses.\n\nWhere most trading UIs are written in React or Vue, cycle-flyer is fully reactive in the Cycle.js sense: every component is a function from streams of input events to streams of DOM and HTTP requests, with no mutable state in user code. Cycle drivers handle DOM, HTTP, history, persisted local storage and the WebSocket connection.",
+    "repo": "bitflyer-tools/DroidFlyer",
+    "text": "An Android client for bitFlyer Lightning's spot and futures markets, published to Google Play. Streams live ticker data and execution feeds, renders the order book and position panels, and lets you submit, modify or cancel orders from the phone.\n\nArchitecture mirrors Norimaki: Square's Mortar (presenter / view scopes) and Flow (navigation back-stack) on top of RxKotlin streams driving the WebSocket feed and UI updates. No Activities or Fragments in user code; each screen is a plain view + presenter pair.",
     "links": []
   },
   {
-    "repo": "unhappychoice/splashboard",
-    "text": "A configurable terminal dashboard that prints on every shell startup and every `cd`. The default splash shows greetings, git status, CI health, open PRs, a contributions heatmap and the moon phase, all driven by widgets composed from a fetcher (data source), a renderer (visual shape) and a layout slot.\n\nThe distinctive feature is per-directory configuration: a repo that ships `./.splashboard/dashboard.toml` reshapes the splash automatically when you `cd` into it, so a backend repo can show test status while a docs repo shows build health, with no global state. Per-directory configs run inside a sandboxed trust model so cloning a hostile repo cannot escalate. `splashboard install` detects your shell, walks you through template / theme pickers, and wires up the rc file for you.",
+    "repo": "kotlinz/kotlinz",
+    "text": "A Scalaz-flavored functional programming library for Kotlin. Provides Either, Maybe and Identity; the Reader / Writer / State / Kleisli monad transformer family; and a typeclass hierarchy of Functor, Applicative, Monad, Foldable, Category, Arrow, Group and Monoid. Higher-kinded types are emulated via a Kinds witness encoding so `M<F, A>` style programming compiles against Kotlin's monomorphic generics.\n\nStarted in mid-2016, four months after Kotlin 1.0 and before arrow-kt existed, to bring idiomatic Scalaz patterns to the JVM in a more concise host language.",
+    "links": []
+  },
+  {
+    "repo": "circleci-tools/circleci-cli",
+    "text": "A Ruby CLI for CircleCI that collapses the CI dashboard into a handful of commands. Run `circleci-cli watch` from any project directory to stream the current branch's build live in the terminal, `retry --last` to rerun the most recent failure, `browse` to open the project page, or `build --last` to inspect the latest result. Branch and project are inferred from the current Git remote so you rarely pass arguments.\n\nBuilt in 2016, before CircleCI shipped its own CLI, with the goal of keeping the \"push → watch → diagnose → retry\" loop entirely inside the terminal.",
+    "links": []
+  },
+  {
+    "repo": "unhappychoice/steamfetch",
+    "text": "A neofetch-style CLI that prints your Steam profile to the terminal: total playtime, top games by hours, recently played titles, achievement counts and your rarest unlocks, alongside an ASCII Steam logo or your actual avatar rendered in terminal pixels. One command, instantly readable in any shell session.\n\nPulls data through the Steam Web API. If the Steam client is running locally, it auto-detects your Steam ID through the native SDK so you only ever provide an API key. Configurable via `~/.config/steamfetch/config.toml` or environment variables, with toggles for which sections to show and how many entries each lists.",
+    "links": []
+  },
+  {
+    "repo": "unhappychoice/terminal_image",
+    "text": "A Ruby gem that displays full-resolution images directly in the terminal. Hands the bytes off to the iTerm2 inline image protocol on macOS, or to libsixel's `img2sixel` on terminals with sixel support, so the result is real pixels rather than the ASCII or colored-block approximations most \"image in terminal\" tools produce.\n\nThe API is two functions: `TerminalImage.show(file)` to render and `TerminalImage.encode(file)` to get the escape-sequence-wrapped string for embedding in your own output. Useful for CLI tools that want to surface screenshots, charts or thumbnails inline without launching a separate viewer.",
     "links": []
   },
   {
@@ -62,20 +65,23 @@
     "links": []
   },
   {
-    "repo": "bitflyer-tools/DroidFlyer",
-    "text": "An Android client for bitFlyer Lightning's spot and futures markets, published to Google Play. Streams live ticker data and execution feeds, renders the order book and position panels, and lets you submit, modify or cancel orders from the phone.\n\nArchitecture mirrors Norimaki: Square's Mortar (presenter / view scopes) and Flow (navigation back-stack) on top of RxKotlin streams driving the WebSocket feed and UI updates. No Activities or Fragments in user code; each screen is a plain view + presenter pair.",
+    "repo": "bitflyer-tools/bitflyer",
+    "text": "A Ruby SDK for bitFlyer Lightning, Japan's largest crypto exchange. Wraps both halves of the public API in one gem: a REST client for snapshot data and order management (`board`, `positions`, `child_order`), and a realtime WebSocket client where you subscribe to channels like `ticker_btc_jpy` or `child_order_events` by assigning a lambda to a property.\n\nThe realtime client handles reconnection on its own. `ready` and `disconnected` callbacks fire as the underlying socket cycles through authentication, subscription, drop and recovery, so trading bots written on top do not need their own connection state machine.",
+    "links": []
+  },
+  {
+    "repo": "bitflyer-tools/cycle-flyer",
+    "text": "A web trading client for bitFlyer Lightning's futures market, built as a Cycle.js single-page app. Real-time market data and execution feeds arrive over WebSocket, flow through xstream streams, and update the order book, ticker and position panels. Order entry and cancellation are issued against the same API the official UI uses.\n\nWhere most trading UIs are written in React or Vue, cycle-flyer is fully reactive in the Cycle.js sense: every component is a function from streams of input events to streams of DOM and HTTP requests, with no mutable state in user code. Cycle drivers handle DOM, HTTP, history, persisted local storage and the WebSocket connection.",
     "links": []
   },
   {
     "repo": "unhappychoice/weekly-report",
     "text": "A self-running record of my GitHub activity. A scheduled GitHub Action collects commits, PRs and reviews at midnight Asia/Tokyo; each week an LLM writes a narrative summary; the result deploys to GitHub Pages as a blog-style report site plus an animated profile card SVG that embeds in any GitHub profile README.\n\nThe reporting engine itself is [github-weekly-reporter](https://github.com/deariary/github-weekly-reporter); this repo is its live deployment for me. The workflow file picks the theme, language, timezone and LLM model.",
     "links": [
-      { "label": "Live reports", "url": "https://unhappychoice.github.io/weekly-report" }
+      {
+        "label": "Live reports",
+        "url": "https://unhappychoice.github.io/weekly-report"
+      }
     ]
-  },
-  {
-    "repo": "deariary/github-weekly-reporter",
-    "text": "A GitHub Action and npm CLI that turns your GitHub activity into a weekly report site, automatically. A daily workflow collects commits, PRs and reviews; a weekly workflow asks an LLM to write the narrative; the result deploys to GitHub Pages as a self-contained HTML page (no JavaScript) with OG images, JSON-LD and a sitemap. An animated SVG news-ticker card embeds the latest headlines into any GitHub profile README.\n\n`npx github-weekly-reporter setup` is interactive: it creates the destination repository, writes the workflow files, stores the PAT and LLM secret, enables Pages and triggers the first run. Four themes (brutalist / minimal / editorial / swiss), ten languages, any LLM provider with an API key. The whole stack runs at $0/month on public repos by leaning on free tiers (OpenRouter / Groq / Gemini).",
-    "links": []
   }
 ]
