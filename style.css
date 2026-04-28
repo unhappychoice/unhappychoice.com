@@ -191,7 +191,7 @@ li {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  padding: 16px 32px;
+  padding: 16px 24px 24px;
 }
 
 .repos-empty,
@@ -204,7 +204,7 @@ li {
 .repo-card {
   display: flex;
   flex-direction: row;
-  height: 116px;
+  height: 126px;
   border: 1px solid rgba(0,0,0,0.12);
   overflow: hidden;
   background: #FDFDFD;
@@ -227,7 +227,7 @@ li {
 
 .repo-card__hero {
   flex-shrink: 0;
-  width: 220px;
+  width: 240px;
   height: 100%;
   display: block;
   background: #F2F6F8;
