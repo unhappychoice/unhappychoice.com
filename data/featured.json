@@ -18,6 +18,41 @@
   },
   {
     "repo": "unhappychoice/steamfetch",
+    "text": "A neofetch-style CLI that prints your Steam profile to the terminal: total playtime, top games by hours, recently played titles, achievement counts and your rarest unlocks, alongside an ASCII Steam logo or your actual avatar rendered in terminal pixels. One command, instantly readable in any shell session.\n\nPulls data through the Steam Web API. If the Steam client is running locally, it auto-detects your Steam ID through the native SDK so you only ever provide an API key. Configurable via `~/.config/steamfetch/config.toml` or environment variables, with toggles for which sections to show and how many entries each lists.",
+    "links": []
+  },
+  {
+    "repo": "circleci-tools/circleci-cli",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "kotlinz/kotlinz",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "unhappychoice/terminal_image",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "bitflyer-tools/bitflyer",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "circleci-tools/Norimaki",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "bitflyer-tools/cycle-flyer",
+    "text": "TODO",
+    "links": []
+  },
+  {
+    "repo": "unhappychoice/splashboard",
     "text": "TODO",
     "links": []
   }
