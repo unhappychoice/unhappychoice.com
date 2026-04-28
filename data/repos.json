@@ -66,12 +66,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1080,
+    "stargazers_count": 1081,
     "forks_count": 26,
     "open_issues_count": 13,
     "archived": false,
     "pushed_at": "2026-04-27T23:48:18Z",
-    "updated_at": "2026-04-28T05:44:05Z",
+    "updated_at": "2026-04-28T15:04:12Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa"
   },
@@ -628,35 +628,6 @@
     "og_image": "https://opengraph.githubassets.com/c75521242e0b3bf8fa42be8887d30fa65718a2e8a7f5778e6bd394544c317f70/unhappychoice/lita-aws-cloudfront"
   },
   {
-    "name": "cycle-cropper",
-    "full_name": "unhappychoice/cycle-cropper",
-    "owner": "unhappychoice",
-    "description": ":recycle: Cycle.js component for https://github.com/fengyuanchen/cropperjs",
-    "html_url": "https://github.com/unhappychoice/cycle-cropper",
-    "homepage": "",
-    "language": "TypeScript",
-    "topics": [
-      "cropper",
-      "cropperjs",
-      "cycle-cropper",
-      "cyclejs",
-      "frontend",
-      "image",
-      "image-cropping",
-      "javascript",
-      "library",
-      "typescript"
-    ],
-    "stargazers_count": 8,
-    "forks_count": 3,
-    "open_issues_count": 1,
-    "archived": false,
-    "pushed_at": "2026-04-25T01:23:11Z",
-    "updated_at": "2026-04-25T01:23:14Z",
-    "created_at": "2017-11-24T17:03:49Z",
-    "og_image": "https://opengraph.githubassets.com/5934b58d1101a24da9d46964c68f8daa73d43f09b41850c0cf4fc4f39c8d0ebd/unhappychoice/cycle-cropper"
-  },
-  {
     "name": "dotfiles",
     "full_name": "unhappychoice/dotfiles",
     "owner": "unhappychoice",
@@ -1134,6 +1105,28 @@
     "og_image": "https://opengraph.githubassets.com/9b8220f6c7c8daf8eea0e33f7b63359570150e8cc1375a700aa2c8dcc6de2cd0/unhappychoice/elasticsearch-docker"
   },
   {
+    "name": "unhappychoice.com",
+    "full_name": "unhappychoice/unhappychoice.com",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
+    "homepage": null,
+    "language": "JavaScript",
+    "topics": [
+      "html",
+      "personal-website",
+      "portfolio"
+    ],
+    "stargazers_count": 2,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-04-28T13:53:34Z",
+    "updated_at": "2026-04-28T13:55:57Z",
+    "created_at": "2025-07-23T19:30:13Z",
+    "og_image": "https://opengraph.githubassets.com/e9f634052af6cd97a2b93f71585d1c9fa1c2c92c4b1f4200b1701d94143a4e48/unhappychoice/unhappychoice.com"
+  },
+  {
     "name": "deep_wiki_instance",
     "full_name": "unhappychoice/deep_wiki_instance",
     "owner": "unhappychoice",
@@ -1155,28 +1148,6 @@
     "updated_at": "2026-02-13T11:49:01Z",
     "created_at": "2025-07-04T16:44:18Z",
     "og_image": "https://opengraph.githubassets.com/3a9225e3e2efc87414cc5a68c3ba8eac9e2eb2f796b968ba430a8219fb0beb42/unhappychoice/deep_wiki_instance"
-  },
-  {
-    "name": "unhappychoice.com",
-    "full_name": "unhappychoice/unhappychoice.com",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
-    "homepage": null,
-    "language": "HTML",
-    "topics": [
-      "html",
-      "personal-website",
-      "portfolio"
-    ],
-    "stargazers_count": 2,
-    "forks_count": 0,
-    "open_issues_count": 2,
-    "archived": false,
-    "pushed_at": "2026-04-28T13:39:01Z",
-    "updated_at": "2026-02-13T11:49:00Z",
-    "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/3903f4b8246bec12e9d2dd8a85b68ccb4086bfe641b678fbf0088c68836126d3/unhappychoice/unhappychoice.com"
   },
   {
     "name": "lifegame",

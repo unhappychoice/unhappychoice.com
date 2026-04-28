@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T13:43:06Z",
-  "total_repos": 50,
-  "total_stars": 6599,
-  "total_forks": 211,
+  "generated_at": "2026-04-28T15:48:09Z",
+  "total_repos": 49,
+  "total_stars": 6592,
+  "total_forks": 208,
   "archived_count": 11,
   "languages": [
     {
@@ -14,16 +14,16 @@
       "count": 8
     },
     {
+      "language": "Rust",
+      "count": 5
+    },
+    {
       "language": "TypeScript",
-      "count": 6
+      "count": 5
     },
     {
       "language": "HTML",
-      "count": 5
-    },
-    {
-      "language": "Rust",
-      "count": 5
+      "count": 4
     },
     {
       "language": "Dockerfile",
@@ -31,6 +31,10 @@
     },
     {
       "language": "Java",
+      "count": 1
+    },
+    {
+      "language": "JavaScript",
       "count": 1
     },
     {
@@ -49,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 38,
-      "stars": 6301
+      "repo_count": 37,
+      "stars": 6294
     },
     {
       "owner": "circleci-tools",
@@ -96,23 +100,11 @@
       "count": 6
     },
     {
-      "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "library",
-      "count": 5
-    },
-    {
       "topic": "rust",
       "count": 5
     },
     {
       "topic": "terminal",
-      "count": 5
-    },
-    {
-      "topic": "typescript",
       "count": 5
     },
     {
@@ -141,6 +133,18 @@
     },
     {
       "topic": "github-pages",
+      "count": 4
+    },
+    {
+      "topic": "image",
+      "count": 4
+    },
+    {
+      "topic": "library",
+      "count": 4
+    },
+    {
+      "topic": "typescript",
       "count": 4
     },
     {
