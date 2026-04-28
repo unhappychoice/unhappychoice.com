@@ -4,22 +4,30 @@
   const ACTIVITY_BASE = '../data/activity/';
   const root = document.getElementById('repos-root');
   const filterRoot = document.getElementById('repos-filter');
+  const sortSelect = document.getElementById('repos-sort');
   const modal = document.getElementById('repo-modal');
   const modalContent = document.getElementById('repo-modal-content');
   if (!root) return;
 
-  const state = { byName: {} };
+  const state = { byName: {}, repos: [], lang: 'All', sort: 'featured' };
 
   const render = (repos) => {
-    const languages = uniqueLanguages(repos);
-    renderFilter(languages, repos);
-    renderCards(repos);
+    state.repos = repos;
+    renderFilter(uniqueLanguages(repos));
+    if (sortSelect) {
+      sortSelect.value = state.sort;
+      sortSelect.addEventListener('change', () => {
+        state.sort = sortSelect.value;
+        rerender();
+      });
+    }
+    rerender();
   };
 
   const uniqueLanguages = (repos) =>
     [...new Set(repos.map((r) => r.language).filter(Boolean))].sort();
 
-  const renderFilter = (languages, repos) => {
+  const renderFilter = (languages) => {
     if (!filterRoot) return;
     const buttons = ['All', ...languages]
       .map((lang) => `<button type="button" class="filter-chip" data-lang="${lang}">${lang}</button>`)
@@ -29,11 +37,36 @@
       btn.addEventListener('click', () => {
         filterRoot.querySelectorAll('.filter-chip').forEach((b) => b.classList.remove('active'));
         btn.classList.add('active');
-        const lang = btn.dataset.lang;
-        renderCards(lang === 'All' ? repos : repos.filter((r) => r.language === lang));
+        state.lang = btn.dataset.lang;
+        rerender();
       });
     });
     filterRoot.querySelector('.filter-chip').classList.add('active');
+  };
+
+  const rerender = () => {
+    const filtered = state.lang === 'All' ? state.repos : state.repos.filter((r) => r.language === state.lang);
+    renderCards(applySort(filtered, state.sort));
+  };
+
+  const applySort = (repos, sort) => {
+    const list = repos.slice();
+    switch (sort) {
+      case 'stars':
+        return list.sort((a, b) => b.stargazers_count - a.stargazers_count);
+      case 'updated':
+        return list.sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+      case 'created':
+        return list.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+      case 'featured':
+      default:
+        return list.sort((a, b) => {
+          const af = a._featured ? a._featured._order : 9999;
+          const bf = b._featured ? b._featured._order : 9999;
+          if (af !== bf) return af - bf;
+          return b.stargazers_count - a.stargazers_count;
+        });
+    }
   };
 
   const renderCards = (repos) => {
@@ -278,13 +311,7 @@
       const featuredByRepo = Object.fromEntries((featured || []).map((f, i) => [f.repo, { ...f, _order: i }]));
       const enriched = repos
         .filter((r) => !r.archived)
-        .map((r) => ({ ...r, _featured: featuredByRepo[r.full_name] || null }))
-        .sort((a, b) => {
-          const af = a._featured ? a._featured._order : 9999;
-          const bf = b._featured ? b._featured._order : 9999;
-          if (af !== bf) return af - bf;
-          return b.stargazers_count - a.stargazers_count;
-        });
+        .map((r) => ({ ...r, _featured: featuredByRepo[r.full_name] || null }));
       enriched.forEach((r) => (state.byName[r.full_name] = r));
       render(enriched);
       wireInteractions();
