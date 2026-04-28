@@ -28,7 +28,7 @@
   },
   {
     "repo": "kotlinz/kotlinz",
-    "text": "TODO",
+    "text": "A Scalaz-flavored functional programming library for Kotlin. Provides Either, Maybe and Identity; the Reader / Writer / State / Kleisli monad transformer family; and a typeclass hierarchy of Functor, Applicative, Monad, Foldable, Category, Arrow, Group and Monoid. Higher-kinded types are emulated via a Kinds witness encoding so `M<F, A>` style programming compiles against Kotlin's monomorphic generics.\n\nStarted in mid-2016, four months after Kotlin 1.0 and before arrow-kt existed, to bring idiomatic Scalaz patterns to the JVM in a more concise host language.",
     "links": []
   },
   {
