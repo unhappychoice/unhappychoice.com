@@ -402,6 +402,7 @@ li {
 .stats-tile {
   padding: 16px;
   text-align: center;
+  border: 1px solid rgba(0,0,0,0.12);
 }
 
 .stats-tile__value {
