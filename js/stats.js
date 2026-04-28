@@ -10,6 +10,7 @@
       ${renderOwners(stats.by_owner)}
       ${renderUpdated(stats.generated_at)}
     `;
+    wireToggles();
   };
 
   const renderTotals = (stats) => `
@@ -31,18 +32,37 @@
   const renderLanguages = (languages) => {
     if (!languages || languages.length === 0) return '';
     const total = languages.reduce((acc, l) => acc + l.count, 0);
-    const bars = languages
-      .map((l) => {
-        const pct = ((l.count / total) * 100).toFixed(1);
-        return `
-          <div class="stats-bar">
-            <div class="stats-bar__label"><span>${escape(l.language)}</span><span>${l.count} (${pct}%)</span></div>
-            <div class="stats-bar__track"><div class="stats-bar__fill" style="width:${pct}%"></div></div>
-          </div>
-        `;
-      })
-      .join('');
-    return `<div class="stats-section"><h3>Languages</h3>${bars}</div>`;
+    const bar = (l) => {
+      const pct = ((l.count / total) * 100).toFixed(1);
+      return `
+        <div class="stats-bar">
+          <div class="stats-bar__label"><span>${escape(l.language)}</span><span>${l.count} (${pct}%)</span></div>
+          <div class="stats-bar__track"><div class="stats-bar__fill" style="width:${pct}%"></div></div>
+        </div>
+      `;
+    };
+    const TOP = 5;
+    const top = languages.slice(0, TOP).map(bar).join('');
+    const rest = languages.slice(TOP);
+    const restHtml = rest.length
+      ? `
+        <div class="stats-bars-more" hidden>${rest.map(bar).join('')}</div>
+        <button type="button" class="stats-toggle" data-target="stats-bars-more">Show ${rest.length} more</button>
+      `
+      : '';
+    return `<div class="stats-section"><h3>Languages</h3>${top}${restHtml}</div>`;
+  };
+
+  const wireToggles = () => {
+    root.querySelectorAll('.stats-toggle').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const more = btn.previousElementSibling;
+        if (!more) return;
+        const expanded = !more.hidden;
+        more.hidden = expanded;
+        btn.textContent = expanded ? `Show ${more.children.length} more` : 'Show less';
+      });
+    });
   };
 
   const renderOwners = (owners) => {

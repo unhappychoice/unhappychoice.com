@@ -452,6 +452,20 @@ li {
   background: #357C96;
 }
 
+.stats-toggle {
+  margin-top: 4px;
+  padding: 2px 0;
+  background: none;
+  border: none;
+  font-size: 12px;
+  color: #3A6BA5;
+  cursor: pointer;
+}
+
+.stats-toggle:hover {
+  text-decoration: underline;
+}
+
 .stats-table {
   width: 100%;
   font-size: 13px;
