@@ -153,12 +153,19 @@
 
   // ── Modal ─────────────────────────────────────────────────────────
 
+  const withTransition = (fn) => {
+    if (document.startViewTransition) document.startViewTransition(fn);
+    else fn();
+  };
+
   const openModal = (fullName) => {
     const r = state.byName[fullName];
     if (!r) return;
-    renderModal(r);
-    modal.hidden = false;
-    document.body.classList.add('modal-open');
+    withTransition(() => {
+      renderModal(r);
+      modal.hidden = false;
+      document.body.classList.add('modal-open');
+    });
     fetch(`${ACTIVITY_BASE}${fullName.replace('/', '__')}.json`)
       .then((res) => (res.ok ? res.json() : []))
       .then((events) => renderModalActivity(events))
@@ -166,9 +173,12 @@
   };
 
   const closeModal = () => {
-    modal.hidden = true;
-    document.body.classList.remove('modal-open');
-    modalContent.innerHTML = '';
+    if (modal.hidden) return;
+    withTransition(() => {
+      modal.hidden = true;
+      document.body.classList.remove('modal-open');
+      modalContent.innerHTML = '';
+    });
   };
 
   const renderModal = (r) => {
