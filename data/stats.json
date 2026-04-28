@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-04-28T10:49:27Z",
+  "total_repos": 51,
+  "total_stars": 6585,
+  "total_forks": 207,
+  "archived_count": 11,
+  "languages": [
+    {
+      "language": "Ruby",
+      "count": 14
+    },
+    {
+      "language": "Kotlin",
+      "count": 8
+    },
+    {
+      "language": "HTML",
+      "count": 5
+    },
+    {
+      "language": "Rust",
+      "count": 5
+    },
+    {
+      "language": "TypeScript",
+      "count": 5
+    },
+    {
+      "language": "Dockerfile",
+      "count": 2
+    },
+    {
+      "language": "Haskell",
+      "count": 2
+    },
+    {
+      "language": "Java",
+      "count": 1
+    },
+    {
+      "language": "Objective-C",
+      "count": 1
+    },
+    {
+      "language": "Shell",
+      "count": 1
+    },
+    {
+      "language": "Swift",
+      "count": 1
+    }
+  ],
+  "by_owner": [
+    {
+      "owner": "unhappychoice",
+      "repo_count": 40,
+      "stars": 6308
+    },
+    {
+      "owner": "circleci-tools",
+      "repo_count": 3,
+      "stars": 119
+    },
+    {
+      "owner": "bitflyer-tools",
+      "repo_count": 4,
+      "stars": 72
+    },
+    {
+      "owner": "kotlinz",
+      "repo_count": 1,
+      "stars": 47
+    },
+    {
+      "owner": "irasutoya-tools",
+      "repo_count": 3,
+      "stars": 39
+    }
+  ],
+  "top_topics": [
+    {
+      "topic": "cli",
+      "count": 12
+    },
+    {
+      "topic": "ruby",
+      "count": 10
+    },
+    {
+      "topic": "bitcoin",
+      "count": 6
+    },
+    {
+      "topic": "kotlin",
+      "count": 6
+    },
+    {
+      "topic": "terminal",
+      "count": 6
+    },
+    {
+      "topic": "developer-tools",
+      "count": 5
+    },
+    {
+      "topic": "image",
+      "count": 5
+    },
+    {
+      "topic": "library",
+      "count": 5
+    },
+    {
+      "topic": "rust",
+      "count": 5
+    },
+    {
+      "topic": "trading",
+      "count": 5
+    },
+    {
+      "topic": "android",
+      "count": 4
+    },
+    {
+      "topic": "bitflyer",
+      "count": 4
+    },
+    {
+      "topic": "blog",
+      "count": 4
+    },
+    {
+      "topic": "command-line",
+      "count": 4
+    },
+    {
+      "topic": "command-line-tool",
+      "count": 4
+    },
+    {
+      "topic": "gem",
+      "count": 4
+    },
+    {
+      "topic": "typescript",
+      "count": 4
+    },
+    {
+      "topic": "websocket",
+      "count": 4
+    },
+    {
+      "topic": "circle-ci",
+      "count": 3
+    },
+    {
+      "topic": "circleci",
+      "count": 3
+    }
+  ]
+}
