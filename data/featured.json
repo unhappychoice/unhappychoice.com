@@ -65,5 +65,12 @@
     "repo": "bitflyer-tools/DroidFlyer",
     "text": "An Android client for bitFlyer Lightning's spot and futures markets, published to Google Play. Streams live ticker data and execution feeds, renders the order book and position panels, and lets you submit, modify or cancel orders from the phone.\n\nArchitecture mirrors Norimaki: Square's Mortar (presenter / view scopes) and Flow (navigation back-stack) on top of RxKotlin streams driving the WebSocket feed and UI updates. No Activities or Fragments in user code; each screen is a plain view + presenter pair.",
     "links": []
+  },
+  {
+    "repo": "unhappychoice/weekly-report",
+    "text": "A self-running record of my GitHub activity. A scheduled GitHub Action collects commits, PRs and reviews at midnight Asia/Tokyo; each week an LLM writes a narrative summary; the result deploys to GitHub Pages as a blog-style report site plus an animated profile card SVG that embeds in any GitHub profile README.\n\nThe reporting engine itself is [github-weekly-reporter](https://github.com/deariary/github-weekly-reporter); this repo is its live deployment for me. The workflow file picks the theme, language, timezone and LLM model.",
+    "links": [
+      { "label": "Live reports", "url": "https://unhappychoice.github.io/weekly-report" }
+    ]
   }
 ]
