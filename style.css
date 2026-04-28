@@ -402,14 +402,12 @@ li {
 .stats-tile {
   padding: 16px;
   text-align: center;
-  background: #F2F6F8;
-
 }
 
 .stats-tile__value {
   font-size: 24px;
   font-weight: 500;
-  color: #357C96;
+  color: rgba(0,0,0,0.87);
 }
 
 .stats-tile__label {
