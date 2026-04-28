@@ -76,11 +76,8 @@
   };
 
   const renderText = (r, f) => {
-    if (f && (f.tagline || f.story)) {
-      return `
-        ${f.tagline ? `<p class="repo-card__tagline">${escape(f.tagline)}</p>` : ''}
-        ${f.story ? `<div class="repo-card__story">${renderMarkdown(f.story)}</div>` : ''}
-      `;
+    if (f && f.text) {
+      return `<div class="repo-card__story">${renderMarkdown(f.text)}</div>`;
     }
     return r.description ? `<p class="repo-card__desc">${escape(r.description)}</p>` : '';
   };

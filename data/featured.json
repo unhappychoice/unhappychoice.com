@@ -1,28 +1,24 @@
 [
   {
     "repo": "unhappychoice/gitlogue",
-    "tagline": "TODO: 1行で何が嬉しいか",
-    "story": "TODO: なぜ作ったか / 何を解決するか / 学び。\n\n空行で段落分け。**bold** と [link](https://example.com) が使える。",
+    "text": "TODO: なぜ作ったか / 何を解決するか / 学び。\n\n空行で段落分け。**bold** と [link](https://example.com) が使える。",
     "links": []
   },
   {
     "repo": "unhappychoice/gittype",
-    "tagline": "TODO",
-    "story": "TODO",
+    "text": "TODO",
     "links": []
   },
   {
     "repo": "unhappychoice/mdts",
-    "tagline": "TODO",
-    "story": "TODO",
+    "text": "TODO",
     "links": [
       { "label": "Live demo", "url": "https://mdts.unhappychoice.com" }
     ]
   },
   {
     "repo": "unhappychoice/steamfetch",
-    "tagline": "TODO",
-    "story": "TODO",
+    "text": "TODO",
     "links": []
   }
 ]
