@@ -60,9 +60,7 @@
               <span class="repo-card__stars" title="Forks">⑂ ${formatNumber(r.forks_count)}</span>
             </div>
           </div>
-          ${r.description ? `<p class="repo-card__desc">${escape(r.description)}</p>` : ''}
-          ${f && f.tagline ? `<p class="repo-card__tagline">${escape(f.tagline)}</p>` : ''}
-          ${f && f.story ? `<div class="repo-card__story">${renderMarkdown(f.story)}</div>` : ''}
+          ${renderText(r, f)}
           <div class="repo-card__links">
             <a href="${escape(r.html_url)}" target="_blank" rel="noopener">GitHub →</a>
             ${r.homepage ? `<a href="${escape(r.homepage)}" target="_blank" rel="noopener">Site →</a>` : ''}
@@ -75,6 +73,16 @@
         </div>
       </article>
     `;
+  };
+
+  const renderText = (r, f) => {
+    if (f && (f.tagline || f.story)) {
+      return `
+        ${f.tagline ? `<p class="repo-card__tagline">${escape(f.tagline)}</p>` : ''}
+        ${f.story ? `<div class="repo-card__story">${renderMarkdown(f.story)}</div>` : ''}
+      `;
+    }
+    return r.description ? `<p class="repo-card__desc">${escape(r.description)}</p>` : '';
   };
 
   const loadActivity = (fullName) => {
