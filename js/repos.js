@@ -1,7 +1,6 @@
 (() => {
   const REPOS_URL = '../data/repos.json';
   const FEATURED_URL = '../data/featured.json';
-  const ACTIVITY_BASE = '../data/activity/';
   const root = document.getElementById('repos-root');
   const filterRoot = document.getElementById('repos-filter');
   if (!root) return;
@@ -38,7 +37,6 @@
       return;
     }
     root.innerHTML = repos.map(cardHtml).join('');
-    repos.forEach((r) => loadActivity(r.full_name));
   };
 
   const cardHtml = (r) => {
@@ -62,14 +60,12 @@
           </div>
           ${renderText(r, f)}
           <div class="repo-card__links">
-            <a href="${escape(r.html_url)}" target="_blank" rel="noopener">GitHub →</a>
             ${r.homepage ? `<a href="${escape(r.homepage)}" target="_blank" rel="noopener">Site →</a>` : ''}
             ${(f && f.links ? f.links : [])
               .map((l) => `<a href="${escape(l.url)}" target="_blank" rel="noopener">${escape(l.label)} →</a>`)
               .join('')}
             <span class="repo-card__pushed">Updated ${formatDate(r.pushed_at)}</span>
           </div>
-          <div class="repo-card__activity" data-repo="${escape(r.full_name)}"></div>
         </div>
       </article>
     `;
@@ -80,59 +76,6 @@
       return `<div class="repo-card__story">${renderMarkdown(f.text)}</div>`;
     }
     return r.description ? `<p class="repo-card__desc">${escape(r.description)}</p>` : '';
-  };
-
-  const loadActivity = (fullName) => {
-    const slot = root.querySelector(`.repo-card__activity[data-repo="${cssEscape(fullName)}"]`);
-    if (!slot) return;
-    const url = `${ACTIVITY_BASE}${fullName.replace('/', '__')}.json`;
-    fetch(url)
-      .then((res) => (res.ok ? res.json() : Promise.reject(new Error(res.statusText))))
-      .then((events) => {
-        const items = events.slice(0, 3).map(activityHtml).filter(Boolean);
-        if (items.length === 0) return;
-        slot.innerHTML = `<h4>Recent activity</h4><ul>${items.join('')}</ul>`;
-      })
-      .catch(() => {});
-  };
-
-  const activityHtml = (e) => {
-    const summary = describe(e);
-    if (!summary) return null;
-    return `<li><span class="repo-card__activity-icon">${summary.icon}</span> ${summary.text} <span class="repo-card__activity-time">${formatDate(e.created_at)}</span></li>`;
-  };
-
-  const describe = (e) => {
-    switch (e.type) {
-      case 'PullRequestEvent':
-        if (!e.pr_title) return null;
-        return {
-          icon: e.pr_merged ? '✓' : '↻',
-          text: `${e.pr_merged ? 'merged' : e.action || 'updated'} <a href="${escape(e.pr_url)}" target="_blank" rel="noopener">#${e.pr_number} ${escape(e.pr_title)}</a>`,
-        };
-      case 'ReleaseEvent':
-        if (!e.release_tag) return null;
-        return {
-          icon: '⛳',
-          text: `released <a href="${escape(e.release_url)}" target="_blank" rel="noopener">${escape(e.release_name || e.release_tag)}</a>`,
-        };
-      case 'IssuesEvent':
-        if (!e.issue_title) return null;
-        return {
-          icon: e.action === 'closed' ? '◉' : '○',
-          text: `${e.action} <a href="${escape(e.issue_url)}" target="_blank" rel="noopener">#${e.issue_number} ${escape(e.issue_title)}</a>`,
-        };
-      case 'PushEvent':
-        if (!e.ref) return null;
-        const branch = e.ref.replace(/^refs\/heads\//, '');
-        const count = e.commit_count || 1;
-        return { icon: '➤', text: `pushed ${count} commit${count === 1 ? '' : 's'} to <code>${escape(branch)}</code>` };
-      case 'CreateEvent':
-        if (e.ref_type === 'tag' && e.ref) return { icon: '✦', text: `tagged <code>${escape(e.ref)}</code>` };
-        return null;
-      default:
-        return null;
-    }
   };
 
   const renderMarkdown = (md) => {
@@ -166,8 +109,6 @@
 
   const escape = (s) =>
     String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-
-  const cssEscape = (s) => s.replace(/(["\\])/g, '\\$1');
 
   function showError(err) {
     root.innerHTML = `<p class="repos-empty">Failed to load repositories. <a href="https://github.com/unhappychoice" target="_blank" rel="noopener">View on GitHub →</a></p>`;
