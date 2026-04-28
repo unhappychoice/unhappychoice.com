@@ -1,7 +1,7 @@
 [
   {
     "repo": "unhappychoice/gitlogue",
-    "text": "TODO: なぜ作ったか / 何を解決するか / 学び。\n\n空行で段落分け。**bold** と [link](https://example.com) が使える。",
+    "text": "Replays a repository's Git history as a keystroke-level animation. Each commit is typed into the file it touched in real time, with tree-sitter syntax highlighting across 29 languages and a project tree that updates as files appear, move and disappear. Where typical git visualizers show a graph or a diff, gitlogue shows the act of editing.\n\nWorks on any local repo. Pick a commit, a range, an author or a date filter, or launch with no arguments for an endless screensaver of random commits. Nine built-in themes plus a YAML override for typing speed, colors and layout.",
     "links": []
   },
   {
