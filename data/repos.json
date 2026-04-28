@@ -133,12 +133,12 @@
       "terminal",
       "terminal-app"
     ],
-    "stargazers_count": 155,
+    "stargazers_count": 157,
     "forks_count": 4,
     "open_issues_count": 5,
     "archived": false,
     "pushed_at": "2026-04-21T20:46:33Z",
-    "updated_at": "2026-04-27T04:57:26Z",
+    "updated_at": "2026-04-28T18:13:52Z",
     "created_at": "2026-02-05T08:55:26Z",
     "og_image": "https://repository-images.githubusercontent.com/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5"
   },
@@ -970,31 +970,6 @@
     "og_image": "https://opengraph.githubassets.com/e4d7f26801bec6ba322f20db07aa07b81f4c2c3a0d2bd4a3e3194201cb1bc4a3/unhappychoice/slack_channel_stats"
   },
   {
-    "name": "qiita-docs",
-    "full_name": "unhappychoice/qiita-docs",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/qiita-docs",
-    "homepage": "https://qiita.com/unhappychoice",
-    "language": null,
-    "topics": [
-      "articles",
-      "blog",
-      "documentation",
-      "japanese",
-      "qiita",
-      "technical-writing"
-    ],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-04-20T21:43:04Z",
-    "updated_at": "2026-04-20T21:43:08Z",
-    "created_at": "2025-07-22T17:48:21Z",
-    "og_image": "https://opengraph.githubassets.com/6ddef1b21499ecdbd5ce437cea7b22876bd48a8ef3ad286e3218cb289206074a/unhappychoice/qiita-docs"
-  },
-  {
     "name": "zenn-docs",
     "full_name": "unhappychoice/zenn-docs",
     "owner": "unhappychoice",
@@ -1150,10 +1125,10 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-04-28T16:34:30Z",
-    "updated_at": "2026-04-28T16:34:34Z",
+    "pushed_at": "2026-04-28T17:33:25Z",
+    "updated_at": "2026-04-28T17:33:28Z",
     "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/eb053d7af04a9320f902aa222758fa45c5071b834b63499a20bad1ce0051b922/unhappychoice/unhappychoice.com"
+    "og_image": "https://opengraph.githubassets.com/6c48a9a1e1f3498b968654b90727750aca0da5eff6d6f1978f5fb9aabb832a87/unhappychoice/unhappychoice.com"
   },
   {
     "name": "deep_wiki_instance",
