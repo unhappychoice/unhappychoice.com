@@ -72,5 +72,10 @@
     "links": [
       { "label": "Live reports", "url": "https://unhappychoice.github.io/weekly-report" }
     ]
+  },
+  {
+    "repo": "deariary/github-weekly-reporter",
+    "text": "A GitHub Action and npm CLI that turns your GitHub activity into a weekly report site, automatically. A daily workflow collects commits, PRs and reviews; a weekly workflow asks an LLM to write the narrative; the result deploys to GitHub Pages as a self-contained HTML page (no JavaScript) with OG images, JSON-LD and a sitemap. An animated SVG news-ticker card embeds the latest headlines into any GitHub profile README.\n\n`npx github-weekly-reporter setup` is interactive: it creates the destination repository, writes the workflow files, stores the PAT and LLM secret, enables Pages and triggers the first run. Four themes (brutalist / minimal / editorial / swiss), ten languages, any LLM provider with an API key. The whole stack runs at $0/month on public repos by leaning on free tiers (OpenRouter / Groq / Gemini).",
+    "links": []
   }
 ]
