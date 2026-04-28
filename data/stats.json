@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T10:49:27Z",
-  "total_repos": 51,
-  "total_stars": 6585,
+  "generated_at": "2026-04-28T11:50:22Z",
+  "total_repos": 49,
+  "total_stars": 6575,
   "total_forks": 207,
   "archived_count": 11,
   "languages": [
@@ -30,10 +30,6 @@
       "count": 2
     },
     {
-      "language": "Haskell",
-      "count": 2
-    },
-    {
       "language": "Java",
       "count": 1
     },
@@ -53,8 +49,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 40,
-      "stars": 6308
+      "repo_count": 38,
+      "stars": 6298
     },
     {
       "owner": "circleci-tools",
@@ -80,22 +76,14 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "ruby",
       "count": 10
     },
     {
-      "topic": "bitcoin",
-      "count": 6
-    },
-    {
       "topic": "kotlin",
-      "count": 6
-    },
-    {
-      "topic": "terminal",
       "count": 6
     },
     {
@@ -115,11 +103,15 @@
       "count": 5
     },
     {
-      "topic": "trading",
+      "topic": "terminal",
       "count": 5
     },
     {
       "topic": "android",
+      "count": 4
+    },
+    {
+      "topic": "bitcoin",
       "count": 4
     },
     {
@@ -132,10 +124,6 @@
     },
     {
       "topic": "command-line",
-      "count": 4
-    },
-    {
-      "topic": "command-line-tool",
       "count": 4
     },
     {
@@ -156,6 +144,14 @@
     },
     {
       "topic": "circleci",
+      "count": 3
+    },
+    {
+      "topic": "command-line-tool",
+      "count": 3
+    },
+    {
+      "topic": "content",
       "count": 3
     }
   ]
