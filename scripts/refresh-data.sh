@@ -62,29 +62,50 @@ fetch_repos() {
 fetch_repo_activity() {
   local full_name="$1"
   local out_file="$ACTIVITY_DIR/${full_name//\//__}.json"
-  gh api "repos/$full_name/events?per_page=30" 2>/dev/null \
-    | jq '
-        map(select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "ReleaseEvent" or .type == "IssuesEvent" or .type == "CreateEvent"))
-        | map({
-            type, created_at,
-            action: (.payload.action // null),
-            ref: (.payload.ref // null),
-            ref_type: (.payload.ref_type // null),
-            pr_title: (.payload.pull_request.title // null),
-            pr_number: (.payload.pull_request.number // null),
-            pr_merged: (.payload.pull_request.merged // null),
-            pr_url: (.payload.pull_request.html_url // null),
-            issue_title: (.payload.issue.title // null),
-            issue_number: (.payload.issue.number // null),
-            issue_url: (.payload.issue.html_url // null),
-            release_name: (.payload.release.name // null),
-            release_tag: (.payload.release.tag_name // null),
-            release_url: (.payload.release.html_url // null),
-            commit_count: (.payload.commits | length // null)
-          })
-        | .[0:10]
-      ' > "$out_file.tmp" \
-    && mv "$out_file.tmp" "$out_file"
+  local events_file releases_file
+  events_file=$(mktemp) && releases_file=$(mktemp)
+  gh api "repos/$full_name/events?per_page=30" > "$events_file" 2>/dev/null || echo "[]" > "$events_file"
+  gh api "repos/$full_name/releases?per_page=10" > "$releases_file" 2>/dev/null || echo "[]" > "$releases_file"
+  jq -n --slurpfile events "$events_file" --slurpfile releases "$releases_file" '
+    ($events[0]
+      | map(select(.type == "PushEvent" or .type == "PullRequestEvent" or .type == "ReleaseEvent" or .type == "IssuesEvent" or .type == "CreateEvent"))
+      | map({
+          type, created_at,
+          action: (.payload.action // null),
+          ref: (.payload.ref // null),
+          ref_type: (.payload.ref_type // null),
+          pr_title: (.payload.pull_request.title // null),
+          pr_number: (.payload.pull_request.number // null),
+          pr_merged: (.payload.pull_request.merged // null),
+          pr_url: (.payload.pull_request.html_url // null),
+          issue_title: (.payload.issue.title // null),
+          issue_number: (.payload.issue.number // null),
+          issue_url: (.payload.issue.html_url // null),
+          release_name: (.payload.release.name // null),
+          release_tag: (.payload.release.tag_name // null),
+          release_url: (.payload.release.html_url // null),
+          commit_count: (.payload.commits | length // null)
+        }))
+    +
+    ($releases[0]
+      | map(select(.draft == false))
+      | map({
+          type: "ReleaseEvent",
+          created_at: .published_at,
+          action: "published",
+          ref: null, ref_type: null,
+          pr_title: null, pr_number: null, pr_merged: null, pr_url: null,
+          issue_title: null, issue_number: null, issue_url: null,
+          release_name: .name,
+          release_tag: .tag_name,
+          release_url: .html_url,
+          commit_count: null
+        }))
+    | unique_by([.type, .created_at, .release_tag, .pr_number, .issue_number, .ref])
+    | sort_by(.created_at) | reverse
+    | .[0:30]
+  ' > "$out_file.tmp" && mv "$out_file.tmp" "$out_file"
+  rm -f "$events_file" "$releases_file"
 }
 
 build_stats() {

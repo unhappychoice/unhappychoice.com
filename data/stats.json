@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-28T13:14:35Z",
-  "total_repos": 50,
-  "total_stars": 6599,
+  "generated_at": "2026-04-28T13:32:25Z",
+  "total_repos": 48,
+  "total_stars": 6587,
   "total_forks": 211,
-  "archived_count": 11,
+  "archived_count": 10,
   "languages": [
     {
       "language": "Ruby",
-      "count": 14
+      "count": 13
     },
     {
       "language": "Kotlin",
@@ -18,12 +18,12 @@
       "count": 6
     },
     {
-      "language": "HTML",
+      "language": "Rust",
       "count": 5
     },
     {
-      "language": "Rust",
-      "count": 5
+      "language": "HTML",
+      "count": 4
     },
     {
       "language": "Dockerfile",
@@ -49,8 +49,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 38,
-      "stars": 6301
+      "repo_count": 36,
+      "stars": 6289
     },
     {
       "owner": "circleci-tools",
@@ -81,11 +81,11 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "ruby",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "developer-tools",
