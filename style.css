@@ -550,7 +550,7 @@ body.modal-open {
 .modal__sheet {
   position: relative;
   width: 100%;
-  max-width: 720px;
+  max-width: 880px;
   max-height: 100%;
   overflow-y: auto;
   background: #FDFDFD;
