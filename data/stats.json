@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T07:42:20Z",
-  "total_repos": 50,
-  "total_stars": 6618,
-  "total_forks": 213,
+  "generated_at": "2026-04-29T08:44:32Z",
+  "total_repos": 49,
+  "total_stars": 6574,
+  "total_forks": 207,
   "archived_count": 11,
   "languages": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "language": "Kotlin",
-      "count": 8
+      "count": 7
     },
     {
       "language": "TypeScript",
@@ -54,7 +54,7 @@
     {
       "owner": "unhappychoice",
       "repo_count": 38,
-      "stars": 6319
+      "stars": 6322
     },
     {
       "owner": "circleci-tools",
@@ -65,11 +65,6 @@
       "owner": "bitflyer-tools",
       "repo_count": 4,
       "stars": 72
-    },
-    {
-      "owner": "kotlinz",
-      "repo_count": 1,
-      "stars": 47
     },
     {
       "owner": "irasutoya-tools",
@@ -96,15 +91,15 @@
       "count": 6
     },
     {
-      "topic": "kotlin",
-      "count": 6
-    },
-    {
       "topic": "github-pages",
       "count": 5
     },
     {
       "topic": "image",
+      "count": 5
+    },
+    {
+      "topic": "kotlin",
       "count": 5
     },
     {
