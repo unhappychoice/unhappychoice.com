@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "Yuji Ueki"
           git config user.email "unhappychoice@gmail.com"
-          git add data/repos.json data/stats.json data/activity
+          git add data/repos.json data/stats.json data/activity data/og
           if git diff --staged --quiet; then
             echo "No changes."
             exit 0

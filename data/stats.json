@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-29T08:44:32Z",
-  "total_repos": 49,
-  "total_stars": 6574,
-  "total_forks": 207,
+  "generated_at": "2026-04-29T09:23:17Z",
+  "total_repos": 50,
+  "total_stars": 6621,
+  "total_forks": 213,
   "archived_count": 11,
   "languages": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "language": "Kotlin",
-      "count": 7
+      "count": 8
     },
     {
       "language": "TypeScript",
@@ -67,6 +67,11 @@
       "stars": 72
     },
     {
+      "owner": "kotlinz",
+      "repo_count": 1,
+      "stars": 47
+    },
+    {
       "owner": "irasutoya-tools",
       "repo_count": 3,
       "stars": 39
@@ -91,15 +96,15 @@
       "count": 6
     },
     {
+      "topic": "kotlin",
+      "count": 6
+    },
+    {
       "topic": "github-pages",
       "count": 5
     },
     {
       "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "kotlin",
       "count": 5
     },
     {

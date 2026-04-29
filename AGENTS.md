@@ -36,10 +36,14 @@ no framework.** Do not introduce one.
 | `data/repos.json` | Generated. **Don't hand-edit.** | Output of `refresh-data.sh`. |
 | `data/stats.json` | Generated. **Don't hand-edit.** | Output of `refresh-data.sh`. |
 | `data/activity/*.json` | Generated. **Don't hand-edit.** | Per-repo event history. |
+| `data/og/*.png` etc. | Generated. **Don't hand-edit.** | Cached repo og:image; avoids 429s at runtime. |
+| `data/og/.urls.json` | Generated. **Don't hand-edit.** | Manifest of source URL per repo for cache invalidation. |
 | `data/featured.json` | Hand-written featured repo blurbs | Order = display order. |
 | `data/excluded.json` | List of `owner/name` to hide | Drops from the next refresh. |
-| `scripts/refresh-data.sh` | Pulls GitHub data into `data/` | Needs `gh`, `jq`, `curl`. |
+| `scripts/refresh-data.sh` | Pulls GitHub data into `data/` | Needs `gh`, `jq`, `curl`. Also caches og:image. |
 | `.github/workflows/refresh-data.yml` | Hourly cron that runs the script | Commits via `GITHUB_TOKEN`. |
+| `sitemap.xml` | Static sitemap | Two URLs (`/`, `/oss/`). |
+| `robots.txt` | Allow all + sitemap pointer | Update if URL space changes. |
 | `CNAME` | `unhappychoice.com` | Don't change. |
 
 ## Common tasks
@@ -75,7 +79,8 @@ There is no other dev server.
 
 ## What to leave alone
 
-- Generated files under `data/` (except `featured.json` and `excluded.json`).
+- Generated files under `data/` (except `featured.json` and `excluded.json`),
+  including `data/og/`.
 - The hourly workflow's commit message format
   (`chore(data): refresh OSS snapshots`); the cron commits with this exact
   subject.
