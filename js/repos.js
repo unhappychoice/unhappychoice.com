@@ -89,8 +89,11 @@
     root.innerHTML = repos.map(cardHtml).join('');
   };
 
+  const ogImageFor = (r) =>
+    r.og_image_cached || r.og_image || `https://opengraph.githubassets.com/1/${r.full_name}`;
+
   const cardHtml = (r) => {
-    const ogUrl = r.og_image || `https://opengraph.githubassets.com/1/${r.full_name}`;
+    const ogUrl = ogImageFor(r);
     const f = r._featured;
     return `
       <article class="repo-card" data-repo="${escape(r.full_name)}">
@@ -188,7 +191,7 @@
   };
 
   const renderModal = (r) => {
-    const ogUrl = r.og_image || `https://opengraph.githubassets.com/1/${r.full_name}`;
+    const ogUrl = ogImageFor(r);
     const f = r._featured;
     const links = [
       { label: 'GitHub', url: r.html_url },
