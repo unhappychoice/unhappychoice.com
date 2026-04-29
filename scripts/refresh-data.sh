@@ -28,7 +28,8 @@ scrape_og_image() {
   curl -sS -L -A "Mozilla/5.0 unhappychoice.com refresh" "https://github.com/$full_name" \
     | grep -oE '<meta property="og:image" content="[^"]+"' \
     | head -1 \
-    | sed 's/.*content="//;s/"$//'
+    | sed 's/.*content="//;s/"$//' \
+    | sed -E 's#https://opengraph\.githubassets\.com/[a-f0-9]+/#https://opengraph.githubassets.com/1/#'
 }
 
 ext_for_content_type() {
