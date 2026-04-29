@@ -133,12 +133,12 @@
       "terminal",
       "terminal-app"
     ],
-    "stargazers_count": 158,
+    "stargazers_count": 159,
     "forks_count": 4,
     "open_issues_count": 5,
     "archived": false,
     "pushed_at": "2026-04-21T20:46:33Z",
-    "updated_at": "2026-04-28T18:47:00Z",
+    "updated_at": "2026-04-29T00:19:35Z",
     "created_at": "2026-02-05T08:55:26Z",
     "og_image": "https://repository-images.githubusercontent.com/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5"
   },
@@ -757,10 +757,10 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-04-28T03:57:08Z",
-    "updated_at": "2026-04-28T03:57:12Z",
+    "pushed_at": "2026-04-29T00:20:59Z",
+    "updated_at": "2026-04-29T00:21:02Z",
     "created_at": "2025-08-31T06:36:59Z",
-    "og_image": "https://opengraph.githubassets.com/faab43e064a93f052593af5be22335c6d7e635ba56f3d059a3bfbf3c85d4b8f3/unhappychoice/homebrew-tap"
+    "og_image": "https://opengraph.githubassets.com/235d57dc5cfe20931d0227f569b35c0e88175f6491c01570395cfb0a4d31f8c6/unhappychoice/homebrew-tap"
   },
   {
     "name": "intercom_summary",
@@ -818,8 +818,8 @@
     "forks_count": 0,
     "open_issues_count": 11,
     "archived": false,
-    "pushed_at": "2026-04-28T10:06:37Z",
-    "updated_at": "2026-04-28T18:58:55Z",
+    "pushed_at": "2026-04-29T00:12:30Z",
+    "updated_at": "2026-04-29T00:12:34Z",
     "created_at": "2026-04-20T23:21:16Z",
     "og_image": "https://repository-images.githubusercontent.com/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0"
   },
@@ -845,10 +845,10 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-04-28T00:17:46Z",
-    "updated_at": "2026-04-28T00:17:50Z",
+    "pushed_at": "2026-04-29T00:19:39Z",
+    "updated_at": "2026-04-29T00:19:43Z",
     "created_at": "2024-03-09T13:06:12Z",
-    "og_image": "https://opengraph.githubassets.com/3b83de7c64fb68e764d800fe91ed1cd51ee84cc9743339e6978a0eff77bfae60/unhappychoice/steam.unhappychoice.com"
+    "og_image": "https://opengraph.githubassets.com/fc094cce128f4f0deb95bfea7726ee53b20e058f1d4e57d9c80a22b89ff02e63/unhappychoice/steam.unhappychoice.com"
   },
   {
     "name": "kotlin-github-example",
@@ -1139,21 +1139,25 @@
     "owner": "unhappychoice",
     "description": null,
     "html_url": "https://github.com/unhappychoice/unhappychoice.com",
-    "homepage": null,
+    "homepage": "https://unhappychoice.com",
     "language": "JavaScript",
     "topics": [
+      "github-pages",
       "html",
+      "oss-showcase",
       "personal-website",
-      "portfolio"
+      "portfolio",
+      "static-site",
+      "vanilla-js"
     ],
     "stargazers_count": 2,
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-04-28T22:19:13Z",
-    "updated_at": "2026-04-28T22:19:17Z",
+    "pushed_at": "2026-04-28T23:44:15Z",
+    "updated_at": "2026-04-28T23:44:39Z",
     "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/bcb0585fe80290087855e6cc3b56539de34ef862729408a710d4fe190ed6c1c2/unhappychoice/unhappychoice.com"
+    "og_image": "https://opengraph.githubassets.com/cd412cb1e8e880663cb2b1589dd0d50c3011b2451e5f9dd6194020d3b582c5b4/unhappychoice/unhappychoice.com"
   },
   {
     "name": "deep_wiki_instance",
@@ -1259,24 +1263,6 @@
     "updated_at": "2024-12-25T23:42:54Z",
     "created_at": "2015-03-06T13:44:41Z",
     "og_image": "https://opengraph.githubassets.com/02e802bcbe552e4e301b077d69025ebffb26377ff731ba3f5f384eb000936296/unhappychoice/overcoat-github-example"
-  },
-  {
-    "name": "sinatra-authentication-example",
-    "full_name": "unhappychoice/sinatra-authentication-example",
-    "owner": "unhappychoice",
-    "description": "sinatra auth example",
-    "html_url": "https://github.com/unhappychoice/sinatra-authentication-example",
-    "homepage": null,
-    "language": "Ruby",
-    "topics": [],
-    "stargazers_count": 2,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": true,
-    "pushed_at": "2013-12-16T14:01:37Z",
-    "updated_at": "2023-08-27T10:37:15Z",
-    "created_at": "2013-12-16T13:52:03Z",
-    "og_image": "https://opengraph.githubassets.com/69de5aa3af8b854f85a68b9a55515b96b9af44e5272e529d3a7d04fdfd841833/unhappychoice/sinatra-authentication-example"
   },
   {
     "name": "weekly-report",
