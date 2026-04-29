@@ -12,15 +12,15 @@ no framework.** Do not introduce one.
 
 ## Ground rules
 
-- **Language** — write code, comments, commit messages, and PR descriptions
+- **Language**: write code, comments, commit messages, and PR descriptions
   in English. Reply to the user in Japanese.
-- **Commits** — Conventional Commits (`feat:`, `fix:`, `chore(data):`, …).
-- **PR merges** — never `--squash`; use a regular merge commit (`--merge`).
-- **Style** — keep functions small (10–15 lines) and files around 100 lines
+- **Commits**: Conventional Commits (`feat:`, `fix:`, `chore(data):`, ...).
+- **PR merges**: never `--squash`; use a regular merge commit (`--merge`).
+- **Style**: keep functions small (10 to 15 lines) and files around 100 lines
   where practical. Prefer `map`/`filter`/`reduce` over imperative loops.
   Public functions/classes go near the top of a file. Avoid comments when a
   well-named function would do.
-- **Don't add tooling** — no bundler, no TypeScript, no npm dependencies, no
+- **Don't add tooling**: no bundler, no TypeScript, no npm dependencies, no
   CSS framework beyond the existing CDN Bootstrap reboot. The whole point is
   that this site is trivially hostable on GitHub Pages.
 
@@ -77,7 +77,7 @@ There is no other dev server.
 
 - Generated files under `data/` (except `featured.json` and `excluded.json`).
 - The hourly workflow's commit message format
-  (`chore(data): refresh OSS snapshots`) — the cron commits with this exact
+  (`chore(data): refresh OSS snapshots`); the cron commits with this exact
   subject.
 - `CNAME` and `.nojekyll`.
 
