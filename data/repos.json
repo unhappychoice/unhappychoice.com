@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4652,
+    "stargazers_count": 4653,
     "forks_count": 102,
     "open_issues_count": 11,
     "archived": false,
     "pushed_at": "2026-04-27T06:06:27Z",
-    "updated_at": "2026-04-28T22:39:44Z",
+    "updated_at": "2026-04-29T01:56:59Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33"
   },
@@ -133,43 +133,14 @@
       "terminal",
       "terminal-app"
     ],
-    "stargazers_count": 160,
+    "stargazers_count": 162,
     "forks_count": 4,
     "open_issues_count": 5,
     "archived": false,
     "pushed_at": "2026-04-21T20:46:33Z",
-    "updated_at": "2026-04-29T01:04:48Z",
+    "updated_at": "2026-04-29T02:19:55Z",
     "created_at": "2026-02-05T08:55:26Z",
     "og_image": "https://repository-images.githubusercontent.com/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5"
-  },
-  {
-    "name": "circleci-cli",
-    "full_name": "circleci-tools/circleci-cli",
-    "owner": "circleci-tools",
-    "description": ":cyclone: CLI client / command line tool for CircleCI",
-    "html_url": "https://github.com/circleci-tools/circleci-cli",
-    "homepage": "",
-    "language": "Ruby",
-    "topics": [
-      "circle-ci",
-      "circleci",
-      "circler",
-      "cli",
-      "command-line",
-      "command-line-tools",
-      "gem",
-      "pusher",
-      "ruby",
-      "websocket"
-    ],
-    "stargazers_count": 93,
-    "forks_count": 8,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-04-25T01:22:13Z",
-    "updated_at": "2026-04-25T01:22:17Z",
-    "created_at": "2016-01-10T04:31:58Z",
-    "og_image": "https://opengraph.githubassets.com/5514f36248d9953dd9e6cd9f16aea89fe813440f4d47d87a044228a9bb634eb2/circleci-tools/circleci-cli"
   },
   {
     "name": "kotlinz",
@@ -1154,10 +1125,10 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-04-29T00:54:53Z",
-    "updated_at": "2026-04-29T00:55:23Z",
+    "pushed_at": "2026-04-29T01:34:44Z",
+    "updated_at": "2026-04-29T01:34:48Z",
     "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/6da06b540a628d7eefba17a91cc3076a50cc32fd0fa0a0cb7d70718ed0fa9621/unhappychoice/unhappychoice.com"
+    "og_image": "https://opengraph.githubassets.com/1c12ff2157d370beb6a007da9a495c2641fb460663a1016f7d53400c923307f2/unhappychoice/unhappychoice.com"
   },
   {
     "name": "deep_wiki_instance",
