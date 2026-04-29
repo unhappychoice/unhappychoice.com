@@ -159,7 +159,7 @@
     "release_name": "Release v0.5.3",
     "release_tag": "v0.5.3",
     "release_url": "https://github.com/unhappychoice/steamfetch/releases/tag/v0.5.3",
-    "commit_count": 0
+    "commit_count": null
   },
   {
     "type": "PushEvent",
