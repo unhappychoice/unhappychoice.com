@@ -1,14 +1,14 @@
 # unhappychoice.com
 
-Personal site for Yuji Ueki, served from GitHub Pages at <https://unhappychoice.com>.
+Personal site for [@unhappychoice](https://github.com/unhappychoice), served from GitHub Pages at <https://unhappychoice.com>.
 
 It is a small static site with two pages and an hourly data-refresh job that
 keeps the OSS showcase in sync with GitHub.
 
 ## Pages
 
-- `index.html` — profile, skills, philosophy, links.
-- `oss/index.html` — OSS showcase. Lists repositories across
+- `index.html`: profile, skills, philosophy, links.
+- `oss/index.html`: OSS showcase. Lists repositories across
   [`unhappychoice`](https://github.com/unhappychoice) and four orgs
   (`circleci-tools`, `bitflyer-tools`, `irasutoya-tools`, `kotlinz`,
   `deariary`), with stats, language filter, and a per-repo activity modal.
@@ -57,9 +57,9 @@ as `chore(data): refresh OSS snapshots`.
 
 ## Editing the showcase
 
-- **Highlight a repo** — add an entry to `data/featured.json`. The order in
+- **Highlight a repo**: add an entry to `data/featured.json`. The order in
   this file controls the order in the "Featured" sort.
-- **Hide a repo** — add its `full_name` (e.g. `owner/name`) to
+- **Hide a repo**: add its `full_name` (e.g. `owner/name`) to
   `data/excluded.json`. The next refresh will drop it.
-- **Add a tracked org** — append to the `ORGS` array in
+- **Add a tracked org**: append to the `ORGS` array in
   `scripts/refresh-data.sh`.
