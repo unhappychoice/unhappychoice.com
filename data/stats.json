@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T17:30:23Z",
+  "generated_at": "2026-04-30T18:27:38Z",
   "total_repos": 51,
-  "total_stars": 6658,
+  "total_stars": 6659,
   "total_forks": 213,
   "archived_count": 11,
   "languages": [
@@ -14,12 +14,12 @@
       "count": 8
     },
     {
-      "language": "TypeScript",
+      "language": "Rust",
       "count": 6
     },
     {
-      "language": "Rust",
-      "count": 5
+      "language": "TypeScript",
+      "count": 6
     },
     {
       "language": "HTML",
@@ -54,7 +54,7 @@
     {
       "owner": "unhappychoice",
       "repo_count": 39,
-      "stars": 6359
+      "stars": 6360
     },
     {
       "owner": "circleci-tools",
