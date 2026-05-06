@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-06T19:33:27Z",
-  "total_repos": 50,
-  "total_stars": 6737,
+  "generated_at": "2026-05-06T20:31:14Z",
+  "total_repos": 51,
+  "total_stars": 6739,
   "total_forks": 217,
   "archived_count": 11,
   "languages": [
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 38,
-      "stars": 6433
+      "repo_count": 39,
+      "stars": 6435
     },
     {
       "owner": "circleci-tools",
@@ -100,6 +100,10 @@
       "count": 6
     },
     {
+      "topic": "github-pages",
+      "count": 5
+    },
+    {
       "topic": "image",
       "count": 5
     },
@@ -141,10 +145,6 @@
     },
     {
       "topic": "gem",
-      "count": 4
-    },
-    {
-      "topic": "github-pages",
       "count": 4
     },
     {
