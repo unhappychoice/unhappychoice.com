@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-06T17:33:05Z",
-  "total_repos": 51,
-  "total_stars": 6735,
+  "generated_at": "2026-05-06T18:31:26Z",
+  "total_repos": 50,
+  "total_stars": 6734,
   "total_forks": 217,
   "archived_count": 11,
   "languages": [
@@ -23,7 +23,7 @@
     },
     {
       "language": "HTML",
-      "count": 4
+      "count": 3
     },
     {
       "language": "Dockerfile",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 39,
-      "stars": 6431
+      "repo_count": 38,
+      "stars": 6430
     },
     {
       "owner": "circleci-tools",
