@@ -546,6 +546,25 @@
     "og_image_cached": "../data/og/unhappychoice__blog.unhappychoice.com.png"
   },
   {
+    "name": "kobito",
+    "full_name": "unhappychoice/kobito",
+    "owner": "unhappychoice",
+    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
+    "html_url": "https://github.com/unhappychoice/kobito",
+    "homepage": null,
+    "language": "Rust",
+    "topics": [],
+    "stargazers_count": 11,
+    "forks_count": 0,
+    "open_issues_count": 3,
+    "archived": false,
+    "pushed_at": "2026-05-14T22:21:16Z",
+    "updated_at": "2026-05-14T22:21:18Z",
+    "created_at": "2026-04-30T17:12:08Z",
+    "og_image": "https://repository-images.githubusercontent.com/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa",
+    "og_image_cached": "../data/og/unhappychoice__kobito.png"
+  },
+  {
     "name": "RxSnackbar",
     "full_name": "unhappychoice/RxSnackbar",
     "owner": "unhappychoice",
@@ -571,25 +590,6 @@
     "created_at": "2016-05-14T04:50:35Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/RxSnackbar",
     "og_image_cached": "../data/og/unhappychoice__RxSnackbar.png"
-  },
-  {
-    "name": "kobito",
-    "full_name": "unhappychoice/kobito",
-    "owner": "unhappychoice",
-    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
-    "html_url": "https://github.com/unhappychoice/kobito",
-    "homepage": null,
-    "language": "Rust",
-    "topics": [],
-    "stargazers_count": 11,
-    "forks_count": 0,
-    "open_issues_count": 4,
-    "archived": false,
-    "pushed_at": "2026-05-14T15:18:52Z",
-    "updated_at": "2026-05-12T08:12:53Z",
-    "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa",
-    "og_image_cached": "../data/og/unhappychoice__kobito.png"
   },
   {
     "name": "DroidFlyer",
@@ -1215,8 +1215,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-05-14T20:31:48Z",
-    "updated_at": "2026-05-14T20:31:53Z",
+    "pushed_at": "2026-05-14T21:25:30Z",
+    "updated_at": "2026-05-14T21:25:35Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
