@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-15T01:37:00Z",
-  "total_repos": 51,
-  "total_stars": 6828,
-  "total_forks": 218,
+  "generated_at": "2026-05-15T03:06:16Z",
+  "total_repos": 48,
+  "total_stars": 6778,
+  "total_forks": 213,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 14
+      "count": 13
     },
     {
       "language": "Kotlin",
@@ -23,18 +23,18 @@
     },
     {
       "language": "HTML",
-      "count": 4
+      "count": 3
     },
     {
       "language": "Dockerfile",
       "count": 2
     },
     {
-      "language": "JavaScript",
-      "count": 2
+      "language": "Java",
+      "count": 1
     },
     {
-      "language": "Java",
+      "language": "JavaScript",
       "count": 1
     },
     {
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 39,
-      "stars": 6524
+      "repo_count": 38,
+      "stars": 6508
     },
     {
       "owner": "circleci-tools",
@@ -72,24 +72,24 @@
       "stars": 48
     },
     {
-      "owner": "irasutoya-tools",
-      "repo_count": 3,
-      "stars": 42
-    },
-    {
       "owner": "deariary",
       "repo_count": 1,
       "stars": 23
+    },
+    {
+      "owner": "irasutoya-tools",
+      "repo_count": 1,
+      "stars": 8
     }
   ],
   "top_topics": [
     {
       "topic": "cli",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "ruby",
-      "count": 10
+      "count": 8
     },
     {
       "topic": "developer-tools",
@@ -104,19 +104,7 @@
       "count": 5
     },
     {
-      "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "library",
-      "count": 5
-    },
-    {
       "topic": "rust",
-      "count": 5
-    },
-    {
-      "topic": "terminal",
       "count": 5
     },
     {
@@ -140,11 +128,11 @@
       "count": 4
     },
     {
-      "topic": "command-line",
+      "topic": "library",
       "count": 4
     },
     {
-      "topic": "gem",
+      "topic": "terminal",
       "count": 4
     },
     {
@@ -160,7 +148,19 @@
       "count": 3
     },
     {
-      "topic": "command-line-tool",
+      "topic": "command-line",
+      "count": 3
+    },
+    {
+      "topic": "cyclejs",
+      "count": 3
+    },
+    {
+      "topic": "documentation",
+      "count": 3
+    },
+    {
+      "topic": "homebrew",
       "count": 3
     }
   ]
