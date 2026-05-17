@@ -177,7 +177,7 @@
     "release_name": "Release v2.4.0",
     "release_tag": "v2.4.0",
     "release_url": "https://github.com/unhappychoice/splashboard/releases/tag/v2.4.0",
-    "commit_count": 0
+    "commit_count": null
   },
   {
     "type": "PushEvent",
