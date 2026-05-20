@@ -67,12 +67,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1107,
+    "stargazers_count": 1108,
     "forks_count": 28,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "archived": false,
-    "pushed_at": "2026-05-18T22:36:28Z",
-    "updated_at": "2026-05-20T16:31:15Z",
+    "pushed_at": "2026-05-20T18:41:00Z",
+    "updated_at": "2026-05-20T18:51:37Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
     "og_image_cached": "../data/og/unhappychoice__gittype.png"
@@ -180,7 +180,7 @@
     "forks_count": 3,
     "open_issues_count": 12,
     "archived": false,
-    "pushed_at": "2026-05-20T17:50:04Z",
+    "pushed_at": "2026-05-20T19:40:51Z",
     "updated_at": "2026-05-20T12:25:52Z",
     "created_at": "2026-04-20T23:21:16Z",
     "og_image": "https://repository-images.githubusercontent.com/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0",
@@ -967,7 +967,7 @@
     "pushed_at": "2026-04-25T00:21:18Z",
     "updated_at": "2026-04-25T00:21:21Z",
     "created_at": "2025-08-07T12:55:56Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/lintric",
     "og_image_cached": "../data/og/unhappychoice__lintric.png"
   },
   {
@@ -995,7 +995,7 @@
     "pushed_at": "2026-05-20T12:02:18Z",
     "updated_at": "2026-05-20T12:02:19Z",
     "created_at": "2016-07-03T05:18:24Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/circleci-tools/CircleCI",
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
   },
   {
@@ -1022,7 +1022,7 @@
     "pushed_at": "2026-05-20T12:02:28Z",
     "updated_at": "2026-05-20T12:03:41Z",
     "created_at": "2026-02-03T10:16:42Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/oss-issue-opener",
     "og_image_cached": "../data/og/unhappychoice__oss-issue-opener.png"
   },
   {
@@ -1047,8 +1047,7 @@
     "pushed_at": "2026-05-20T12:02:20Z",
     "updated_at": "2026-05-20T12:03:37Z",
     "created_at": "2021-01-25T14:57:13Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
-    "og_image_cached": "../data/og/unhappychoice__slack_channel_stats.png"
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats"
   },
   {
     "name": "zenn-docs",
@@ -1073,7 +1072,7 @@
     "pushed_at": "2026-05-20T15:02:59Z",
     "updated_at": "2026-05-15T03:13:18Z",
     "created_at": "2025-07-22T16:10:13Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/zenn-docs",
     "og_image_cached": "../data/og/unhappychoice__zenn-docs.png"
   },
   {
@@ -1099,7 +1098,7 @@
     "pushed_at": "2026-04-29T05:42:36Z",
     "updated_at": "2026-04-29T05:42:39Z",
     "created_at": "2025-07-22T17:48:21Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/qiita-docs",
     "og_image_cached": "../data/og/unhappychoice__qiita-docs.png"
   },
   {
@@ -1126,8 +1125,7 @@
     "pushed_at": "2025-07-27T11:05:42Z",
     "updated_at": "2026-02-13T11:49:06Z",
     "created_at": "2025-07-27T06:32:39Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
-    "og_image_cached": "../data/og/unhappychoice__mdts.unhappychoice.com.png"
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/mdts.unhappychoice.com"
   },
   {
     "name": "social-build-deprecated",
@@ -1145,7 +1143,7 @@
     "pushed_at": "2019-01-26T14:55:03Z",
     "updated_at": "2025-01-16T10:37:04Z",
     "created_at": "2013-11-15T16:43:29Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/social-build-deprecated",
     "og_image_cached": "../data/og/unhappychoice__social-build-deprecated.png"
   },
   {
@@ -1168,7 +1166,7 @@
     "pushed_at": "2015-06-02T13:55:03Z",
     "updated_at": "2025-01-16T10:37:04Z",
     "created_at": "2015-05-23T17:43:47Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/social-build",
     "og_image_cached": "../data/og/unhappychoice__social-build.png"
   },
   {
@@ -1191,7 +1189,7 @@
     "pushed_at": "2019-07-07T14:34:02Z",
     "updated_at": "2024-12-13T01:15:54Z",
     "created_at": "2018-04-11T23:31:42Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/elasticsearch-docker",
     "og_image_cached": "../data/og/unhappychoice__elasticsearch-docker.png"
   },
   {
@@ -1215,10 +1213,10 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-05-20T17:02:42Z",
-    "updated_at": "2026-05-20T17:02:46Z",
+    "pushed_at": "2026-05-20T18:03:24Z",
+    "updated_at": "2026-05-20T18:03:29Z",
     "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
   },
   {
@@ -1290,8 +1288,7 @@
     "pushed_at": "2019-07-07T14:34:34Z",
     "updated_at": "2024-12-25T23:48:08Z",
     "created_at": "2018-04-11T23:34:11Z",
-    "og_image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
-    "og_image_cached": "../data/og/unhappychoice__fluentd-docker.png"
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/fluentd-docker"
   },
   {
     "name": "json-user-mock-server",
