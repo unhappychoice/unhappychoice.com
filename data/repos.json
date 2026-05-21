@@ -491,35 +491,6 @@
     "og_image_cached": "../data/og/unhappychoice__color-hash.kt.png"
   },
   {
-    "name": "irasutoya",
-    "full_name": "irasutoya-tools/irasutoya",
-    "owner": "irasutoya-tools",
-    "description": ":woman: Ruby library for いらすとや",
-    "html_url": "https://github.com/irasutoya-tools/irasutoya",
-    "homepage": "https://rubygems.org/gems/irasutoya",
-    "language": "HTML",
-    "topics": [
-      "content",
-      "funny",
-      "gem",
-      "image",
-      "irasutoya",
-      "library",
-      "ruby",
-      "ruby-library",
-      "scraping"
-    ],
-    "stargazers_count": 15,
-    "forks_count": 2,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-05-15T03:13:50Z",
-    "updated_at": "2026-05-15T03:13:52Z",
-    "created_at": "2019-09-14T14:01:32Z",
-    "og_image": "https://opengraph.githubassets.com/1/irasutoya-tools/irasutoya",
-    "og_image_cached": "../data/og/irasutoya-tools__irasutoya.png"
-  },
-  {
     "name": "blog.unhappychoice.com",
     "full_name": "unhappychoice/blog.unhappychoice.com",
     "owner": "unhappychoice",
@@ -1047,7 +1018,8 @@
     "pushed_at": "2026-05-20T12:02:20Z",
     "updated_at": "2026-05-20T12:03:37Z",
     "created_at": "2021-01-25T14:57:13Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats"
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats",
+    "og_image_cached": "../data/og/unhappychoice__slack_channel_stats.png"
   },
   {
     "name": "zenn-docs",
@@ -1213,8 +1185,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-05-20T23:28:20Z",
-    "updated_at": "2026-05-20T23:28:25Z",
+    "pushed_at": "2026-05-21T00:30:40Z",
+    "updated_at": "2026-05-21T00:30:45Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-21T00:30:39Z",
-  "total_repos": 51,
-  "total_stars": 6930,
-  "total_forks": 222,
+  "generated_at": "2026-05-21T01:39:40Z",
+  "total_repos": 50,
+  "total_stars": 6915,
+  "total_forks": 220,
   "archived_count": 11,
   "languages": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "language": "HTML",
-      "count": 4
+      "count": 3
     },
     {
       "language": "Dockerfile",
@@ -73,8 +73,8 @@
     },
     {
       "owner": "irasutoya-tools",
-      "repo_count": 3,
-      "stars": 42
+      "repo_count": 2,
+      "stars": 27
     },
     {
       "owner": "deariary",
@@ -89,7 +89,7 @@
     },
     {
       "topic": "ruby",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "developer-tools",
@@ -101,14 +101,6 @@
     },
     {
       "topic": "github-pages",
-      "count": 5
-    },
-    {
-      "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "library",
       "count": 5
     },
     {
@@ -144,7 +136,11 @@
       "count": 4
     },
     {
-      "topic": "gem",
+      "topic": "image",
+      "count": 4
+    },
+    {
+      "topic": "library",
       "count": 4
     },
     {
@@ -161,6 +157,10 @@
     },
     {
       "topic": "command-line-tool",
+      "count": 3
+    },
+    {
+      "topic": "cyclejs",
       "count": 3
     }
   ]
