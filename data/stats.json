@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T07:03:16Z",
+  "generated_at": "2026-05-24T08:50:05Z",
   "total_repos": 51,
   "total_stars": 6962,
   "total_forks": 224,
@@ -34,15 +34,15 @@
       "count": 2
     },
     {
+      "language": "Shell",
+      "count": 2
+    },
+    {
       "language": "Java",
       "count": 1
     },
     {
       "language": "Objective-C",
-      "count": 1
-    },
-    {
-      "language": "Shell",
       "count": 1
     },
     {
