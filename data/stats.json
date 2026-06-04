@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T01:52:26Z",
-  "total_repos": 50,
-  "total_stars": 7143,
+  "generated_at": "2026-06-04T03:05:18Z",
+  "total_repos": 51,
+  "total_stars": 7148,
   "total_forks": 232,
-  "archived_count": 10,
+  "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
@@ -26,16 +26,16 @@
       "count": 4
     },
     {
+      "language": "Dockerfile",
+      "count": 2
+    },
+    {
       "language": "JavaScript",
       "count": 2
     },
     {
       "language": "Shell",
       "count": 2
-    },
-    {
-      "language": "Dockerfile",
-      "count": 1
     },
     {
       "language": "Java",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 38,
-      "stars": 6837
+      "repo_count": 39,
+      "stars": 6842
     },
     {
       "owner": "circleci-tools",
