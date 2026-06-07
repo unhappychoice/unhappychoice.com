@@ -47,5 +47,7 @@
   "irasutoya-tools/irasutoya": "https://opengraph.githubassets.com/1/irasutoya-tools/irasutoya",
   "unhappychoice/sinatra-authentication-example": "https://opengraph.githubassets.com/1/unhappychoice/sinatra-authentication-example",
   "unhappychoice/elasticsearch-docker": "https://opengraph.githubassets.com/1/unhappychoice/elasticsearch-docker",
-  "unhappychoice/fluentd-docker": "https://opengraph.githubassets.com/1/unhappychoice/fluentd-docker"
+  "unhappychoice/fluentd-docker": "https://opengraph.githubassets.com/1/unhappychoice/fluentd-docker",
+  "circleci-tools/circleci-cli": "https://opengraph.githubassets.com/1/circleci-tools/circleci-cli",
+  "kotlinz/kotlinz": "https://opengraph.githubassets.com/1/kotlinz/kotlinz"
 }

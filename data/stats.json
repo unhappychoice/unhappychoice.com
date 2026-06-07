@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-07T07:21:47Z",
-  "total_repos": 49,
-  "total_stars": 7097,
-  "total_forks": 219,
+  "generated_at": "2026-06-07T09:03:26Z",
+  "total_repos": 51,
+  "total_stars": 7239,
+  "total_forks": 233,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 13
+      "count": 14
     },
     {
       "language": "Kotlin",
-      "count": 7
+      "count": 8
     },
     {
       "language": "Rust",
@@ -57,19 +57,24 @@
       "stars": 6933
     },
     {
+      "owner": "circleci-tools",
+      "repo_count": 3,
+      "stars": 119
+    },
+    {
       "owner": "bitflyer-tools",
       "repo_count": 4,
       "stars": 72
     },
     {
+      "owner": "kotlinz",
+      "repo_count": 1,
+      "stars": 49
+    },
+    {
       "owner": "irasutoya-tools",
       "repo_count": 3,
       "stars": 42
-    },
-    {
-      "owner": "circleci-tools",
-      "repo_count": 2,
-      "stars": 26
     },
     {
       "owner": "deariary",
@@ -80,14 +85,18 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "ruby",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "developer-tools",
+      "count": 6
+    },
+    {
+      "topic": "kotlin",
       "count": 6
     },
     {
@@ -96,10 +105,6 @@
     },
     {
       "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "kotlin",
       "count": 5
     },
     {
@@ -136,26 +141,26 @@
     },
     {
       "topic": "command-line",
+      "count": 4
+    },
+    {
+      "topic": "gem",
+      "count": 4
+    },
+    {
+      "topic": "websocket",
+      "count": 4
+    },
+    {
+      "topic": "circle-ci",
+      "count": 3
+    },
+    {
+      "topic": "circleci",
       "count": 3
     },
     {
       "topic": "command-line-tool",
-      "count": 3
-    },
-    {
-      "topic": "content",
-      "count": 3
-    },
-    {
-      "topic": "cyclejs",
-      "count": 3
-    },
-    {
-      "topic": "documentation",
-      "count": 3
-    },
-    {
-      "topic": "funny",
       "count": 3
     }
   ]
