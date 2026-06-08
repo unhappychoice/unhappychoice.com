@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-08T07:38:06Z",
-  "total_repos": 47,
-  "total_stars": 2183,
-  "total_forks": 82,
+  "generated_at": "2026-06-08T09:32:47Z",
+  "total_repos": 51,
+  "total_stars": 7253,
+  "total_forks": 232,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 13
+      "count": 14
     },
     {
       "language": "Kotlin",
-      "count": 7
+      "count": 8
     },
     {
       "language": "Rust",
-      "count": 5
+      "count": 6
     },
     {
       "language": "TypeScript",
-      "count": 5
+      "count": 6
     },
     {
       "language": "HTML",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 37,
-      "stars": 1957
+      "repo_count": 39,
+      "stars": 6947
     },
     {
       "owner": "circleci-tools",
@@ -62,14 +62,19 @@
       "stars": 119
     },
     {
+      "owner": "bitflyer-tools",
+      "repo_count": 4,
+      "stars": 72
+    },
+    {
+      "owner": "kotlinz",
+      "repo_count": 1,
+      "stars": 49
+    },
+    {
       "owner": "irasutoya-tools",
       "repo_count": 3,
       "stars": 42
-    },
-    {
-      "owner": "bitflyer-tools",
-      "repo_count": 3,
-      "stars": 41
     },
     {
       "owner": "deariary",
@@ -80,15 +85,19 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 10
+      "count": 12
     },
     {
       "topic": "ruby",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "developer-tools",
-      "count": 5
+      "count": 6
+    },
+    {
+      "topic": "kotlin",
+      "count": 6
     },
     {
       "topic": "github-pages",
@@ -99,11 +108,15 @@
       "count": 5
     },
     {
-      "topic": "kotlin",
+      "topic": "library",
       "count": 5
     },
     {
-      "topic": "library",
+      "topic": "rust",
+      "count": 5
+    },
+    {
+      "topic": "terminal",
       "count": 5
     },
     {
@@ -112,6 +125,14 @@
     },
     {
       "topic": "android",
+      "count": 4
+    },
+    {
+      "topic": "bitcoin",
+      "count": 4
+    },
+    {
+      "topic": "bitflyer",
       "count": 4
     },
     {
@@ -127,24 +148,8 @@
       "count": 4
     },
     {
-      "topic": "rust",
-      "count": 4
-    },
-    {
-      "topic": "terminal",
-      "count": 4
-    },
-    {
       "topic": "websocket",
       "count": 4
-    },
-    {
-      "topic": "bitcoin",
-      "count": 3
-    },
-    {
-      "topic": "bitflyer",
-      "count": 3
     },
     {
       "topic": "circle-ci",
