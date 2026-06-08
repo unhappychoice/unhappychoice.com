@@ -1,10 +1,7 @@
 {
-  "unhappychoice/gitlogue": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
   "unhappychoice/gittype": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
-  "unhappychoice/mdts": "https://repository-images.githubusercontent.com/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04",
   "unhappychoice/steamfetch": "https://repository-images.githubusercontent.com/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5",
   "unhappychoice/terminal_image": "https://opengraph.githubassets.com/1/unhappychoice/terminal_image",
-  "bitflyer-tools/bitflyer": "https://opengraph.githubassets.com/1/bitflyer-tools/bitflyer",
   "circleci-tools/Norimaki": "https://opengraph.githubassets.com/1/circleci-tools/Norimaki",
   "deariary/github-weekly-reporter": "https://repository-images.githubusercontent.com/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a",
   "bitflyer-tools/cycle-flyer": "https://opengraph.githubassets.com/1/bitflyer-tools/cycle-flyer",
@@ -48,6 +45,5 @@
   "unhappychoice/sinatra-authentication-example": "https://opengraph.githubassets.com/1/unhappychoice/sinatra-authentication-example",
   "unhappychoice/elasticsearch-docker": "https://opengraph.githubassets.com/1/unhappychoice/elasticsearch-docker",
   "unhappychoice/fluentd-docker": "https://opengraph.githubassets.com/1/unhappychoice/fluentd-docker",
-  "circleci-tools/circleci-cli": "https://opengraph.githubassets.com/1/circleci-tools/circleci-cli",
-  "kotlinz/kotlinz": "https://opengraph.githubassets.com/1/kotlinz/kotlinz"
+  "circleci-tools/circleci-cli": "https://opengraph.githubassets.com/1/circleci-tools/circleci-cli"
 }
