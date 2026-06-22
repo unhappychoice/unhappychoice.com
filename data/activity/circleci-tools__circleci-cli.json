@@ -20,7 +20,7 @@
   {
     "type": "PullRequestEvent",
     "created_at": "2026-06-22T03:04:09Z",
-    "action": "labeled",
+    "action": "opened",
     "ref": null,
     "ref_type": null,
     "pr_title": null,
