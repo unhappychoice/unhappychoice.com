@@ -416,7 +416,7 @@
   {
     "type": "PullRequestEvent",
     "created_at": "2026-06-23T07:44:05Z",
-    "action": "labeled",
+    "action": "opened",
     "ref": null,
     "ref_type": null,
     "pr_title": null,
@@ -452,7 +452,7 @@
   {
     "type": "PullRequestEvent",
     "created_at": "2026-06-23T07:43:51Z",
-    "action": "labeled",
+    "action": "opened",
     "ref": null,
     "ref_type": null,
     "pr_title": null,
@@ -506,7 +506,7 @@
   {
     "type": "PullRequestEvent",
     "created_at": "2026-06-23T07:43:39Z",
-    "action": "labeled",
+    "action": "opened",
     "ref": null,
     "ref_type": null,
     "pr_title": null,
