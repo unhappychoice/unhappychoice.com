@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-07T22:24:47Z",
-  "total_repos": 50,
-  "total_stars": 7466,
-  "total_forks": 236,
+  "generated_at": "2026-07-07T23:20:14Z",
+  "total_repos": 51,
+  "total_stars": 7484,
+  "total_forks": 238,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 13
+      "count": 14
     },
     {
       "language": "Kotlin",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 38,
-      "stars": 7155
+      "repo_count": 39,
+      "stars": 7173
     },
     {
       "owner": "circleci-tools",
@@ -100,6 +100,10 @@
       "count": 6
     },
     {
+      "topic": "github-pages",
+      "count": 5
+    },
+    {
       "topic": "image",
       "count": 5
     },
@@ -132,6 +136,10 @@
       "count": 4
     },
     {
+      "topic": "blog",
+      "count": 4
+    },
+    {
       "topic": "command-line",
       "count": 4
     },
@@ -140,16 +148,8 @@
       "count": 4
     },
     {
-      "topic": "github-pages",
-      "count": 4
-    },
-    {
       "topic": "websocket",
       "count": 4
-    },
-    {
-      "topic": "blog",
-      "count": 3
     },
     {
       "topic": "circle-ci",
