@@ -1,0 +1,20 @@
+[
+  {
+    "type": "CreateEvent",
+    "created_at": "2026-07-09T13:23:48Z",
+    "action": null,
+    "ref": "main",
+    "ref_type": "branch",
+    "pr_title": null,
+    "pr_number": null,
+    "pr_merged": null,
+    "pr_url": null,
+    "issue_title": null,
+    "issue_number": null,
+    "issue_url": null,
+    "release_name": null,
+    "release_tag": null,
+    "release_url": null,
+    "commit_count": 0
+  }
+]
