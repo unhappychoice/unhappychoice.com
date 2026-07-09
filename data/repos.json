@@ -999,6 +999,33 @@
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
   },
   {
+    "name": "unhappychoice.com",
+    "full_name": "unhappychoice/unhappychoice.com",
+    "owner": "unhappychoice",
+    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
+    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
+    "homepage": "https://unhappychoice.com",
+    "language": "JavaScript",
+    "topics": [
+      "github-pages",
+      "html",
+      "oss-showcase",
+      "personal-website",
+      "portfolio",
+      "static-site",
+      "vanilla-js"
+    ],
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-07-09T13:55:17Z",
+    "updated_at": "2026-07-09T13:56:24Z",
+    "created_at": "2025-07-23T19:30:13Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
+    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
+  },
+  {
     "name": "qiita-docs",
     "full_name": "unhappychoice/qiita-docs",
     "owner": "unhappychoice",
@@ -1050,33 +1077,6 @@
     "created_at": "2026-02-03T10:16:42Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/oss-issue-opener",
     "og_image_cached": "../data/og/unhappychoice__oss-issue-opener.png"
-  },
-  {
-    "name": "unhappychoice.com",
-    "full_name": "unhappychoice/unhappychoice.com",
-    "owner": "unhappychoice",
-    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
-    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
-    "homepage": "https://unhappychoice.com",
-    "language": "JavaScript",
-    "topics": [
-      "github-pages",
-      "html",
-      "oss-showcase",
-      "personal-website",
-      "portfolio",
-      "static-site",
-      "vanilla-js"
-    ],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-07-09T12:06:19Z",
-    "updated_at": "2026-07-09T12:06:28Z",
-    "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
-    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
   },
   {
     "name": "slack_channel_stats",
@@ -1363,8 +1363,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-07-09T13:23:47Z",
-    "updated_at": "2026-07-09T13:26:25Z",
+    "pushed_at": "2026-07-09T14:56:11Z",
+    "updated_at": "2026-07-09T14:57:07Z",
     "created_at": "2026-07-09T13:23:43Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/tapline",
     "og_image_cached": "../data/og/unhappychoice__tapline.png"
