@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-16T11:31:54Z",
-  "total_repos": 52,
-  "total_stars": 7530,
+  "generated_at": "2026-07-16T12:30:42Z",
+  "total_repos": 51,
+  "total_stars": 7528,
   "total_forks": 240,
-  "archived_count": 11,
+  "archived_count": 10,
   "languages": [
     {
       "language": "Ruby",
@@ -38,10 +38,6 @@
       "count": 2
     },
     {
-      "language": "Java",
-      "count": 1
-    },
-    {
       "language": "Objective-C",
       "count": 1
     },
@@ -53,8 +49,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 40,
-      "stars": 7219
+      "repo_count": 39,
+      "stars": 7217
     },
     {
       "owner": "circleci-tools",
