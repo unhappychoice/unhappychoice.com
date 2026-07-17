@@ -134,10 +134,37 @@ li {
   color: rgba(0,0,0,0.48);
 }
 
-/* OSS showcase page */
-.page-back {
-  margin-top: 8px;
+/* Tabs */
+.container--nav {
+  background: transparent;
+  box-shadow: none;
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+}
+
+.tabs a {
+  flex: 1;
+  padding: 14px 24px;
+  text-align: center;
   font-size: 14px;
+  color: rgba(0,0,0,0.32);
+  background: #FDFDFD;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: color 0.1s ease-in-out, background 0.1s ease-in-out;
+}
+
+.tabs a:hover {
+  color: rgba(0,0,0,0.87);
+  text-decoration: none;
+  background: #F2F6F8;
+}
+
+.tabs a[aria-current="page"] {
+  color: rgba(0,0,0,0.87);
+  font-weight: 500;
 }
 
 /* Repos */
