@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-22T13:32:20Z",
-  "total_repos": 52,
-  "total_stars": 7556,
-  "total_forks": 245,
+  "generated_at": "2026-07-22T14:40:20Z",
+  "total_repos": 51,
+  "total_stars": 7525,
+  "total_forks": 222,
   "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 14
+      "count": 13
     },
     {
       "language": "Kotlin",
@@ -62,11 +62,6 @@
       "stars": 119
     },
     {
-      "owner": "bitflyer-tools",
-      "repo_count": 4,
-      "stars": 72
-    },
-    {
       "owner": "kotlinz",
       "repo_count": 1,
       "stars": 49
@@ -75,6 +70,11 @@
       "owner": "irasutoya-tools",
       "repo_count": 3,
       "stars": 44
+    },
+    {
+      "owner": "bitflyer-tools",
+      "repo_count": 3,
+      "stars": 41
     },
     {
       "owner": "deariary",
@@ -89,7 +89,7 @@
     },
     {
       "topic": "ruby",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "developer-tools",
@@ -128,14 +128,6 @@
       "count": 4
     },
     {
-      "topic": "bitcoin",
-      "count": 4
-    },
-    {
-      "topic": "bitflyer",
-      "count": 4
-    },
-    {
       "topic": "blog",
       "count": 4
     },
@@ -150,6 +142,14 @@
     {
       "topic": "websocket",
       "count": 4
+    },
+    {
+      "topic": "bitcoin",
+      "count": 3
+    },
+    {
+      "topic": "bitflyer",
+      "count": 3
     },
     {
       "topic": "circle-ci",
