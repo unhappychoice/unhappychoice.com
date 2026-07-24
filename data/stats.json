@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T21:56:13Z",
+  "generated_at": "2026-07-24T22:53:46Z",
   "total_repos": 52,
-  "total_stars": 7565,
+  "total_stars": 7564,
   "total_forks": 246,
   "archived_count": 11,
   "languages": [
@@ -54,7 +54,7 @@
     {
       "owner": "unhappychoice",
       "repo_count": 40,
-      "stars": 7254
+      "stars": 7253
     },
     {
       "owner": "circleci-tools",
