@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T17:51:32Z",
+  "generated_at": "2026-07-25T18:52:45Z",
   "total_repos": 52,
-  "total_stars": 7564,
+  "total_stars": 7571,
   "total_forks": 246,
   "archived_count": 11,
   "languages": [
@@ -54,27 +54,27 @@
     {
       "owner": "unhappychoice",
       "repo_count": 40,
-      "stars": 7252
+      "stars": 7254
     },
     {
       "owner": "circleci-tools",
       "repo_count": 3,
-      "stars": 119
+      "stars": 121
     },
     {
       "owner": "bitflyer-tools",
       "repo_count": 4,
-      "stars": 72
+      "stars": 73
     },
     {
       "owner": "kotlinz",
       "repo_count": 1,
-      "stars": 50
+      "stars": 51
     },
     {
       "owner": "irasutoya-tools",
       "repo_count": 3,
-      "stars": 44
+      "stars": 45
     },
     {
       "owner": "deariary",
