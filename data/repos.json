@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4873,
+    "stargazers_count": 4872,
     "forks_count": 107,
     "open_issues_count": 12,
     "archived": false,
     "pushed_at": "2026-07-25T05:48:00Z",
-    "updated_at": "2026-07-28T02:59:23Z",
+    "updated_at": "2026-07-28T07:28:32Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
     "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
@@ -67,12 +67,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1526,
+    "stargazers_count": 1528,
     "forks_count": 43,
     "open_issues_count": 14,
     "archived": false,
     "pushed_at": "2026-07-25T05:48:37Z",
-    "updated_at": "2026-07-28T02:48:17Z",
+    "updated_at": "2026-07-28T07:27:50Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
     "og_image_cached": "../data/og/unhappychoice__gittype.png"
@@ -824,31 +824,6 @@
     "og_image_cached": "../data/og/irasutoya-tools__lita-irasutoya.png"
   },
   {
-    "name": "homebrew-tap",
-    "full_name": "unhappychoice/homebrew-tap",
-    "owner": "unhappychoice",
-    "description": "Homebrew formulae for unhappychoice's tools",
-    "html_url": "https://github.com/unhappychoice/homebrew-tap",
-    "homepage": null,
-    "language": "Ruby",
-    "topics": [
-      "formula",
-      "homebrew",
-      "homebrew-tap",
-      "macos",
-      "package-manager"
-    ],
-    "stargazers_count": 7,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-07-25T05:56:27Z",
-    "updated_at": "2026-07-25T05:56:31Z",
-    "created_at": "2025-08-31T06:36:59Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
-    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
-  },
-  {
     "name": "intercom_summary",
     "full_name": "unhappychoice/intercom_summary",
     "owner": "unhappychoice",
@@ -870,6 +845,31 @@
     "created_at": "2017-02-21T03:17:57Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/intercom_summary",
     "og_image_cached": "../data/og/unhappychoice__intercom_summary.png"
+  },
+  {
+    "name": "homebrew-tap",
+    "full_name": "unhappychoice/homebrew-tap",
+    "owner": "unhappychoice",
+    "description": "Homebrew formulae for unhappychoice's tools",
+    "html_url": "https://github.com/unhappychoice/homebrew-tap",
+    "homepage": null,
+    "language": "Ruby",
+    "topics": [
+      "formula",
+      "homebrew",
+      "homebrew-tap",
+      "macos",
+      "package-manager"
+    ],
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-07-25T05:56:27Z",
+    "updated_at": "2026-07-28T07:27:50Z",
+    "created_at": "2025-08-31T06:36:59Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
+    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
   },
   {
     "name": "lintric",
@@ -1019,8 +1019,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-07-28T01:31:12Z",
-    "updated_at": "2026-07-28T01:31:16Z",
+    "pushed_at": "2026-07-28T04:55:22Z",
+    "updated_at": "2026-07-28T04:55:49Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
@@ -1157,25 +1157,6 @@
     "og_image_cached": "../data/og/unhappychoice__mdts.unhappychoice.com.png"
   },
   {
-    "name": "social-build-deprecated",
-    "full_name": "unhappychoice/social-build-deprecated",
-    "owner": "unhappychoice",
-    "description": "a plugin for minecraft bukkit server (deprecated)",
-    "html_url": "https://github.com/unhappychoice/social-build-deprecated",
-    "homepage": "",
-    "language": "Java",
-    "topics": [],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": true,
-    "pushed_at": "2019-01-26T14:55:03Z",
-    "updated_at": "2025-01-16T10:37:04Z",
-    "created_at": "2013-11-15T16:43:29Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/social-build-deprecated",
-    "og_image_cached": "../data/og/unhappychoice__social-build-deprecated.png"
-  },
-  {
     "name": "social-build",
     "full_name": "unhappychoice/social-build",
     "owner": "unhappychoice",
@@ -1197,6 +1178,25 @@
     "created_at": "2015-05-23T17:43:47Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/social-build",
     "og_image_cached": "../data/og/unhappychoice__social-build.png"
+  },
+  {
+    "name": "social-build-deprecated",
+    "full_name": "unhappychoice/social-build-deprecated",
+    "owner": "unhappychoice",
+    "description": "a plugin for minecraft bukkit server (deprecated)",
+    "html_url": "https://github.com/unhappychoice/social-build-deprecated",
+    "homepage": "",
+    "language": "Java",
+    "topics": [],
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": true,
+    "pushed_at": "2019-01-26T14:55:03Z",
+    "updated_at": "2025-01-16T10:37:04Z",
+    "created_at": "2013-11-15T16:43:29Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/social-build-deprecated",
+    "og_image_cached": "../data/og/unhappychoice__social-build-deprecated.png"
   },
   {
     "name": "elasticsearch-docker",
