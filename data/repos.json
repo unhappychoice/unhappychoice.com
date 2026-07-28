@@ -36,7 +36,7 @@
     "pushed_at": "2026-07-25T05:48:00Z",
     "updated_at": "2026-07-28T07:28:32Z",
     "created_at": "2025-11-08T21:22:33Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220218Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=cadbb759a3fbda4cd9f33a8769941d3d4ac73215eed90d9cd603d63caec25413&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQzOCwibmJmIjoxNzg1Mjc2MTM4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.jwaWq2XbaF7XNPeDnaDjmSeSt9Mdz0ZJtU2aXn7DGt8"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235028Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7bb3d9573670a5ca8c0507e180cb98789ae03c27a9365cbd50f99b6d6290e4ef&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4MjkyOCwibmJmIjoxNzg1MjgyNjI4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.b4YxtTn5iVUodyJUg7wvP0rOLNvJHcwcab7E6JjH6iM"
   },
   {
     "name": "gittype",
@@ -73,7 +73,7 @@
     "pushed_at": "2026-07-25T05:48:37Z",
     "updated_at": "2026-07-28T07:27:50Z",
     "created_at": "2025-08-28T15:57:14Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220219Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=75c7b445ed6b368050984c2815cf7acdfd7b87e32dbc6e6d1dae1022e85b946e&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQzOSwibmJmIjoxNzg1Mjc2MTM5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Rj1XEc4zmh9NVkYU10t0GHdSBvMerO_qJUltuK4vY6g"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235029Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=aad8e7a61e0467ef099bf0aa94752a0ec74df62e32da92e2dbf9b2c0d12ddb1f&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4MjkyOSwibmJmIjoxNzg1MjgyNjI5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.XfK0HCrj3r1h_4bOD7dcO_nKFNaFQ6djZxlOU90MZWw"
   },
   {
     "name": "mdts",
@@ -104,7 +104,7 @@
     "pushed_at": "2026-07-28T12:33:55Z",
     "updated_at": "2026-07-28T11:57:47Z",
     "created_at": "2025-07-13T09:59:58Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220220Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a2a0a6bdddd8b4a63bb38032e51eea474d0155594158c97a712650f680e5bb9a&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ0MCwibmJmIjoxNzg1Mjc2MTQwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.9bWLB6jS-zlq3f_4wQCLRehYSmRcBoxCFUEg6Qh7prs"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235031Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ed912c299a6e62c97f99ea035de3ad9e2f75d1ef5ac05ceb44f0375526799e2b&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4MjkzMSwibmJmIjoxNzg1MjgyNjMxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.FiDcQacMAljCe9nRaD88YpId0DKr5OT2ZHKgzsdvfs0"
   },
   {
     "name": "splashboard",
@@ -143,7 +143,7 @@
     "pushed_at": "2026-07-28T12:31:00Z",
     "updated_at": "2026-07-28T08:11:07Z",
     "created_at": "2026-04-20T23:21:16Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220221Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e1a3abf357fab4049c0d17009c66cd7703a38dd272e08c63fba940e135f9b9c2&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ0MSwibmJmIjoxNzg1Mjc2MTQxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.IxmL3sdeNEzNtmhTcG5Py3TP4L1X-NTmkGhXPoQPVJA"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235033Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=ced7f01478edafa62037a96a2f4afe35b89e3167d0803b68afb3ba6bd65271fa&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4MjkzMywibmJmIjoxNzg1MjgyNjMzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ApDlKFGLQfJ2eTVisOhLGugNMl_PAXRLGnRy-k_-eJs"
   },
   {
     "name": "steamfetch",
@@ -179,7 +179,7 @@
     "pushed_at": "2026-07-25T05:46:50Z",
     "updated_at": "2026-07-28T13:08:04Z",
     "created_at": "2026-02-05T08:55:26Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220222Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=654dfe1b4f3b137c2f35117285a8c932c259465cdbfc0f7cc3627c2ddd2ac68b&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ0MiwibmJmIjoxNzg1Mjc2MTQyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TzQaDiC7T1Od4cgGKkCZe-Lp3PxFSGv40FtZogyqMdM"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235035Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=08a8d5d55f830fdaea7c9e9f867818c4eb2324fc6d052c1534321a92bb5d1cf6&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4MjkzNSwibmJmIjoxNzg1MjgyNjM1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Gq6hPq7PynN2qVZaOMBswVp4oGIW7VuyoOdMHH4161o"
   },
   {
     "name": "circleci-cli",
@@ -321,7 +321,7 @@
     "pushed_at": "2026-07-26T13:02:01Z",
     "updated_at": "2026-07-26T13:02:20Z",
     "created_at": "2026-04-03T14:09:46Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220227Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e1bc8c6d08cb2858e5058ac99cf483a8bbf9d4abe5b487a26e88c6de70de1a90&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ0NywibmJmIjoxNzg1Mjc2MTQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.pz9PDC81DleOt8F1Bz-NaQyFDK6iilnImCSS_ro9uEA"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235041Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=6d5621e878962a91dc73e900d40055ff550b6833fa56363f5a727982fde61243&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4Mjk0MSwibmJmIjoxNzg1MjgyNjQxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.HpsNTbFJemLHCVVzp-q5NEI2hfGpBBrVITacSISnX-M"
   },
   {
     "name": "Norimaki",
@@ -555,7 +555,7 @@
     "pushed_at": "2026-07-24T09:46:29Z",
     "updated_at": "2026-07-24T09:47:00Z",
     "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220237Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d7df02ad13953f699265c286778e8b21920a0cdd5cf0797953c9ca7368c71b96&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ1NywibmJmIjoxNzg1Mjc2MTU3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.BDPwtX8y4PO0YamcclkJSvBJpx2O_mhcJicmP5RrWLU"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235053Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=5bae1fb8b0a91c9828294036e80da647d9bea8e69919210c1354fd28abbf4e8a&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4Mjk1MywibmJmIjoxNzg1MjgyNjUzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.rDpIujyZLoIyeB_0TuIO17x_dTaVOdmAVXsifpIOLm4"
   },
   {
     "name": "DroidFlyer",
@@ -589,6 +589,32 @@
     "og_image_cached": "../data/og/bitflyer-tools__DroidFlyer.png"
   },
   {
+    "name": "cycle-pusher",
+    "full_name": "unhappychoice/cycle-pusher",
+    "owner": "unhappychoice",
+    "description": ":recycle: Cycle.js driver for Pusher",
+    "html_url": "https://github.com/unhappychoice/cycle-pusher",
+    "homepage": "",
+    "language": "TypeScript",
+    "topics": [
+      "cyclejs",
+      "library",
+      "pusher",
+      "typescript",
+      "websocket",
+      "wrapper"
+    ],
+    "stargazers_count": 11,
+    "forks_count": 0,
+    "open_issues_count": 2,
+    "archived": false,
+    "pushed_at": "2026-07-24T09:39:36Z",
+    "updated_at": "2026-07-28T23:13:17Z",
+    "created_at": "2017-10-24T12:14:24Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/cycle-pusher",
+    "og_image_cached": "../data/og/unhappychoice__cycle-pusher.png"
+  },
+  {
     "name": "RxSnackbar",
     "full_name": "unhappychoice/RxSnackbar",
     "owner": "unhappychoice",
@@ -614,32 +640,6 @@
     "created_at": "2016-05-14T04:50:35Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/RxSnackbar",
     "og_image_cached": "../data/og/unhappychoice__RxSnackbar.png"
-  },
-  {
-    "name": "cycle-pusher",
-    "full_name": "unhappychoice/cycle-pusher",
-    "owner": "unhappychoice",
-    "description": ":recycle: Cycle.js driver for Pusher",
-    "html_url": "https://github.com/unhappychoice/cycle-pusher",
-    "homepage": "",
-    "language": "TypeScript",
-    "topics": [
-      "cyclejs",
-      "library",
-      "pusher",
-      "typescript",
-      "websocket",
-      "wrapper"
-    ],
-    "stargazers_count": 10,
-    "forks_count": 0,
-    "open_issues_count": 2,
-    "archived": false,
-    "pushed_at": "2026-07-24T09:39:36Z",
-    "updated_at": "2026-07-24T09:40:59Z",
-    "created_at": "2017-10-24T12:14:24Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/cycle-pusher",
-    "og_image_cached": "../data/og/unhappychoice__cycle-pusher.png"
   },
   {
     "name": "bitflyer-cli",
@@ -673,6 +673,36 @@
     "og_image_cached": "../data/og/bitflyer-tools__bitflyer-cli.png"
   },
   {
+    "name": "cycle-cropper",
+    "full_name": "unhappychoice/cycle-cropper",
+    "owner": "unhappychoice",
+    "description": ":recycle: Cycle.js component for https://github.com/fengyuanchen/cropperjs",
+    "html_url": "https://github.com/unhappychoice/cycle-cropper",
+    "homepage": "",
+    "language": "TypeScript",
+    "topics": [
+      "cropper",
+      "cropperjs",
+      "cycle-cropper",
+      "cyclejs",
+      "frontend",
+      "image",
+      "image-cropping",
+      "javascript",
+      "library",
+      "typescript"
+    ],
+    "stargazers_count": 9,
+    "forks_count": 3,
+    "open_issues_count": 1,
+    "archived": false,
+    "pushed_at": "2026-07-22T11:05:24Z",
+    "updated_at": "2026-07-28T23:13:38Z",
+    "created_at": "2017-11-24T17:03:49Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/cycle-cropper",
+    "og_image_cached": "../data/og/unhappychoice__cycle-cropper.png"
+  },
+  {
     "name": "lita-aws-cloudfront",
     "full_name": "unhappychoice/lita-aws-cloudfront",
     "owner": "unhappychoice",
@@ -702,36 +732,6 @@
     "og_image_cached": "../data/og/unhappychoice__lita-aws-cloudfront.png"
   },
   {
-    "name": "cycle-cropper",
-    "full_name": "unhappychoice/cycle-cropper",
-    "owner": "unhappychoice",
-    "description": ":recycle: Cycle.js component for https://github.com/fengyuanchen/cropperjs",
-    "html_url": "https://github.com/unhappychoice/cycle-cropper",
-    "homepage": "",
-    "language": "TypeScript",
-    "topics": [
-      "cropper",
-      "cropperjs",
-      "cycle-cropper",
-      "cyclejs",
-      "frontend",
-      "image",
-      "image-cropping",
-      "javascript",
-      "library",
-      "typescript"
-    ],
-    "stargazers_count": 8,
-    "forks_count": 3,
-    "open_issues_count": 1,
-    "archived": false,
-    "pushed_at": "2026-07-22T11:05:24Z",
-    "updated_at": "2026-07-22T11:05:50Z",
-    "created_at": "2017-11-24T17:03:49Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/cycle-cropper",
-    "og_image_cached": "../data/og/unhappychoice__cycle-cropper.png"
-  },
-  {
     "name": "dotfiles",
     "full_name": "unhappychoice/dotfiles",
     "owner": "unhappychoice",
@@ -756,7 +756,7 @@
     "pushed_at": "2026-05-10T12:34:49Z",
     "updated_at": "2026-05-10T12:34:52Z",
     "created_at": "2015-05-08T18:48:42Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T220244Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=cf92b9064076091ae42d34b633f2faadbdd895c3b61e7662a4f5153135b379f5&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI3NjQ2NCwibmJmIjoxNzg1Mjc2MTY0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.A2W30KaayDiwyLGicERuE-2KU0VLqIPT_sZb_B3pgPU"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260728%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260728T235101Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=c4b1916b0cd1c264a1cca6c0a936637d0c7e08ad713b2d691ecb2e5f09793761&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTI4Mjk2MSwibmJmIjoxNzg1MjgyNjYxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.IetGZ4WIagKaERfm6CmMtplo7-tacT4lK1VmltDC5Nk"
   },
   {
     "name": "NoiseView",
@@ -909,6 +909,33 @@
     "og_image_cached": "../data/og/unhappychoice__kotlin-github-example.png"
   },
   {
+    "name": "oss-issue-opener",
+    "full_name": "unhappychoice/oss-issue-opener",
+    "owner": "unhappychoice",
+    "description": "Weekly automated issue opener for OSS maintenance tasks",
+    "html_url": "https://github.com/unhappychoice/oss-issue-opener",
+    "homepage": null,
+    "language": "TypeScript",
+    "topics": [
+      "automation",
+      "cli",
+      "developer-tools",
+      "github",
+      "github-issues",
+      "open-source",
+      "typescript"
+    ],
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "open_issues_count": 4,
+    "archived": false,
+    "pushed_at": "2026-07-28T11:56:19Z",
+    "updated_at": "2026-07-28T23:12:42Z",
+    "created_at": "2026-02-03T10:16:42Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/oss-issue-opener",
+    "og_image_cached": "../data/og/unhappychoice__oss-issue-opener.png"
+  },
+  {
     "name": "steam.unhappychoice.com",
     "full_name": "unhappychoice/steam.unhappychoice.com",
     "owner": "unhappychoice",
@@ -1011,8 +1038,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-07-28T20:59:44Z",
-    "updated_at": "2026-07-28T21:01:33Z",
+    "pushed_at": "2026-07-28T22:03:50Z",
+    "updated_at": "2026-07-28T22:04:29Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
@@ -1041,33 +1068,6 @@
     "created_at": "2021-01-25T14:57:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats",
     "og_image_cached": "../data/og/unhappychoice__slack_channel_stats.png"
-  },
-  {
-    "name": "oss-issue-opener",
-    "full_name": "unhappychoice/oss-issue-opener",
-    "owner": "unhappychoice",
-    "description": "Weekly automated issue opener for OSS maintenance tasks",
-    "html_url": "https://github.com/unhappychoice/oss-issue-opener",
-    "homepage": null,
-    "language": "TypeScript",
-    "topics": [
-      "automation",
-      "cli",
-      "developer-tools",
-      "github",
-      "github-issues",
-      "open-source",
-      "typescript"
-    ],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 4,
-    "archived": false,
-    "pushed_at": "2026-07-28T11:56:19Z",
-    "updated_at": "2026-07-28T11:58:32Z",
-    "created_at": "2026-02-03T10:16:42Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/oss-issue-opener",
-    "og_image_cached": "../data/og/unhappychoice__oss-issue-opener.png"
   },
   {
     "name": "qiita-docs",
