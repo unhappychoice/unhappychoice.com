@@ -36,7 +36,8 @@
     "pushed_at": "2026-07-29T12:46:12Z",
     "updated_at": "2026-08-03T16:40:02Z",
     "created_at": "2025-11-08T21:22:33Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174650Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a466a33000193a2e169c67e39be61ab16ac9dd5400a7e51f7cd0560d91c32b8c&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUxMCwibmJmIjoxNzg1Nzc5MjEwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.QrhXV-jEqg9b-QQsRKsNjq_OTUE97WRmWUNSpXtnheg"
+    "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
+    "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
   },
   {
     "name": "gittype",
@@ -66,14 +67,15 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1543,
+    "stargazers_count": 1544,
     "forks_count": 43,
     "open_issues_count": 14,
     "archived": false,
     "pushed_at": "2026-07-30T12:19:38Z",
-    "updated_at": "2026-08-03T15:26:46Z",
+    "updated_at": "2026-08-03T18:34:19Z",
     "created_at": "2025-08-28T15:57:14Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174651Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e2664b1b0ff7968491606145240bb3f6219917af614c8940268826cc92dcbe03&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUxMSwibmJmIjoxNzg1Nzc5MjExLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.0ZNIYizj6cH6F1EiWXtOWfndWnATijg7l7BxIW002Lg"
+    "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
+    "og_image_cached": "../data/og/unhappychoice__gittype.png"
   },
   {
     "name": "mdts",
@@ -104,7 +106,8 @@
     "pushed_at": "2026-08-03T07:44:21Z",
     "updated_at": "2026-07-31T06:48:45Z",
     "created_at": "2025-07-13T09:59:58Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174652Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=62e5d5723612bb3722eb2b5170e1121a71216b0276ed13145bb691949b7f3b33&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUxMiwibmJmIjoxNzg1Nzc5MjEyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.bNVbJleNN-t2eAq2a1-W36HlapR_Jn6wXQMO1hr0L8M"
+    "og_image": "https://repository-images.githubusercontent.com/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04",
+    "og_image_cached": "../data/og/unhappychoice__mdts.png"
   },
   {
     "name": "splashboard",
@@ -143,7 +146,8 @@
     "pushed_at": "2026-08-03T05:50:32Z",
     "updated_at": "2026-08-03T05:50:49Z",
     "created_at": "2026-04-20T23:21:16Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174653Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=eff6cbc685eba9a50b7601fbf7b8b66bf2901c60161932bf1c5b781e4d45c7ab&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUxMywibmJmIjoxNzg1Nzc5MjEzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.oNjDT7JghmfZStPJcjz-r0ZzCQDYUtNY093N0puz7m0"
+    "og_image": "https://repository-images.githubusercontent.com/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0",
+    "og_image_cached": "../data/og/unhappychoice__splashboard.png"
   },
   {
     "name": "steamfetch",
@@ -179,7 +183,8 @@
     "pushed_at": "2026-07-29T12:46:09Z",
     "updated_at": "2026-07-31T08:57:55Z",
     "created_at": "2026-02-05T08:55:26Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174654Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=56fe50023f5762f5cf96908515d370a1a4e4b976ab580a8d68370f83530bc553&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUxNCwibmJmIjoxNzg1Nzc5MjE0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.p1PpAvoj0XAmOsNJAe30qzXtgc3alG3CMpA2Qw8zUCU"
+    "og_image": "https://repository-images.githubusercontent.com/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5",
+    "og_image_cached": "../data/og/unhappychoice__steamfetch.png"
   },
   {
     "name": "circleci-cli",
@@ -321,7 +326,8 @@
     "pushed_at": "2026-08-02T16:32:57Z",
     "updated_at": "2026-08-02T16:32:59Z",
     "created_at": "2026-04-03T14:09:46Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174700Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d81e85c0f037498734afa6d15d3553ec706f3180049af413ad60c007e203332e&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUyMCwibmJmIjoxNzg1Nzc5MjIwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ZUQmLsDRK1elNUwsMmIK-3bZmCupF4pknN19mmnZXlQ"
+    "og_image": "https://repository-images.githubusercontent.com/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a",
+    "og_image_cached": "../data/og/deariary__github-weekly-reporter.png"
   },
   {
     "name": "Norimaki",
@@ -529,7 +535,8 @@
     "pushed_at": "2026-07-24T09:46:29Z",
     "updated_at": "2026-08-02T06:41:16Z",
     "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174708Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=04e88c1d5178fa600dd15013bf112a0c3b0f4fdbf42219ad62ef34297bf337c0&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUyOCwibmJmIjoxNzg1Nzc5MjI4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.204GV8tlS05UoNydTq20ToZ1SHHupqF5E2QJqMOnTks"
+    "og_image": "https://repository-images.githubusercontent.com/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa",
+    "og_image_cached": "../data/og/unhappychoice__kobito.png"
   },
   {
     "name": "blog.unhappychoice.com",
@@ -756,7 +763,8 @@
     "pushed_at": "2026-05-10T12:34:49Z",
     "updated_at": "2026-05-10T12:34:52Z",
     "created_at": "2015-05-08T18:48:42Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T174717Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=aca72dcfdaf5b38ac2ce47bf2b810f1cee60f1bd5b44888389360c4e1bff76e1&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc3OTUzNywibmJmIjoxNzg1Nzc5MjM3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xu95dSuP6plkg8Hr1tVnYejTuGy3VfB5NmFquC-2KOE"
+    "og_image": "https://repository-images.githubusercontent.com/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d",
+    "og_image_cached": "../data/og/unhappychoice__dotfiles.png"
   },
   {
     "name": "NoiseView",
@@ -1038,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-03T15:38:12Z",
-    "updated_at": "2026-08-03T15:39:53Z",
+    "pushed_at": "2026-08-03T17:48:27Z",
+    "updated_at": "2026-08-03T17:49:43Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
