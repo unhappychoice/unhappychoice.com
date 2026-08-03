@@ -36,7 +36,7 @@
     "pushed_at": "2026-07-29T12:46:12Z",
     "updated_at": "2026-08-02T01:52:39Z",
     "created_at": "2025-11-08T21:22:33Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053054Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e134e11bc800ba38f8dc09f94789227937fa664acd74ca3a5570102112fb80ce&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM1NCwibmJmIjoxNzg1NzM1MDU0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xwA1eP6786bt1FyLImRSvXfSYd8C69ZGIBDj6dxcr2Y"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092015Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=5947ce115d3ef2698c4678484c17dbf5cd16daf4c0b09f90cb9b4c2c0f1dd153&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTExNSwibmJmIjoxNzg1NzQ4ODE1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.uDLBkcGF9b362Qi83VU-09s_5LmSGd70WRBgyFRGen8"
   },
   {
     "name": "gittype",
@@ -66,14 +66,14 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1540,
+    "stargazers_count": 1542,
     "forks_count": 43,
     "open_issues_count": 14,
     "archived": false,
     "pushed_at": "2026-07-30T12:19:38Z",
-    "updated_at": "2026-08-03T01:11:10Z",
+    "updated_at": "2026-08-03T09:05:43Z",
     "created_at": "2025-08-28T15:57:14Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053055Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=c8d5ee052d2f0ef712e428d7d79de04234b657b8732a643a51adf335df56cffc&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM1NSwibmJmIjoxNzg1NzM1MDU1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.DbWBJ70QjZsHYgr8iaV1pPHtRK-YhmZ17RlfsxSK3Wo"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092017Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=2df7e91baadeb02d425c481d1648ae4fc02eb68ef90ba40050e28f862d16d6a9&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTExNywibmJmIjoxNzg1NzQ4ODE3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.N6eeRC1k8fGnphRb0OiMQw2WjbzLTO77PwfQeN8o3-g"
   },
   {
     "name": "mdts",
@@ -99,12 +99,12 @@
     ],
     "stargazers_count": 227,
     "forks_count": 22,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "archived": false,
-    "pushed_at": "2026-07-30T12:19:37Z",
+    "pushed_at": "2026-08-03T07:44:21Z",
     "updated_at": "2026-07-31T06:48:45Z",
     "created_at": "2025-07-13T09:59:58Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053056Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=41c0e8f61d2114eb46ab206ff22c21745dc8babb1a971c139b64017477f52de5&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM1NiwibmJmIjoxNzg1NzM1MDU2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0._EbXOBp7OoccJHdI2d13LyxElcERkZffh9DRpqKDAm0"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092019Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=85360b0175856c97ff4f68759d3db098771c3225b94b08856bc97b4868ff358d&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTExOSwibmJmIjoxNzg1NzQ4ODE5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.4NSXgTPlyfiVPFpF5aOb5GMB_5_ZF75zuWz4iHWWXI4"
   },
   {
     "name": "splashboard",
@@ -138,12 +138,12 @@
     ],
     "stargazers_count": 206,
     "forks_count": 4,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "archived": false,
-    "pushed_at": "2026-08-03T02:42:31Z",
-    "updated_at": "2026-08-02T16:26:01Z",
+    "pushed_at": "2026-08-03T05:50:32Z",
+    "updated_at": "2026-08-03T05:50:49Z",
     "created_at": "2026-04-20T23:21:16Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053056Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=4843da365c244c4b2bfbdcf25189c8598755febd578a8eca061582354221c4da&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM1NiwibmJmIjoxNzg1NzM1MDU2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0._EbXOBp7OoccJHdI2d13LyxElcERkZffh9DRpqKDAm0"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092020Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=dfdaf967574a4197c675a435f59faaedbf087f06b23e9dae35c06a047e10c5c0&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTEyMCwibmJmIjoxNzg1NzQ4ODIwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Tolv7CZQTEI15KI5WFwDT4aPdulH5rRzWXqsyaBH-oc"
   },
   {
     "name": "steamfetch",
@@ -179,7 +179,7 @@
     "pushed_at": "2026-07-29T12:46:09Z",
     "updated_at": "2026-07-31T08:57:55Z",
     "created_at": "2026-02-05T08:55:26Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053058Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=9e5173ad118824517c260bae9fee992b64b167b8782814ac1aace3bbbf5c9386&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM1OCwibmJmIjoxNzg1NzM1MDU4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.KesETzOMkYRCZGf3D1yC0zsQ6K6F5L41O88J6tNnhcQ"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092021Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=cec15e1bb8fb664ee9600faaef5f46727ff996e950eb4991bff26a9444f2d243&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTEyMSwibmJmIjoxNzg1NzQ4ODIxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.i-j6tBdGDxfFtISJGxR-SNQt6I4uS1Cjjk6T3BVUw0A"
   },
   {
     "name": "circleci-cli",
@@ -321,7 +321,7 @@
     "pushed_at": "2026-08-02T16:32:57Z",
     "updated_at": "2026-08-02T16:32:59Z",
     "created_at": "2026-04-03T14:09:46Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053102Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=584214268b713de179a9c9af5ef8e72889e1af9ecc0038799e5632bc59453dbe&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM2MiwibmJmIjoxNzg1NzM1MDYyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.RluLdYtvMZVHYTPa8DEo_-3FTLHC9qp8RXPNNRMS238"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092028Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d1d2ca78dd075ae0b000b5d83377dd75c8bbc3d8e7b3ee756c622a397796dbfa&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTEyOCwibmJmIjoxNzg1NzQ4ODI4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0._G2RX4OlM5K2rwSjtI9vuayJhBRxqLKUxe2BlD4MYy0"
   },
   {
     "name": "Norimaki",
@@ -505,10 +505,10 @@
     ],
     "stargazers_count": 15,
     "forks_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-03T03:03:45Z",
-    "updated_at": "2026-07-28T12:05:53Z",
+    "pushed_at": "2026-08-03T05:51:03Z",
+    "updated_at": "2026-08-03T05:52:21Z",
     "created_at": "2019-09-14T14:01:32Z",
     "og_image": "https://opengraph.githubassets.com/1/irasutoya-tools/irasutoya",
     "og_image_cached": "../data/og/irasutoya-tools__irasutoya.png"
@@ -529,7 +529,7 @@
     "pushed_at": "2026-07-24T09:46:29Z",
     "updated_at": "2026-08-02T06:41:16Z",
     "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053109Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=23484077a993dd3c81f6a123464a8d5a9c74083eacc2a3dbb818dca94b68b6f6&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM2OSwibmJmIjoxNzg1NzM1MDY5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ciKeWlNqFJY5fsrQch9L91HqqTYZ-q-7Y8IZMbmGly8"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092039Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=b5cdfba7788b392f66be427cafb3577603186e1507165f8691400414a67a1f40&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTEzOSwibmJmIjoxNzg1NzQ4ODM5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.UhjWpqmPrQ4cBo0dJOrq4epyFw2OOb130R5N_kJHk3A"
   },
   {
     "name": "blog.unhappychoice.com",
@@ -756,7 +756,7 @@
     "pushed_at": "2026-05-10T12:34:49Z",
     "updated_at": "2026-05-10T12:34:52Z",
     "created_at": "2015-05-08T18:48:42Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T053117Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=f960225a149163a373401332ee1a8d04f61d87c5831a8a3a64c67e268754612e&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTczNTM3NywibmJmIjoxNzg1NzM1MDc3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TqHFmLgWrisR-pKDWF-cvbnZpfhHvBrGuVRhUhqlmbc"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260803%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260803T092051Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=caac2a2faf7805c3a51c19aea7368192712d2a21c144923b9a0314e7848004ef&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTc0OTE1MSwibmJmIjoxNzg1NzQ4ODUxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.qIXczMyCIkhfI_Fw3O0dHXioWRhocauhafBovnrGo5w"
   },
   {
     "name": "NoiseView",
@@ -1009,10 +1009,10 @@
     ],
     "stargazers_count": 4,
     "forks_count": 0,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-03T03:04:06Z",
-    "updated_at": "2026-07-15T11:10:38Z",
+    "pushed_at": "2026-08-03T06:48:38Z",
+    "updated_at": "2026-08-03T06:49:27Z",
     "created_at": "2016-07-03T05:18:24Z",
     "og_image": "https://opengraph.githubassets.com/1/circleci-tools/CircleCI",
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
@@ -1038,8 +1038,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-03T01:51:37Z",
-    "updated_at": "2026-08-03T01:51:40Z",
+    "pushed_at": "2026-08-03T05:32:15Z",
+    "updated_at": "2026-08-03T05:32:18Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
