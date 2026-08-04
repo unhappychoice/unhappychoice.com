@@ -36,7 +36,7 @@
     "pushed_at": "2026-07-29T12:46:12Z",
     "updated_at": "2026-08-04T11:31:06Z",
     "created_at": "2025-11-08T21:22:33Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115456Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=10a35fa1cb7dee167021c3b31f7e2b5a423c47c66e5ec14eabf142928e902a73&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDc5NiwibmJmIjoxNzg1ODQ0NDk2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.QQtzjU1CRQ0HuAiZEhMVYxHQquTal6UeImTXyOd3Sf0"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134601Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=673c4ea0360fd506e82c127c87cd693a34b4707646d522df39ab29355873b81d&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ2MSwibmJmIjoxNzg1ODUxMTYxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.8kKlmV8h-jnSWnUANoLVjQAKJFUQYpZ4W2-hc6ULmW0"
   },
   {
     "name": "gittype",
@@ -70,10 +70,10 @@
     "forks_count": 44,
     "open_issues_count": 15,
     "archived": false,
-    "pushed_at": "2026-07-30T12:19:38Z",
-    "updated_at": "2026-08-03T18:34:19Z",
+    "pushed_at": "2026-08-04T13:32:48Z",
+    "updated_at": "2026-08-04T13:33:34Z",
     "created_at": "2025-08-28T15:57:14Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115458Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=fbf0f084378bf5ef2ee8e6161cffdd269533a4def2bbac126e3671b6f0f6c74f&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDc5OCwibmJmIjoxNzg1ODQ0NDk4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.YZn5fe2IdrvANhPZ4O19i8fVW8IyH8tAcT2xMlLhols"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134602Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e5db462b8ab6972ae6dd461a3f64de191352707235083702a61ee19550146600&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ2MiwibmJmIjoxNzg1ODUxMTYyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.YynCXBMN6bLe89gyWLKWmRfalLTPH8b7gYUhp_7eSqM"
   },
   {
     "name": "mdts",
@@ -104,7 +104,7 @@
     "pushed_at": "2026-08-03T07:44:21Z",
     "updated_at": "2026-07-31T06:48:45Z",
     "created_at": "2025-07-13T09:59:58Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115500Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=e7bdacfc4f7e40d7132f04953e9df3022609b9c57fafbcaf94bef270d963b658&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgwMCwibmJmIjoxNzg1ODQ0NTAwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.vKuMl0oIwgxY75z5wAl-Q-09uElJDNOLV8Hum2CRnXc"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134603Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=fb085101c3e2182b85b0b652ecde656f5c86ffab3c5fe7043f631708f6c1697f&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ2MywibmJmIjoxNzg1ODUxMTYzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.9GIrTWb3yx4pTBbnqFi3oEK3XdhiJSHhpxLPV6JXop0"
   },
   {
     "name": "splashboard",
@@ -143,7 +143,7 @@
     "pushed_at": "2026-08-03T05:50:32Z",
     "updated_at": "2026-08-03T05:50:49Z",
     "created_at": "2026-04-20T23:21:16Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115501Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=55baad296f267a254660d1bcd099f176ab9ac0271bdde14a9894cdd773cd1b6c&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgwMSwibmJmIjoxNzg1ODQ0NTAxLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.ddBe-QGpnpBR4c1WHBaQdlezTsi0f2sVv9HMQDVKwEs"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1216450471/677be5e6-194a-4ad2-83b3-b3037c4091d0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134604Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=71956ab7efd35fb419aecec0ce9315d2d37bd0437acd47dcdd85c59d2142bc01&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ2NCwibmJmIjoxNzg1ODUxMTY0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.f2SAwTw6JZngVEaJkb1l-0mksxD5Nl5jxdjgcvQSX3k"
   },
   {
     "name": "steamfetch",
@@ -179,7 +179,7 @@
     "pushed_at": "2026-07-29T12:46:09Z",
     "updated_at": "2026-07-31T08:57:55Z",
     "created_at": "2026-02-05T08:55:26Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115503Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=fc8cfbc83bb7de5055cb17712ce2e6762aec5557779466ca39e6c53f35fa84fa&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgwMywibmJmIjoxNzg1ODQ0NTAzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.Fd7mwKb4K4l3-IdUk3OegP7iSYENy0bs3myZVqfZvIU"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1150417083/8b4a9f2d-93d7-4607-816a-5cd315b883c5?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134606Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=de5bc65ad86967b4f392c454ff84a202d2ef8794aec9cec03d540831cd847899&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ2NiwibmJmIjoxNzg1ODUxMTY2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.06QuRXgjQR2sHsyKG-wlo5x4x-tZt6UtPf7DAGFaNnY"
   },
   {
     "name": "circleci-cli",
@@ -203,10 +203,10 @@
     ],
     "stargazers_count": 93,
     "forks_count": 8,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "archived": false,
-    "pushed_at": "2026-08-04T03:03:56Z",
-    "updated_at": "2026-08-04T10:34:40Z",
+    "pushed_at": "2026-08-04T12:50:23Z",
+    "updated_at": "2026-08-04T12:50:26Z",
     "created_at": "2016-01-10T04:31:58Z",
     "og_image": "https://opengraph.githubassets.com/1/circleci-tools/circleci-cli",
     "og_image_cached": "../data/og/circleci-tools__circleci-cli.png"
@@ -259,10 +259,10 @@
     ],
     "stargazers_count": 42,
     "forks_count": 6,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "archived": false,
-    "pushed_at": "2026-08-04T03:03:19Z",
-    "updated_at": "2026-07-27T10:58:11Z",
+    "pushed_at": "2026-08-04T12:48:52Z",
+    "updated_at": "2026-08-04T12:49:31Z",
     "created_at": "2019-09-16T02:12:21Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/terminal_image",
     "og_image_cached": "../data/og/unhappychoice__terminal_image.png"
@@ -285,10 +285,10 @@
     ],
     "stargazers_count": 31,
     "forks_count": 23,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "archived": false,
-    "pushed_at": "2026-08-04T03:03:00Z",
-    "updated_at": "2026-07-25T05:44:47Z",
+    "pushed_at": "2026-08-04T12:51:13Z",
+    "updated_at": "2026-08-04T12:52:45Z",
     "created_at": "2017-07-25T09:16:06Z",
     "og_image": "https://opengraph.githubassets.com/1/bitflyer-tools/bitflyer",
     "og_image_cached": "../data/og/bitflyer-tools__bitflyer.png"
@@ -321,7 +321,7 @@
     "pushed_at": "2026-08-02T16:32:57Z",
     "updated_at": "2026-08-02T16:32:59Z",
     "created_at": "2026-04-03T14:09:46Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115510Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d57f697e1c05fcd94f498df9ea2871ba19c83b587614b01dbe55b88ddc20f619&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgxMCwibmJmIjoxNzg1ODQ0NTEwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.XWS6VR7SpwMkYjNmWNU1rTzag2y5F05Q41aDfpWPrNg"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200521260/c36c72b6-910e-43bb-ae28-298e3de11a7a?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134610Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7ba1b689c0e0e0e836b53c5c64eb58a727569ab426390b9adab93fd6bf3bca44&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ3MCwibmJmIjoxNzg1ODUxMTcwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.tzTXlWRIow9x9Fr8Y8e-JN2LPiHY8ZEJPNXHoNpbphQ"
   },
   {
     "name": "Norimaki",
@@ -377,10 +377,10 @@
     ],
     "stargazers_count": 22,
     "forks_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-04T03:02:26Z",
-    "updated_at": "2026-07-27T11:07:03Z",
+    "pushed_at": "2026-08-04T12:49:48Z",
+    "updated_at": "2026-08-04T12:50:33Z",
     "created_at": "2019-09-16T00:05:51Z",
     "og_image": "https://opengraph.githubassets.com/1/irasutoya-tools/irasutoya-cli",
     "og_image_cached": "../data/og/irasutoya-tools__irasutoya-cli.png"
@@ -406,13 +406,38 @@
     ],
     "stargazers_count": 20,
     "forks_count": 0,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "archived": false,
-    "pushed_at": "2026-08-04T06:41:13Z",
-    "updated_at": "2026-07-25T05:29:56Z",
+    "pushed_at": "2026-08-04T13:33:16Z",
+    "updated_at": "2026-08-04T13:33:45Z",
     "created_at": "2017-12-09T08:28:44Z",
     "og_image": "https://opengraph.githubassets.com/1/bitflyer-tools/cycle-flyer",
     "og_image_cached": "../data/og/bitflyer-tools__cycle-flyer.png"
+  },
+  {
+    "name": "blog",
+    "full_name": "unhappychoice/blog",
+    "owner": "unhappychoice",
+    "description": ":closed_book: my blog",
+    "html_url": "https://github.com/unhappychoice/blog",
+    "homepage": "https://blog.unhappychoice.com",
+    "language": "Ruby",
+    "topics": [
+      "article",
+      "blog",
+      "blogs",
+      "github-pages",
+      "middleman"
+    ],
+    "stargazers_count": 18,
+    "forks_count": 2,
+    "open_issues_count": 4,
+    "archived": false,
+    "pushed_at": "2026-08-04T12:50:19Z",
+    "updated_at": "2026-08-04T12:51:39Z",
+    "created_at": "2016-02-08T19:09:05Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/blog",
+    "og_image_cached": "../data/og/unhappychoice__blog.png"
   },
   {
     "name": "unhappychoice",
@@ -432,31 +457,6 @@
     "created_at": "2020-07-17T16:26:58Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.png"
-  },
-  {
-    "name": "blog",
-    "full_name": "unhappychoice/blog",
-    "owner": "unhappychoice",
-    "description": ":closed_book: my blog",
-    "html_url": "https://github.com/unhappychoice/blog",
-    "homepage": "https://blog.unhappychoice.com",
-    "language": "Ruby",
-    "topics": [
-      "article",
-      "blog",
-      "blogs",
-      "github-pages",
-      "middleman"
-    ],
-    "stargazers_count": 18,
-    "forks_count": 2,
-    "open_issues_count": 5,
-    "archived": false,
-    "pushed_at": "2026-08-04T03:03:16Z",
-    "updated_at": "2026-07-30T12:20:08Z",
-    "created_at": "2016-02-08T19:09:05Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/blog",
-    "og_image_cached": "../data/og/unhappychoice__blog.png"
   },
   {
     "name": "color-hash.kt",
@@ -505,31 +505,13 @@
     ],
     "stargazers_count": 15,
     "forks_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-04T03:03:00Z",
-    "updated_at": "2026-08-03T05:52:21Z",
+    "pushed_at": "2026-08-04T12:50:44Z",
+    "updated_at": "2026-08-04T12:52:20Z",
     "created_at": "2019-09-14T14:01:32Z",
     "og_image": "https://opengraph.githubassets.com/1/irasutoya-tools/irasutoya",
     "og_image_cached": "../data/og/irasutoya-tools__irasutoya.png"
-  },
-  {
-    "name": "kobito",
-    "full_name": "unhappychoice/kobito",
-    "owner": "unhappychoice",
-    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
-    "html_url": "https://github.com/unhappychoice/kobito",
-    "homepage": null,
-    "language": "Rust",
-    "topics": [],
-    "stargazers_count": 13,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-07-24T09:46:29Z",
-    "updated_at": "2026-08-02T06:41:16Z",
-    "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115522Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=b40a082a4602f892be28b8832175922e06edddc7272f4132bef47b60a1fd48e8&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgyMiwibmJmIjoxNzg1ODQ0NTIyLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.A_tcwqGXwoX-nVFoW45ojDqkZGcjiqqPc7LLJONyl7U"
   },
   {
     "name": "blog.unhappychoice.com",
@@ -551,11 +533,29 @@
     "forks_count": 1,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-07-30T12:22:42Z",
-    "updated_at": "2026-07-30T12:24:52Z",
+    "pushed_at": "2026-08-04T12:53:24Z",
+    "updated_at": "2026-08-04T12:55:04Z",
     "created_at": "2016-02-09T12:43:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/blog.unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__blog.unhappychoice.com.png"
+  },
+  {
+    "name": "kobito",
+    "full_name": "unhappychoice/kobito",
+    "owner": "unhappychoice",
+    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
+    "html_url": "https://github.com/unhappychoice/kobito",
+    "homepage": null,
+    "language": "Rust",
+    "topics": [],
+    "stargazers_count": 13,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-07-24T09:46:29Z",
+    "updated_at": "2026-08-02T06:41:16Z",
+    "created_at": "2026-04-30T17:12:08Z",
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134618Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=4fb900f5cbff7714fcfce18ad35f3af3b10fd5fb1785afab6c2ebf2f74bb0fc8&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ3OCwibmJmIjoxNzg1ODUxMTc4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.m606j7Ybsirt8iqOX4iLDpXCwcUlkBlGZZX6a9KxIwQ"
   },
   {
     "name": "DroidFlyer",
@@ -664,10 +664,10 @@
     ],
     "stargazers_count": 10,
     "forks_count": 1,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "archived": false,
-    "pushed_at": "2026-08-04T03:02:55Z",
-    "updated_at": "2026-07-27T10:58:33Z",
+    "pushed_at": "2026-08-04T12:51:45Z",
+    "updated_at": "2026-08-04T12:53:46Z",
     "created_at": "2017-07-28T13:21:25Z",
     "og_image": "https://opengraph.githubassets.com/1/bitflyer-tools/bitflyer-cli",
     "og_image_cached": "../data/og/bitflyer-tools__bitflyer-cli.png"
@@ -756,7 +756,7 @@
     "pushed_at": "2026-05-10T12:34:49Z",
     "updated_at": "2026-05-10T12:34:52Z",
     "created_at": "2015-05-08T18:48:42Z",
-    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T115533Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d51b0ecf2c799132597c17b666043b699882a068e6f386d5d6ed8b01bde4ae52&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg0NDgzMywibmJmIjoxNzg1ODQ0NTMzLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.wl4WjQ8_T5IhhVzMZ5yKSwNgOCN07X56xjtixLC2ADg"
+    "og_image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260804%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260804T134624Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=42876d63c9d03b20bdbafa05af0341a796b759e2c6fce4e5daccb910a4d5a328&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTg1MTQ4NCwibmJmIjoxNzg1ODUxMTg0LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.pSyiSr5I6K_0xF3xUsv2FZ8J8E5aUR1vYTqcgGIbiyQ"
   },
   {
     "name": "NoiseView",
@@ -883,6 +883,32 @@
     "og_image_cached": "../data/og/unhappychoice__kotlin-github-example.png"
   },
   {
+    "name": "lintric",
+    "full_name": "unhappychoice/lintric",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/lintric",
+    "homepage": null,
+    "language": "Rust",
+    "topics": [
+      "cli",
+      "code-quality",
+      "developer-tools",
+      "linter",
+      "rust",
+      "static-analysis"
+    ],
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "open_issues_count": 37,
+    "archived": false,
+    "pushed_at": "2026-08-04T12:49:17Z",
+    "updated_at": "2026-08-04T12:50:25Z",
+    "created_at": "2025-08-07T12:55:56Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/lintric",
+    "og_image_cached": "../data/og/unhappychoice__lintric.png"
+  },
+  {
     "name": "steam.unhappychoice.com",
     "full_name": "unhappychoice/steam.unhappychoice.com",
     "owner": "unhappychoice",
@@ -909,32 +935,6 @@
     "created_at": "2024-03-09T13:06:12Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/steam.unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__steam.unhappychoice.com.png"
-  },
-  {
-    "name": "lintric",
-    "full_name": "unhappychoice/lintric",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/lintric",
-    "homepage": null,
-    "language": "Rust",
-    "topics": [
-      "cli",
-      "code-quality",
-      "developer-tools",
-      "linter",
-      "rust",
-      "static-analysis"
-    ],
-    "stargazers_count": 4,
-    "forks_count": 0,
-    "open_issues_count": 38,
-    "archived": false,
-    "pushed_at": "2026-08-04T03:04:26Z",
-    "updated_at": "2026-07-30T12:25:50Z",
-    "created_at": "2025-08-07T12:55:56Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/lintric",
-    "og_image_cached": "../data/og/unhappychoice__lintric.png"
   },
   {
     "name": "oss-issue-opener",
@@ -1018,6 +1018,31 @@
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
   },
   {
+    "name": "slack_channel_stats",
+    "full_name": "unhappychoice/slack_channel_stats",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/slack_channel_stats",
+    "homepage": null,
+    "language": "Ruby",
+    "topics": [
+      "analytics",
+      "ruby",
+      "slack",
+      "slack-api",
+      "statistics"
+    ],
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-08-04T12:47:55Z",
+    "updated_at": "2026-08-04T12:50:01Z",
+    "created_at": "2021-01-25T14:57:13Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats",
+    "og_image_cached": "../data/og/unhappychoice__slack_channel_stats.png"
+  },
+  {
     "name": "unhappychoice.com",
     "full_name": "unhappychoice/unhappychoice.com",
     "owner": "unhappychoice",
@@ -1038,36 +1063,11 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-04T09:34:00Z",
-    "updated_at": "2026-08-04T09:36:54Z",
+    "pushed_at": "2026-08-04T11:56:59Z",
+    "updated_at": "2026-08-04T11:58:11Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
-  },
-  {
-    "name": "slack_channel_stats",
-    "full_name": "unhappychoice/slack_channel_stats",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/slack_channel_stats",
-    "homepage": null,
-    "language": "Ruby",
-    "topics": [
-      "analytics",
-      "ruby",
-      "slack",
-      "slack-api",
-      "statistics"
-    ],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 1,
-    "archived": false,
-    "pushed_at": "2026-08-04T03:06:30Z",
-    "updated_at": "2026-07-30T12:20:45Z",
-    "created_at": "2021-01-25T14:57:13Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/slack_channel_stats",
-    "og_image_cached": "../data/og/unhappychoice__slack_channel_stats.png"
   },
   {
     "name": "qiita-docs",
