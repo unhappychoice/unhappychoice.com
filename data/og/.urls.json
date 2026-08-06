@@ -43,7 +43,7 @@
   "unhappychoice/elasticsearch-docker": "https://opengraph.githubassets.com/1/unhappychoice/elasticsearch-docker",
   "unhappychoice/fluentd-docker": "https://opengraph.githubassets.com/1/unhappychoice/fluentd-docker",
   "circleci-tools/circleci-cli": "https://opengraph.githubassets.com/1/circleci-tools/circleci-cli",
-  "unhappychoice/gitlogue": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260806T114306Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=5660fb0e8d479f6ea92fb2dfc086e0090467a4bb13a629a6a4f5e423a2723257&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NjAxNjg4NiwibmJmIjoxNzg2MDE2NTg2LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.MPNJ2Emqrls0Dc8V_1km5iB8ffq-YeZ5RX3lMUegriQ",
+  "unhappychoice/gitlogue": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
   "unhappychoice/mdts": "https://repository-images.githubusercontent.com/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04",
   "kotlinz/kotlinz": "https://opengraph.githubassets.com/1/kotlinz/kotlinz",
   "unhappychoice/blog": "https://opengraph.githubassets.com/1/unhappychoice/blog",
