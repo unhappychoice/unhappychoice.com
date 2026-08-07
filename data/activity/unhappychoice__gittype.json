@@ -213,7 +213,7 @@
     "release_name": "Release v0.10.2",
     "release_tag": "v0.10.2",
     "release_url": "https://github.com/unhappychoice/gittype/releases/tag/v0.10.2",
-    "commit_count": 0
+    "commit_count": null
   },
   {
     "type": "PushEvent",
