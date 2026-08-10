@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4902,
+    "stargazers_count": 4903,
     "forks_count": 110,
     "open_issues_count": 12,
     "archived": false,
     "pushed_at": "2026-08-10T15:12:02Z",
-    "updated_at": "2026-08-10T15:18:04Z",
+    "updated_at": "2026-08-10T19:39:55Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
     "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
@@ -421,6 +421,25 @@
     "og_image_cached": "../data/og/bitflyer-tools__cycle-flyer.png"
   },
   {
+    "name": "unhappychoice",
+    "full_name": "unhappychoice/unhappychoice",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/unhappychoice",
+    "homepage": null,
+    "language": "JavaScript",
+    "topics": [],
+    "stargazers_count": 18,
+    "forks_count": 2,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-08-10T20:16:52Z",
+    "updated_at": "2026-08-10T20:17:35Z",
+    "created_at": "2020-07-17T16:26:58Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice",
+    "og_image_cached": "../data/og/unhappychoice__unhappychoice.png"
+  },
+  {
     "name": "blog",
     "full_name": "unhappychoice/blog",
     "owner": "unhappychoice",
@@ -444,25 +463,6 @@
     "created_at": "2016-02-08T19:09:05Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/blog",
     "og_image_cached": "../data/og/unhappychoice__blog.png"
-  },
-  {
-    "name": "unhappychoice",
-    "full_name": "unhappychoice/unhappychoice",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/unhappychoice",
-    "homepage": null,
-    "language": "JavaScript",
-    "topics": [],
-    "stargazers_count": 18,
-    "forks_count": 2,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-08-09T20:10:44Z",
-    "updated_at": "2026-08-09T20:10:57Z",
-    "created_at": "2020-07-17T16:26:58Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice",
-    "og_image_cached": "../data/og/unhappychoice__unhappychoice.png"
   },
   {
     "name": "color-hash.kt",
@@ -1046,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-10T18:15:58Z",
-    "updated_at": "2026-08-10T18:17:09Z",
+    "pushed_at": "2026-08-10T19:21:43Z",
+    "updated_at": "2026-08-10T19:24:03Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
