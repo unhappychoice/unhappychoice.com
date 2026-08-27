@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4937,
+    "stargazers_count": 4938,
     "forks_count": 112,
     "open_issues_count": 13,
     "archived": false,
     "pushed_at": "2026-08-26T04:38:57Z",
-    "updated_at": "2026-08-27T15:11:24Z",
+    "updated_at": "2026-08-27T21:47:50Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
     "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
@@ -67,12 +67,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1575,
+    "stargazers_count": 1576,
     "forks_count": 43,
     "open_issues_count": 15,
     "archived": false,
     "pushed_at": "2026-08-27T12:54:12Z",
-    "updated_at": "2026-08-26T04:38:48Z",
+    "updated_at": "2026-08-27T21:47:08Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
     "og_image_cached": "../data/og/unhappychoice__gittype.png"
@@ -824,6 +824,31 @@
     "og_image_cached": "../data/og/irasutoya-tools__lita-irasutoya.png"
   },
   {
+    "name": "homebrew-tap",
+    "full_name": "unhappychoice/homebrew-tap",
+    "owner": "unhappychoice",
+    "description": "Homebrew formulae for unhappychoice's tools",
+    "html_url": "https://github.com/unhappychoice/homebrew-tap",
+    "homepage": null,
+    "language": "Ruby",
+    "topics": [
+      "formula",
+      "homebrew",
+      "homebrew-tap",
+      "macos",
+      "package-manager"
+    ],
+    "stargazers_count": 7,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-08-05T12:00:26Z",
+    "updated_at": "2026-08-27T21:47:08Z",
+    "created_at": "2025-08-31T06:36:59Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
+    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
+  },
+  {
     "name": "intercom_summary",
     "full_name": "unhappychoice/intercom_summary",
     "owner": "unhappychoice",
@@ -845,31 +870,6 @@
     "created_at": "2017-02-21T03:17:57Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/intercom_summary",
     "og_image_cached": "../data/og/unhappychoice__intercom_summary.png"
-  },
-  {
-    "name": "homebrew-tap",
-    "full_name": "unhappychoice/homebrew-tap",
-    "owner": "unhappychoice",
-    "description": "Homebrew formulae for unhappychoice's tools",
-    "html_url": "https://github.com/unhappychoice/homebrew-tap",
-    "homepage": null,
-    "language": "Ruby",
-    "topics": [
-      "formula",
-      "homebrew",
-      "homebrew-tap",
-      "macos",
-      "package-manager"
-    ],
-    "stargazers_count": 6,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-08-05T12:00:26Z",
-    "updated_at": "2026-08-05T12:01:03Z",
-    "created_at": "2025-08-31T06:36:59Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
-    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
   },
   {
     "name": "kotlin-github-example",
@@ -908,9 +908,9 @@
     ],
     "stargazers_count": 4,
     "forks_count": 0,
-    "open_issues_count": 57,
+    "open_issues_count": 58,
     "archived": false,
-    "pushed_at": "2026-08-27T14:58:48Z",
+    "pushed_at": "2026-08-27T22:13:09Z",
     "updated_at": "2026-08-27T15:15:45Z",
     "created_at": "2025-08-07T12:55:56Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/lintric",
@@ -1046,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-27T15:38:14Z",
-    "updated_at": "2026-08-27T15:48:24Z",
+    "pushed_at": "2026-08-27T19:31:31Z",
+    "updated_at": "2026-08-27T19:40:19Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
