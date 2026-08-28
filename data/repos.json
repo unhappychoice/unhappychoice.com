@@ -680,6 +680,34 @@
     "og_image_cached": "../data/og/bitflyer-tools__bitflyer-cli.png"
   },
   {
+    "name": "dotfiles",
+    "full_name": "unhappychoice/dotfiles",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/dotfiles",
+    "homepage": null,
+    "language": "Shell",
+    "topics": [
+      "configuration",
+      "development-environment",
+      "dotfiles",
+      "linux",
+      "macos",
+      "setup",
+      "shell",
+      "zsh"
+    ],
+    "stargazers_count": 9,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-05-10T12:34:49Z",
+    "updated_at": "2026-08-28T21:06:05Z",
+    "created_at": "2015-05-08T18:48:42Z",
+    "og_image": "https://repository-images.githubusercontent.com/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d",
+    "og_image_cached": "../data/og/unhappychoice__dotfiles.png"
+  },
+  {
     "name": "cycle-cropper",
     "full_name": "unhappychoice/cycle-cropper",
     "owner": "unhappychoice",
@@ -737,34 +765,6 @@
     "created_at": "2019-09-02T17:39:45Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/lita-aws-cloudfront",
     "og_image_cached": "../data/og/unhappychoice__lita-aws-cloudfront.png"
-  },
-  {
-    "name": "dotfiles",
-    "full_name": "unhappychoice/dotfiles",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/dotfiles",
-    "homepage": null,
-    "language": "Shell",
-    "topics": [
-      "configuration",
-      "development-environment",
-      "dotfiles",
-      "linux",
-      "macos",
-      "setup",
-      "shell",
-      "zsh"
-    ],
-    "stargazers_count": 8,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-05-10T12:34:49Z",
-    "updated_at": "2026-05-10T12:34:52Z",
-    "created_at": "2015-05-08T18:48:42Z",
-    "og_image": "https://repository-images.githubusercontent.com/35296067/ac8d9b4b-653c-4e2b-a17e-337e2b312c4d",
-    "og_image_cached": "../data/og/unhappychoice__dotfiles.png"
   },
   {
     "name": "NoiseView",
@@ -1046,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-28T14:00:36Z",
-    "updated_at": "2026-08-28T14:04:43Z",
+    "pushed_at": "2026-08-28T18:07:23Z",
+    "updated_at": "2026-08-28T18:10:53Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
@@ -1387,8 +1387,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-08-27T18:36:06Z",
-    "updated_at": "2026-08-27T18:36:16Z",
+    "pushed_at": "2026-08-28T19:05:00Z",
+    "updated_at": "2026-08-28T19:07:27Z",
     "created_at": "2026-04-05T03:39:09Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/weekly-report",
     "og_image_cached": "../data/og/unhappychoice__weekly-report.png"
