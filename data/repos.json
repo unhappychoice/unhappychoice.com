@@ -29,12 +29,12 @@
       "tui",
       "visualization"
     ],
-    "stargazers_count": 4969,
+    "stargazers_count": 4970,
     "forks_count": 112,
     "open_issues_count": 12,
     "archived": false,
     "pushed_at": "2026-09-09T14:41:23Z",
-    "updated_at": "2026-09-11T17:38:44Z",
+    "updated_at": "2026-09-12T20:09:47Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
     "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
@@ -99,12 +99,12 @@
       "zero-setup",
       "zero-setup-tools"
     ],
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "forks_count": 23,
     "open_issues_count": 10,
     "archived": false,
     "pushed_at": "2026-09-12T04:14:43Z",
-    "updated_at": "2026-09-12T04:12:36Z",
+    "updated_at": "2026-09-12T20:06:34Z",
     "created_at": "2025-07-13T09:59:58Z",
     "og_image": "https://repository-images.githubusercontent.com/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04",
     "og_image_cached": "../data/og/unhappychoice__mdts.png"
@@ -520,6 +520,25 @@
     "og_image_cached": "../data/og/irasutoya-tools__irasutoya.png"
   },
   {
+    "name": "kobito",
+    "full_name": "unhappychoice/kobito",
+    "owner": "unhappychoice",
+    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
+    "html_url": "https://github.com/unhappychoice/kobito",
+    "homepage": null,
+    "language": "Rust",
+    "topics": [],
+    "stargazers_count": 14,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-09-12T02:48:02Z",
+    "updated_at": "2026-09-12T20:07:33Z",
+    "created_at": "2026-04-30T17:12:08Z",
+    "og_image": "https://repository-images.githubusercontent.com/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa",
+    "og_image_cached": "../data/og/unhappychoice__kobito.png"
+  },
+  {
     "name": "blog.unhappychoice.com",
     "full_name": "unhappychoice/blog.unhappychoice.com",
     "owner": "unhappychoice",
@@ -544,25 +563,6 @@
     "created_at": "2016-02-09T12:43:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/blog.unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__blog.unhappychoice.com.png"
-  },
-  {
-    "name": "kobito",
-    "full_name": "unhappychoice/kobito",
-    "owner": "unhappychoice",
-    "description": "Autonomous coding agent orchestrator — works while you sleep, like the elves in the shoemaker's tale",
-    "html_url": "https://github.com/unhappychoice/kobito",
-    "homepage": null,
-    "language": "Rust",
-    "topics": [],
-    "stargazers_count": 13,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-09-12T02:48:02Z",
-    "updated_at": "2026-09-12T02:48:04Z",
-    "created_at": "2026-04-30T17:12:08Z",
-    "og_image": "https://repository-images.githubusercontent.com/1225818500/3b00fc9d-44eb-430d-b222-b6bf71831daa",
-    "og_image_cached": "../data/og/unhappychoice__kobito.png"
   },
   {
     "name": "DroidFlyer",
@@ -1046,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-09-12T16:38:25Z",
-    "updated_at": "2026-09-12T16:38:29Z",
+    "pushed_at": "2026-09-12T18:53:12Z",
+    "updated_at": "2026-09-12T18:53:15Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
