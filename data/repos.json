@@ -891,6 +891,33 @@
     "og_image_cached": "../data/og/unhappychoice__kotlin-github-example.png"
   },
   {
+    "name": "unhappychoice.com",
+    "full_name": "unhappychoice/unhappychoice.com",
+    "owner": "unhappychoice",
+    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
+    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
+    "homepage": "https://unhappychoice.com",
+    "language": "JavaScript",
+    "topics": [
+      "github-pages",
+      "html",
+      "oss-showcase",
+      "personal-website",
+      "portfolio",
+      "static-site",
+      "vanilla-js"
+    ],
+    "stargazers_count": 4,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-09-14T15:25:32Z",
+    "updated_at": "2026-09-14T15:25:41Z",
+    "created_at": "2025-07-23T19:30:13Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
+    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
+  },
+  {
     "name": "oss-issue-opener",
     "full_name": "unhappychoice/oss-issue-opener",
     "owner": "unhappychoice",
@@ -916,33 +943,6 @@
     "created_at": "2026-02-03T10:16:42Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/oss-issue-opener",
     "og_image_cached": "../data/og/unhappychoice__oss-issue-opener.png"
-  },
-  {
-    "name": "unhappychoice.com",
-    "full_name": "unhappychoice/unhappychoice.com",
-    "owner": "unhappychoice",
-    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
-    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
-    "homepage": "https://unhappychoice.com",
-    "language": "JavaScript",
-    "topics": [
-      "github-pages",
-      "html",
-      "oss-showcase",
-      "personal-website",
-      "portfolio",
-      "static-site",
-      "vanilla-js"
-    ],
-    "stargazers_count": 4,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-09-14T08:17:35Z",
-    "updated_at": "2026-09-14T08:17:39Z",
-    "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
-    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
   },
   {
     "name": "steam.unhappychoice.com",
@@ -1387,8 +1387,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-09-13T18:30:03Z",
-    "updated_at": "2026-09-13T18:30:02Z",
+    "pushed_at": "2026-09-14T19:44:54Z",
+    "updated_at": "2026-09-14T19:44:59Z",
     "created_at": "2026-04-05T03:39:09Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/weekly-report",
     "og_image_cached": "../data/og/unhappychoice__weekly-report.png"
