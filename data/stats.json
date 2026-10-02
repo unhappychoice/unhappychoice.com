@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T06:31:14Z",
-  "total_repos": 46,
-  "total_stars": 7866,
-  "total_forks": 240,
-  "archived_count": 10,
+  "generated_at": "2026-10-02T13:22:46Z",
+  "total_repos": 52,
+  "total_stars": 7922,
+  "total_forks": 263,
+  "archived_count": 11,
   "languages": [
     {
       "language": "Ruby",
-      "count": 11
+      "count": 14
     },
     {
       "language": "Kotlin",
@@ -23,10 +23,14 @@
     },
     {
       "language": "HTML",
-      "count": 3
+      "count": 4
     },
     {
       "language": "Dockerfile",
+      "count": 2
+    },
+    {
+      "language": "JavaScript",
       "count": 2
     },
     {
@@ -38,24 +42,29 @@
       "count": 1
     },
     {
-      "language": "JavaScript",
+      "language": "Objective-C",
       "count": 1
     },
     {
-      "language": "Objective-C",
+      "language": "Swift",
       "count": 1
     }
   ],
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 35,
-      "stars": 7577
+      "repo_count": 40,
+      "stars": 7602
     },
     {
       "owner": "circleci-tools",
       "repo_count": 3,
       "stars": 120
+    },
+    {
+      "owner": "bitflyer-tools",
+      "repo_count": 4,
+      "stars": 73
     },
     {
       "owner": "kotlinz",
@@ -68,11 +77,6 @@
       "stars": 47
     },
     {
-      "owner": "bitflyer-tools",
-      "repo_count": 3,
-      "stars": 42
-    },
-    {
       "owner": "deariary",
       "repo_count": 1,
       "stars": 29
@@ -81,11 +85,11 @@
   "top_topics": [
     {
       "topic": "cli",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "ruby",
-      "count": 7
+      "count": 10
     },
     {
       "topic": "developer-tools",
@@ -94,6 +98,10 @@
     {
       "topic": "kotlin",
       "count": 6
+    },
+    {
+      "topic": "github-pages",
+      "count": 5
     },
     {
       "topic": "image",
@@ -120,6 +128,14 @@
       "count": 4
     },
     {
+      "topic": "bitcoin",
+      "count": 4
+    },
+    {
+      "topic": "bitflyer",
+      "count": 4
+    },
+    {
       "topic": "blog",
       "count": 4
     },
@@ -132,20 +148,8 @@
       "count": 4
     },
     {
-      "topic": "github-pages",
-      "count": 4
-    },
-    {
       "topic": "websocket",
       "count": 4
-    },
-    {
-      "topic": "bitcoin",
-      "count": 3
-    },
-    {
-      "topic": "bitflyer",
-      "count": 3
     },
     {
       "topic": "circle-ci",
