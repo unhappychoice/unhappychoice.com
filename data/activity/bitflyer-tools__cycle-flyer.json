@@ -505,9 +505,9 @@
   },
   {
     "type": "CreateEvent",
-    "created_at": "2026-10-05T03:04:00Z",
+    "created_at": "2026-10-05T03:04:12Z",
     "action": null,
-    "ref": "dependabot/npm_and_yarn/electron-44.5.1",
+    "ref": "dependabot/npm_and_yarn/electron-forge/maker-squirrel-8.0.1",
     "ref_type": "branch",
     "pr_title": null,
     "pr_number": null,
@@ -523,9 +523,9 @@
   },
   {
     "type": "CreateEvent",
-    "created_at": "2026-10-05T03:03:42Z",
+    "created_at": "2026-10-05T03:04:00Z",
     "action": null,
-    "ref": "dependabot/npm_and_yarn/electron-forge/cli-8.0.1",
+    "ref": "dependabot/npm_and_yarn/electron-44.5.1",
     "ref_type": "branch",
     "pr_title": null,
     "pr_number": null,
