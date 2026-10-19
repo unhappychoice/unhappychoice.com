@@ -33,7 +33,7 @@
     "release_name": "Release v0.12.1",
     "release_tag": "v0.12.1",
     "release_url": "https://github.com/unhappychoice/gitlogue/releases/tag/v0.12.1",
-    "commit_count": 0
+    "commit_count": null
   },
   {
     "type": "PushEvent",
