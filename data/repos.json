@@ -34,7 +34,7 @@
     "open_issues_count": 9,
     "archived": false,
     "pushed_at": "2026-10-17T15:05:27Z",
-    "updated_at": "2026-10-20T15:20:11Z",
+    "updated_at": "2026-10-20T19:34:58Z",
     "created_at": "2025-11-08T21:22:33Z",
     "og_image": "https://repository-images.githubusercontent.com/1092562478/b7704a1e-6920-40e7-b88a-fa8199773b33",
     "og_image_cached": "../data/og/unhappychoice__gitlogue.png"
@@ -67,12 +67,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1641,
+    "stargazers_count": 1640,
     "forks_count": 45,
     "open_issues_count": 16,
     "archived": false,
     "pushed_at": "2026-10-17T03:51:11Z",
-    "updated_at": "2026-10-20T02:30:36Z",
+    "updated_at": "2026-10-20T16:53:19Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
     "og_image_cached": "../data/og/unhappychoice__gittype.png"
@@ -99,12 +99,12 @@
       "zero-setup",
       "zero-setup-tools"
     ],
-    "stargazers_count": 259,
+    "stargazers_count": 258,
     "forks_count": 25,
     "open_issues_count": 13,
     "archived": false,
     "pushed_at": "2026-10-20T07:43:31Z",
-    "updated_at": "2026-10-19T11:35:54Z",
+    "updated_at": "2026-10-20T16:53:15Z",
     "created_at": "2025-07-13T09:59:58Z",
     "og_image": "https://repository-images.githubusercontent.com/1018903054/8fb0178c-80ed-43bf-a446-b419ee578b04",
     "og_image_cached": "../data/og/unhappychoice__mdts.png"
@@ -824,31 +824,6 @@
     "og_image_cached": "../data/og/irasutoya-tools__lita-irasutoya.png"
   },
   {
-    "name": "homebrew-tap",
-    "full_name": "unhappychoice/homebrew-tap",
-    "owner": "unhappychoice",
-    "description": "Homebrew formulae for unhappychoice's tools",
-    "html_url": "https://github.com/unhappychoice/homebrew-tap",
-    "homepage": null,
-    "language": "Ruby",
-    "topics": [
-      "formula",
-      "homebrew",
-      "homebrew-tap",
-      "macos",
-      "package-manager"
-    ],
-    "stargazers_count": 7,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-10-17T15:08:39Z",
-    "updated_at": "2026-10-17T15:08:43Z",
-    "created_at": "2025-08-31T06:36:59Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
-    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
-  },
-  {
     "name": "intercom_summary",
     "full_name": "unhappychoice/intercom_summary",
     "owner": "unhappychoice",
@@ -872,6 +847,31 @@
     "og_image_cached": "../data/og/unhappychoice__intercom_summary.png"
   },
   {
+    "name": "homebrew-tap",
+    "full_name": "unhappychoice/homebrew-tap",
+    "owner": "unhappychoice",
+    "description": "Homebrew formulae for unhappychoice's tools",
+    "html_url": "https://github.com/unhappychoice/homebrew-tap",
+    "homepage": null,
+    "language": "Ruby",
+    "topics": [
+      "formula",
+      "homebrew",
+      "homebrew-tap",
+      "macos",
+      "package-manager"
+    ],
+    "stargazers_count": 6,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-10-17T15:08:39Z",
+    "updated_at": "2026-10-20T16:53:20Z",
+    "created_at": "2025-08-31T06:36:59Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
+    "og_image_cached": "../data/og/unhappychoice__homebrew-tap.png"
+  },
+  {
     "name": "kotlin-github-example",
     "full_name": "unhappychoice/kotlin-github-example",
     "owner": "unhappychoice",
@@ -889,34 +889,6 @@
     "created_at": "2015-03-22T16:22:16Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/kotlin-github-example",
     "og_image_cached": "../data/og/unhappychoice__kotlin-github-example.png"
-  },
-  {
-    "name": "steam.unhappychoice.com",
-    "full_name": "unhappychoice/steam.unhappychoice.com",
-    "owner": "unhappychoice",
-    "description": null,
-    "html_url": "https://github.com/unhappychoice/steam.unhappychoice.com",
-    "homepage": "http://steam.unhappychoice.com",
-    "language": "HTML",
-    "topics": [
-      "gaming",
-      "html",
-      "portfolio",
-      "steam",
-      "steam-game",
-      "steam-profile",
-      "steam-stats",
-      "website"
-    ],
-    "stargazers_count": 4,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-10-20T02:26:48Z",
-    "updated_at": "2026-10-20T02:26:51Z",
-    "created_at": "2024-03-09T13:06:12Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/steam.unhappychoice.com",
-    "og_image_cached": "../data/og/unhappychoice__steam.unhappychoice.com.png"
   },
   {
     "name": "lintric",
@@ -1026,6 +998,34 @@
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
   },
   {
+    "name": "steam.unhappychoice.com",
+    "full_name": "unhappychoice/steam.unhappychoice.com",
+    "owner": "unhappychoice",
+    "description": null,
+    "html_url": "https://github.com/unhappychoice/steam.unhappychoice.com",
+    "homepage": "http://steam.unhappychoice.com",
+    "language": "HTML",
+    "topics": [
+      "gaming",
+      "html",
+      "portfolio",
+      "steam",
+      "steam-game",
+      "steam-profile",
+      "steam-stats",
+      "website"
+    ],
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-10-20T02:26:48Z",
+    "updated_at": "2026-10-20T16:52:15Z",
+    "created_at": "2024-03-09T13:06:12Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/steam.unhappychoice.com",
+    "og_image_cached": "../data/og/unhappychoice__steam.unhappychoice.com.png"
+  },
+  {
     "name": "unhappychoice.com",
     "full_name": "unhappychoice/unhappychoice.com",
     "owner": "unhappychoice",
@@ -1046,8 +1046,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-10-20T10:38:33Z",
-    "updated_at": "2026-10-20T10:38:37Z",
+    "pushed_at": "2026-10-20T15:29:03Z",
+    "updated_at": "2026-10-20T15:29:07Z",
     "created_at": "2025-07-23T19:30:13Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
@@ -1387,8 +1387,8 @@
     "forks_count": 0,
     "open_issues_count": 0,
     "archived": false,
-    "pushed_at": "2026-10-19T20:24:29Z",
-    "updated_at": "2026-10-19T20:24:34Z",
+    "pushed_at": "2026-10-20T18:59:46Z",
+    "updated_at": "2026-10-20T18:59:50Z",
     "created_at": "2026-04-05T03:39:09Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/weekly-report",
     "og_image_cached": "../data/og/unhappychoice__weekly-report.png"
