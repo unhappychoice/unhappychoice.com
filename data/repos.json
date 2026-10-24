@@ -67,12 +67,12 @@
       "typing-trainer",
       "typingtest"
     ],
-    "stargazers_count": 1645,
+    "stargazers_count": 1646,
     "forks_count": 46,
     "open_issues_count": 16,
     "archived": false,
     "pushed_at": "2026-10-21T14:27:43Z",
-    "updated_at": "2026-10-23T20:51:54Z",
+    "updated_at": "2026-10-24T06:18:13Z",
     "created_at": "2025-08-28T15:57:14Z",
     "og_image": "https://repository-images.githubusercontent.com/1046385861/5f25841f-a887-4d01-9b11-801c304d5aaa",
     "og_image_cached": "../data/og/unhappychoice__gittype.png"
@@ -998,6 +998,33 @@
     "og_image_cached": "../data/og/circleci-tools__CircleCI.png"
   },
   {
+    "name": "unhappychoice.com",
+    "full_name": "unhappychoice/unhappychoice.com",
+    "owner": "unhappychoice",
+    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
+    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
+    "homepage": "https://unhappychoice.com",
+    "language": "JavaScript",
+    "topics": [
+      "github-pages",
+      "html",
+      "oss-showcase",
+      "personal-website",
+      "portfolio",
+      "static-site",
+      "vanilla-js"
+    ],
+    "stargazers_count": 3,
+    "forks_count": 0,
+    "open_issues_count": 0,
+    "archived": false,
+    "pushed_at": "2026-10-24T02:29:03Z",
+    "updated_at": "2026-10-24T02:29:06Z",
+    "created_at": "2025-07-23T19:30:13Z",
+    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
+    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
+  },
+  {
     "name": "steam.unhappychoice.com",
     "full_name": "unhappychoice/steam.unhappychoice.com",
     "owner": "unhappychoice",
@@ -1024,33 +1051,6 @@
     "created_at": "2024-03-09T13:06:12Z",
     "og_image": "https://opengraph.githubassets.com/1/unhappychoice/steam.unhappychoice.com",
     "og_image_cached": "../data/og/unhappychoice__steam.unhappychoice.com.png"
-  },
-  {
-    "name": "unhappychoice.com",
-    "full_name": "unhappychoice/unhappychoice.com",
-    "owner": "unhappychoice",
-    "description": "Personal site of @unhappychoice: profile and OSS showcase, hourly-refreshed from the GitHub API.",
-    "html_url": "https://github.com/unhappychoice/unhappychoice.com",
-    "homepage": "https://unhappychoice.com",
-    "language": "JavaScript",
-    "topics": [
-      "github-pages",
-      "html",
-      "oss-showcase",
-      "personal-website",
-      "portfolio",
-      "static-site",
-      "vanilla-js"
-    ],
-    "stargazers_count": 3,
-    "forks_count": 0,
-    "open_issues_count": 0,
-    "archived": false,
-    "pushed_at": "2026-10-23T23:40:48Z",
-    "updated_at": "2026-10-23T23:40:52Z",
-    "created_at": "2025-07-23T19:30:13Z",
-    "og_image": "https://opengraph.githubassets.com/1/unhappychoice/unhappychoice.com",
-    "og_image_cached": "../data/og/unhappychoice__unhappychoice.com.png"
   },
   {
     "name": "slack_channel_stats",
