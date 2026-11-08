@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T03:18:46Z",
-  "total_repos": 52,
-  "total_stars": 8183,
-  "total_forks": 275,
+  "generated_at": "2026-11-08T10:56:18Z",
+  "total_repos": 51,
+  "total_stars": 6524,
+  "total_forks": 228,
   "archived_count": 11,
   "languages": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "language": "Rust",
-      "count": 7
+      "count": 6
     },
     {
       "language": "TypeScript",
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 40,
-      "stars": 7864
+      "repo_count": 39,
+      "stars": 6205
     },
     {
       "owner": "circleci-tools",
@@ -112,10 +112,6 @@
       "count": 5
     },
     {
-      "topic": "rust",
-      "count": 5
-    },
-    {
       "topic": "terminal",
       "count": 5
     },
@@ -145,6 +141,10 @@
     },
     {
       "topic": "gem",
+      "count": 4
+    },
+    {
+      "topic": "rust",
       "count": 4
     },
     {
