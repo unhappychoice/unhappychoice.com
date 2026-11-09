@@ -1,40 +1,28 @@
 {
-  "generated_at": "2026-11-09T00:18:21Z",
-  "total_repos": 52,
-  "total_stars": 8184,
-  "total_forks": 275,
-  "archived_count": 11,
+  "generated_at": "2026-11-09T07:34:43Z",
+  "total_repos": 21,
+  "total_stars": 7655,
+  "total_forks": 227,
+  "archived_count": 6,
   "languages": [
-    {
-      "language": "Ruby",
-      "count": 14
-    },
-    {
-      "language": "Kotlin",
-      "count": 8
-    },
-    {
-      "language": "Rust",
-      "count": 7
-    },
     {
       "language": "TypeScript",
       "count": 6
     },
     {
-      "language": "HTML",
+      "language": "Rust",
       "count": 4
+    },
+    {
+      "language": "Kotlin",
+      "count": 3
     },
     {
       "language": "Dockerfile",
       "count": 2
     },
     {
-      "language": "JavaScript",
-      "count": 2
-    },
-    {
-      "language": "Shell",
+      "language": "HTML",
       "count": 2
     },
     {
@@ -46,25 +34,20 @@
       "count": 1
     },
     {
-      "language": "Swift",
+      "language": "Ruby",
       "count": 1
     }
   ],
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 40,
-      "stars": 7865
+      "repo_count": 16,
+      "stars": 7440
     },
     {
       "owner": "circleci-tools",
-      "repo_count": 3,
-      "stars": 120
-    },
-    {
-      "owner": "bitflyer-tools",
-      "repo_count": 4,
-      "stars": 73
+      "repo_count": 2,
+      "stars": 116
     },
     {
       "owner": "kotlinz",
@@ -72,96 +55,96 @@
       "stars": 51
     },
     {
-      "owner": "irasutoya-tools",
-      "repo_count": 3,
-      "stars": 47
-    },
-    {
       "owner": "deariary",
       "repo_count": 1,
       "stars": 28
+    },
+    {
+      "owner": "bitflyer-tools",
+      "repo_count": 1,
+      "stars": 20
     }
   ],
   "top_topics": [
     {
       "topic": "cli",
-      "count": 12
-    },
-    {
-      "topic": "ruby",
-      "count": 10
-    },
-    {
-      "topic": "developer-tools",
       "count": 6
-    },
-    {
-      "topic": "kotlin",
-      "count": 6
-    },
-    {
-      "topic": "github-pages",
-      "count": 5
-    },
-    {
-      "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "library",
-      "count": 5
-    },
-    {
-      "topic": "rust",
-      "count": 5
-    },
-    {
-      "topic": "terminal",
-      "count": 5
     },
     {
       "topic": "typescript",
       "count": 5
     },
     {
-      "topic": "android",
+      "topic": "developer-tools",
       "count": 4
     },
     {
-      "topic": "bitcoin",
-      "count": 4
+      "topic": "cyclejs",
+      "count": 3
     },
     {
-      "topic": "bitflyer",
-      "count": 4
-    },
-    {
-      "topic": "blog",
-      "count": 4
-    },
-    {
-      "topic": "command-line",
-      "count": 4
-    },
-    {
-      "topic": "gem",
-      "count": 4
+      "topic": "rust",
+      "count": 3
     },
     {
       "topic": "websocket",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "circle-ci",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "circleci",
-      "count": 3
+      "count": 2
     },
     {
-      "topic": "command-line-tool",
-      "count": 3
+      "topic": "cli-tool",
+      "count": 2
+    },
+    {
+      "topic": "docker",
+      "count": 2
+    },
+    {
+      "topic": "dockerfile",
+      "count": 2
+    },
+    {
+      "topic": "frontend",
+      "count": 2
+    },
+    {
+      "topic": "github-pages",
+      "count": 2
+    },
+    {
+      "topic": "kotlin",
+      "count": 2
+    },
+    {
+      "topic": "library",
+      "count": 2
+    },
+    {
+      "topic": "markdown",
+      "count": 2
+    },
+    {
+      "topic": "preview",
+      "count": 2
+    },
+    {
+      "topic": "productivity",
+      "count": 2
+    },
+    {
+      "topic": "pusher",
+      "count": 2
+    },
+    {
+      "topic": "ratatui",
+      "count": 2
     }
   ]
 }
