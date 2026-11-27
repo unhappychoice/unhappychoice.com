@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T09:16:51Z",
-  "total_repos": 52,
-  "total_stars": 8233,
-  "total_forks": 280,
-  "archived_count": 11,
+  "generated_at": "2026-11-27T19:19:05Z",
+  "total_repos": 50,
+  "total_stars": 8219,
+  "total_forks": 278,
+  "archived_count": 10,
   "languages": [
     {
       "language": "Ruby",
-      "count": 14
+      "count": 13
     },
     {
       "language": "Kotlin",
@@ -18,11 +18,11 @@
       "count": 7
     },
     {
-      "language": "TypeScript",
-      "count": 5
+      "language": "HTML",
+      "count": 4
     },
     {
-      "language": "HTML",
+      "language": "TypeScript",
       "count": 4
     },
     {
@@ -53,8 +53,8 @@
   "by_owner": [
     {
       "owner": "unhappychoice",
-      "repo_count": 40,
-      "stars": 7913
+      "repo_count": 38,
+      "stars": 7899
     },
     {
       "owner": "circleci-tools",
@@ -104,23 +104,11 @@
       "count": 5
     },
     {
-      "topic": "image",
-      "count": 5
-    },
-    {
-      "topic": "library",
-      "count": 5
-    },
-    {
       "topic": "rust",
       "count": 5
     },
     {
       "topic": "terminal",
-      "count": 5
-    },
-    {
-      "topic": "typescript",
       "count": 5
     },
     {
@@ -145,6 +133,18 @@
     },
     {
       "topic": "gem",
+      "count": 4
+    },
+    {
+      "topic": "image",
+      "count": 4
+    },
+    {
+      "topic": "library",
+      "count": 4
+    },
+    {
+      "topic": "typescript",
       "count": 4
     },
     {
