@@ -48,5 +48,7 @@
   "unhappychoice/lifegame": "https://opengraph.githubassets.com/1/unhappychoice/lifegame",
   "unhappychoice/sinatra-authentication-example": "https://opengraph.githubassets.com/1/unhappychoice/sinatra-authentication-example",
   "unhappychoice/weekly-report": "https://opengraph.githubassets.com/1/unhappychoice/weekly-report",
-  "unhappychoice/homebrew-tap": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap"
+  "unhappychoice/homebrew-tap": "https://opengraph.githubassets.com/1/unhappychoice/homebrew-tap",
+  "unhappychoice/cycle-cropper": "https://opengraph.githubassets.com/1/unhappychoice/cycle-cropper",
+  "unhappychoice/lita-aws-cloudfront": "https://opengraph.githubassets.com/1/unhappychoice/lita-aws-cloudfront"
 }
